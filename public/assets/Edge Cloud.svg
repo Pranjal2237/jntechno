@@ -1,0 +1,1796 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 61.5 42.41" style="enable-background:new 0 0 61.5 42.41;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#01195B;}
+	.st1{fill:#012274;}
+	.st2{fill:#022880;}
+	.st3{fill:#002F92;}
+	.st4{fill:#0336AC;}
+	.st5{fill:#043DC5;}
+	.st6{fill:#0545DF;}
+	.st7{fill:#0084FF;}
+	.st8{fill:#80B7FF;}
+	.st9{fill:#9E4702;}
+	.st10{fill:#D15C02;}
+	.st11{fill:#FF6600;}
+	.st12{fill:#FF751A;}
+	.st13{fill:#FF8033;}
+	.st14{fill:#FF804D;}
+	.st15{fill:#FF9500;}
+	.st16{fill:#DED8D4;}
+	.st17{fill:#202834;}
+	.st18{fill:#342E39;}
+	.st19{fill:url(#SVGID_00000060031396617998176060000010360249286281544125_);}
+	.st20{opacity:0.7;fill:url(#SVGID_00000160163283258632502980000011545951391296620702_);}
+	.st21{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000023241233176833085460000010637441001144885889_);}
+	.st22{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000070824693078484826080000014956958404821577101_);}
+	.st23{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000127045151698570640710000005713380456913198724_);}
+	.st24{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000078020337534430416600000010531377172809907608_);}
+	.st25{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000031926955383807409300000013549818448727698093_);}
+	.st26{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000142898038589719480980000008399114064432791444_);}
+	.st27{fill:#FFFFFF;}
+	.st28{fill:#D6D6D6;}
+	.st29{enable-background:new    ;}
+	.st30{fill:none;stroke:#E5EBEF;}
+	.st31{fill:#FCFCFC;}
+	.st32{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st33{fill:#F1F2F2;}
+	.st34{fill:#E6E7E8;}
+	.st35{fill:#CDD2D7;}
+	.st36{fill:#F1F2F2;enable-background:new    ;}
+	.st37{opacity:0.8;fill:#333333;}
+	.st38{opacity:0.25;fill:#DFDFDF;enable-background:new    ;}
+	.st39{fill:#2A2A33;}
+	.st40{fill:#333333;}
+	.st41{opacity:0.895;fill:none;stroke:#8E8E8E;enable-background:new    ;}
+	.st42{opacity:0.905;fill:none;stroke:#8E8E8E;enable-background:new    ;}
+	.st43{fill:none;stroke:#333333;stroke-miterlimit:10;}
+	.st44{fill:#232323;}
+	.st45{fill:#FAF2F2;}
+	.st46{fill:none;stroke:#707070;}
+	.st47{fill:#EBE4E4;}
+	.st48{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st49{clip-path:url(#SVGID_00000150092497241139339310000013927026129929392799_);}
+	.st50{fill:url(#);}
+	.st51{clip-path:url(#SVGID_00000123415882652348549660000004644838713386410151_);}
+	.st52{clip-path:url(#SVGID_00000044880075987856198700000001000894307347978131_);}
+	.st53{fill:url(#Combined-Shape_00000155112749027447817120000016632484771551325070_);}
+	.st54{fill:url(#Shape_1_00000116226320486617941540000014055065176892231333_);}
+	.st55{fill:#646464;}
+	.st56{fill:#DFDFDF;}
+	.st57{fill:#FFFFFF;stroke:#D1D3D4;stroke-width:2;}
+	.st58{opacity:0.8;fill:url(#_12_00000137105750677706029460000003375964415017169839_);}
+	.st59{opacity:0.8;fill:url(#__00000137833933935789977620000008928975042186364843_);}
+	.st60{fill:#F8F7F7;}
+	.st61{fill:none;stroke:#DED8D4;stroke-width:2;stroke-miterlimit:10;}
+	.st62{fill:none;stroke:#DED8D4;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:21.1375,42.275,21.1375,21.1375;}
+	.st63{fill:none;stroke:#DED8D4;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:15.7369,31.4738,15.7369,15.7369;}
+	.st64{fill:#FFFFFF;stroke:#DED8D4;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:100,20,50;}
+	.st65{fill:#FFFFFF;stroke:#DED8D4;stroke-width:2;stroke-miterlimit:10;}
+	.st66{fill:#FFFFFF;stroke:#DED8D4;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:100,50,50;}
+	.st67{fill:#FFFFFF;stroke:#DED8D4;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:100,30,50;}
+	.st68{fill:none;stroke:#FFFFFF;stroke-width:0.75;stroke-miterlimit:10;}
+	.st69{fill:#EE7C00;}
+	.st70{fill:#1B215D;}
+	.st71{fill:none;stroke:#FF6600;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st72{clip-path:url(#SVGID_00000165915636823146360540000011024076005222356871_);}
+	.st73{fill:#008C99;}
+	.st74{clip-path:url(#SVGID_00000106123907146506062940000007691098498019953286_);}
+	.st75{fill:#FFAA00;}
+	.st76{clip-path:url(#SVGID_00000041285382015308790020000000696639365721819556_);}
+	.st77{clip-path:url(#SVGID_00000080200213744663780860000011987707269766182024_);}
+	.st78{fill:none;stroke:#FF6600;stroke-linecap:round;stroke-miterlimit:10;}
+	.st79{clip-path:url(#SVGID_00000088099120555310304060000009258929577384829072_);}
+	.st80{clip-path:url(#SVGID_00000047766438042447330720000013646529836768138117_);}
+	.st81{fill:#FFFFFF;stroke:#FF6600;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st82{fill:none;stroke:#FF6600;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st83{fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
+	.st84{opacity:0.4;}
+	.st85{fill:url(#SVGID_00000047746348498651216650000014869559085271497380_);}
+	.st86{fill:url(#SVGID_00000155147700947191193110000000035416639788463771_);}
+	.st87{fill:url(#SVGID_00000149371093170193284970000005774053193524750518_);}
+	.st88{fill:url(#SVGID_00000042004594587437925710000017342794649786679486_);}
+	.st89{fill:none;}
+	.st90{fill:#545454;}
+	.st91{fill:url(#SVGID_00000147201808569586309550000007170940598782744755_);}
+	.st92{fill:url(#SVGID_00000132089751797468449330000008159940099817458335_);}
+	.st93{fill:url(#SVGID_00000144320753204884496020000002179318704173423523_);}
+	.st94{fill:url(#SVGID_00000108993916020164004720000010204744657719810193_);}
+	.st95{fill:#002A58;}
+	.st96{fill:#031020;}
+	.st97{filter:url(#Adobe_OpacityMaskFilter);}
+	.st98{fill:url(#SVGID_00000077295489464055151760000010882639365802548871_);}
+	.st99{clip-path:url(#SVGID_00000013190275863554352890000000448802246939281057_);}
+	.st100{clip-path:url(#SVGID_00000038410604213535427000000011902995061539756458_);}
+	.st101{clip-path:url(#SVGID_00000048483970485663080190000012327446213143301559_);}
+	.st102{fill:#CD8439;}
+	.st103{fill:#E47400;}
+	.st104{fill:#F4932E;}
+	.st105{fill:#E48F1F;}
+	.st106{fill:#231F20;}
+	.st107{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st108{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st109{fill:#1B0B4A;}
+	.st110{fill:#0031BC;}
+	.st111{filter:url(#Adobe_OpacityMaskFilter_00000178910461743339894910000010699639020012746152_);}
+	.st112{fill:url(#SVGID_00000007418816756452515600000015970479447800305035_);}
+	.st113{opacity:0.4;fill:url(#SVGID_00000037680948165692318700000002190449340665825408_);}
+	.st114{fill:#182C47;}
+	.st115{fill:#020109;}
+	.st116{fill:#3D749D;}
+	.st117{fill:#050112;}
+	.st118{filter:url(#Adobe_OpacityMaskFilter_00000173154521479845700250000000348741751601263253_);}
+	.st119{fill:url(#SVGID_00000173142439271193828620000008265143364180285333_);}
+	.st120{opacity:0.4;fill:url(#SVGID_00000157296746389135258270000003752207755830584497_);}
+	.st121{opacity:0.8;fill:#231F20;}
+	.st122{opacity:0.7;}
+	
+		.st123{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#264498;}
+	
+		.st124{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#254599;}
+	
+		.st125{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#24469A;}
+	
+		.st126{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#25479A;}
+	
+		.st127{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#24499B;}
+	
+		.st128{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#234A9C;}
+	
+		.st129{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#224B9D;}
+	
+		.st130{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#214C9D;}
+	
+		.st131{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#234D9E;}
+	
+		.st132{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#224E9F;}
+	
+		.st133{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#214FA0;}
+	
+		.st134{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#1F50A0;}
+	
+		.st135{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#2151A1;}
+	
+		.st136{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#2052A2;}
+	
+		.st137{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#1E53A3;}
+	
+		.st138{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#1D54A4;}
+	
+		.st139{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#1C55A4;}
+	
+		.st140{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#1D56A5;}
+	
+		.st141{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#1C57A6;}
+	
+		.st142{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#1A59A7;}
+	
+		.st143{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#195AA7;}
+	
+		.st144{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#175BA8;}
+	
+		.st145{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#195CA9;}
+	
+		.st146{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#175DAA;}
+	
+		.st147{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#155EAB;}
+	
+		.st148{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#135FAB;}
+	
+		.st149{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#1060AC;}
+	
+		.st150{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#1361AD;}
+	
+		.st151{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#1062AE;}
+	
+		.st152{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0D63AE;}
+	
+		.st153{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0A64AF;}
+	
+		.st154{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0665B0;}
+	
+		.st155{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0966B1;}
+	
+		.st156{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0667B1;}
+	
+		.st157{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0268B2;}
+	
+		.st158{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0069B3;}
+	
+		.st159{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#016AB4;}
+	
+		.st160{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#006BB5;}
+	
+		.st161{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#006CB5;}
+	
+		.st162{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#006DB6;}
+	
+		.st163{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#006EB7;}
+	
+		.st164{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0070B8;}
+	
+		.st165{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0071B8;}
+	
+		.st166{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0072B9;}
+	
+		.st167{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0073BA;}
+	
+		.st168{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0074BB;}
+	
+		.st169{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0075BB;}
+	
+		.st170{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0076BC;}
+	
+		.st171{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0077BD;}
+	
+		.st172{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0078BE;}
+	
+		.st173{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0079BF;}
+	
+		.st174{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#007ABF;}
+	
+		.st175{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#007BC0;}
+	
+		.st176{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#007DC1;}
+	
+		.st177{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#007EC2;}
+	
+		.st178{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#007FC2;}
+	
+		.st179{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0080C3;}
+	
+		.st180{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0080C4;}
+	
+		.st181{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0081C5;}
+	
+		.st182{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0082C6;}
+	
+		.st183{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0083C6;}
+	
+		.st184{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0084C7;}
+	
+		.st185{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0085C8;}
+	
+		.st186{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0086C9;}
+	
+		.st187{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0087C8;}
+	
+		.st188{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0088C9;}
+	
+		.st189{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0089CA;}
+	
+		.st190{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#008ACB;}
+	
+		.st191{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#008BCB;}
+	
+		.st192{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#008CCC;}
+	
+		.st193{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#008DCD;}
+	
+		.st194{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#008ECE;}
+	
+		.st195{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#008FCF;}
+	
+		.st196{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0090CF;}
+	
+		.st197{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0091D0;}
+	
+		.st198{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0092D1;}
+	
+		.st199{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0093D2;}
+	
+		.st200{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0094D2;}
+	
+		.st201{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0095D3;}
+	
+		.st202{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0096D4;}
+	
+		.st203{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0097D5;}
+	
+		.st204{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0098D5;}
+	
+		.st205{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#0099D6;}
+	
+		.st206{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#009AD7;}
+	
+		.st207{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#009BD8;}
+	
+		.st208{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#009CD9;}
+	
+		.st209{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#009DD9;}
+	
+		.st210{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#009EDA;}
+	
+		.st211{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#009FDB;}
+	
+		.st212{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A0DC;}
+	
+		.st213{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A1DC;}
+	
+		.st214{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A2DD;}
+	
+		.st215{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A4DE;}
+	
+		.st216{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A4DF;}
+	
+		.st217{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A6E0;}
+	
+		.st218{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A7E0;}
+	
+		.st219{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A8E1;}
+	
+		.st220{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A9E2;}
+	
+		.st221{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#00AAE3;}
+	
+		.st222{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#00ABE3;}
+	
+		.st223{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#00ACE4;}
+	
+		.st224{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#00ADE5;}
+	
+		.st225{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#00AEE6;}
+	
+		.st226{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#00AFE6;}
+	
+		.st227{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#00B0E7;}
+	
+		.st228{clip-path:url(#SVGID_00000167353839302561246400000004139658438000702387_);fill-rule:evenodd;clip-rule:evenodd;fill:#00B0E8;}
+	
+		.st229{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#303993;}
+	
+		.st230{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2F3B94;}
+	
+		.st231{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2F3C94;}
+	
+		.st232{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#303D95;}
+	
+		.st233{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2F3E96;}
+	
+		.st234{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2F3F97;}
+	
+		.st235{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2E4097;}
+	
+		.st236{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2E4198;}
+	
+		.st237{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2D4299;}
+	
+		.st238{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2E439A;}
+	
+		.st239{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2D449A;}
+	
+		.st240{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2D459B;}
+	
+		.st241{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2C469C;}
+	
+		.st242{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2B479D;}
+	
+		.st243{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2A499D;}
+	
+		.st244{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2C4A9E;}
+	
+		.st245{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2B4B9F;}
+	
+		.st246{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2A4CA0;}
+	
+		.st247{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#294DA0;}
+	
+		.st248{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#284EA1;}
+	
+		.st249{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#274FA2;}
+	
+		.st250{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2950A3;}
+	
+		.st251{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2851A3;}
+	
+		.st252{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2752A4;}
+	
+		.st253{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2653A5;}
+	
+		.st254{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2554A6;}
+	
+		.st255{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2655A6;}
+	
+		.st256{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2556A7;}
+	
+		.st257{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2457A8;}
+	
+		.st258{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#2359A9;}
+	
+		.st259{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#225AA9;}
+	
+		.st260{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#205BAA;}
+	
+		.st261{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#225CAB;}
+	
+		.st262{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#205DAC;}
+	
+		.st263{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#1F5EAC;}
+	
+		.st264{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#1D5FAD;}
+	
+		.st265{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#1C60AE;}
+	
+		.st266{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#1A61AF;}
+	
+		.st267{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#1C62AF;}
+	
+		.st268{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#1A63B0;}
+	
+		.st269{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#1864B1;}
+	
+		.st270{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#1665B2;}
+	
+		.st271{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#1466B2;}
+	
+		.st272{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#1267B3;}
+	
+		.st273{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#1468B4;}
+	
+		.st274{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#1169B5;}
+	
+		.st275{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0E6AB5;}
+	
+		.st276{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0B6BB6;}
+	
+		.st277{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#076CB7;}
+	
+		.st278{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0A6DB8;}
+	
+		.st279{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#066EB8;}
+	
+		.st280{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0270B9;}
+	
+		.st281{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0071BA;}
+	
+		.st282{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0072BB;}
+	
+		.st283{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0073BB;}
+	
+		.st284{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0074BC;}
+	
+		.st285{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0075BD;}
+	
+		.st286{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0076BE;}
+	
+		.st287{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0078BE;}
+	
+		.st288{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0079BF;}
+	
+		.st289{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#007AC0;}
+	
+		.st290{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#007BC1;}
+	
+		.st291{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#007CC1;}
+	
+		.st292{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#007DC2;}
+	
+		.st293{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#007EC3;}
+	
+		.st294{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#007FC4;}
+	
+		.st295{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0080C4;}
+	
+		.st296{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0080C5;}
+	
+		.st297{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0081C6;}
+	
+		.st298{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0082C7;}
+	
+		.st299{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0083C7;}
+	
+		.st300{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0084C8;}
+	
+		.st301{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0085C9;}
+	
+		.st302{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0086CA;}
+	
+		.st303{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0087CA;}
+	
+		.st304{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0088CA;}
+	
+		.st305{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0089CB;}
+	
+		.st306{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#008ACC;}
+	
+		.st307{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#008BCC;}
+	
+		.st308{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#008CCD;}
+	
+		.st309{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#008DCE;}
+	
+		.st310{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#008ECF;}
+	
+		.st311{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#008FCF;}
+	
+		.st312{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0090D0;}
+	
+		.st313{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0091D1;}
+	
+		.st314{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0092D2;}
+	
+		.st315{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0093D2;}
+	
+		.st316{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0094D3;}
+	
+		.st317{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0095D4;}
+	
+		.st318{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0096D5;}
+	
+		.st319{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0097D5;}
+	
+		.st320{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0098D6;}
+	
+		.st321{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#0099D7;}
+	
+		.st322{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#009AD8;}
+	
+		.st323{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#009BD8;}
+	
+		.st324{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#009CD9;}
+	
+		.st325{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#009DDA;}
+	
+		.st326{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#009EDB;}
+	
+		.st327{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#009FDB;}
+	
+		.st328{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A0DC;}
+	
+		.st329{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A1DD;}
+	
+		.st330{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A2DE;}
+	
+		.st331{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A4DE;}
+	
+		.st332{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A4DF;}
+	
+		.st333{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A6E0;}
+	
+		.st334{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A7E1;}
+	
+		.st335{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A8E1;}
+	
+		.st336{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A9E2;}
+	
+		.st337{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#00AAE3;}
+	
+		.st338{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#00ABE4;}
+	
+		.st339{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#00ACE4;}
+	
+		.st340{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#00ADE5;}
+	
+		.st341{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#00AEE6;}
+	
+		.st342{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#00AFE7;}
+	
+		.st343{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#00B0E7;}
+	
+		.st344{clip-path:url(#SVGID_00000089546396238607509110000010873485995400439981_);fill-rule:evenodd;clip-rule:evenodd;fill:#00B0E8;}
+	
+		.st345{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#264498;}
+	
+		.st346{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#254599;}
+	
+		.st347{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#24469A;}
+	
+		.st348{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#25479A;}
+	
+		.st349{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#24499B;}
+	
+		.st350{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#234A9C;}
+	
+		.st351{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#224B9D;}
+	
+		.st352{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#214C9D;}
+	
+		.st353{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#234D9E;}
+	
+		.st354{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#224E9F;}
+	
+		.st355{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#214FA0;}
+	
+		.st356{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#1F50A0;}
+	
+		.st357{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#2151A1;}
+	
+		.st358{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#2052A2;}
+	
+		.st359{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#1E53A3;}
+	
+		.st360{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#1D54A4;}
+	
+		.st361{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#1C55A4;}
+	
+		.st362{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#1D56A5;}
+	
+		.st363{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#1C57A6;}
+	
+		.st364{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#1A59A7;}
+	
+		.st365{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#195AA7;}
+	
+		.st366{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#175BA8;}
+	
+		.st367{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#195CA9;}
+	
+		.st368{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#175DAA;}
+	
+		.st369{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#155EAB;}
+	
+		.st370{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#135FAB;}
+	
+		.st371{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#1060AC;}
+	
+		.st372{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#1361AD;}
+	
+		.st373{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#1062AE;}
+	
+		.st374{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0D63AE;}
+	
+		.st375{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0A64AF;}
+	
+		.st376{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0665B0;}
+	
+		.st377{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0966B1;}
+	
+		.st378{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0667B1;}
+	
+		.st379{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0268B2;}
+	
+		.st380{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0069B3;}
+	
+		.st381{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#016AB4;}
+	
+		.st382{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#006BB5;}
+	
+		.st383{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#006CB5;}
+	
+		.st384{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#006DB6;}
+	
+		.st385{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#006EB7;}
+	
+		.st386{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0070B8;}
+	
+		.st387{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0071B8;}
+	
+		.st388{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0072B9;}
+	
+		.st389{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0073BA;}
+	
+		.st390{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0074BB;}
+	
+		.st391{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0075BB;}
+	
+		.st392{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0076BC;}
+	
+		.st393{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0077BD;}
+	
+		.st394{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0078BE;}
+	
+		.st395{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0079BF;}
+	
+		.st396{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#007ABF;}
+	
+		.st397{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#007BC0;}
+	
+		.st398{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#007DC1;}
+	
+		.st399{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#007EC2;}
+	
+		.st400{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#007FC2;}
+	
+		.st401{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0080C3;}
+	
+		.st402{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0080C4;}
+	
+		.st403{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0081C5;}
+	
+		.st404{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0082C6;}
+	
+		.st405{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0083C6;}
+	
+		.st406{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0084C7;}
+	
+		.st407{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0085C8;}
+	
+		.st408{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0086C9;}
+	
+		.st409{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0087C8;}
+	
+		.st410{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0088C9;}
+	
+		.st411{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0089CA;}
+	
+		.st412{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#008ACB;}
+	
+		.st413{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#008BCB;}
+	
+		.st414{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#008CCC;}
+	
+		.st415{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#008DCD;}
+	
+		.st416{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#008ECE;}
+	
+		.st417{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#008FCF;}
+	
+		.st418{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0090CF;}
+	
+		.st419{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0091D0;}
+	
+		.st420{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0092D1;}
+	
+		.st421{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0093D2;}
+	
+		.st422{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0094D2;}
+	
+		.st423{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0095D3;}
+	
+		.st424{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0096D4;}
+	
+		.st425{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0097D5;}
+	
+		.st426{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0098D5;}
+	
+		.st427{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#0099D6;}
+	
+		.st428{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#009AD7;}
+	
+		.st429{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#009BD8;}
+	
+		.st430{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#009CD9;}
+	
+		.st431{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#009DD9;}
+	
+		.st432{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#009EDA;}
+	
+		.st433{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#009FDB;}
+	
+		.st434{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A0DC;}
+	
+		.st435{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A1DC;}
+	
+		.st436{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A2DD;}
+	
+		.st437{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A4DE;}
+	
+		.st438{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A4DF;}
+	
+		.st439{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A6E0;}
+	
+		.st440{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A7E0;}
+	
+		.st441{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A8E1;}
+	
+		.st442{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A9E2;}
+	
+		.st443{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#00AAE3;}
+	
+		.st444{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#00ABE3;}
+	
+		.st445{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#00ACE4;}
+	
+		.st446{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#00ADE5;}
+	
+		.st447{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#00AEE6;}
+	
+		.st448{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#00AFE6;}
+	
+		.st449{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#00B0E7;}
+	
+		.st450{clip-path:url(#SVGID_00000157992585955351880100000018401820038336354473_);fill-rule:evenodd;clip-rule:evenodd;fill:#00B0E8;}
+	
+		.st451{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#264498;}
+	
+		.st452{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#254599;}
+	
+		.st453{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#24469A;}
+	
+		.st454{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#25479A;}
+	
+		.st455{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#24499B;}
+	
+		.st456{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#234A9C;}
+	
+		.st457{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#224B9D;}
+	
+		.st458{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#214C9D;}
+	
+		.st459{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#234D9E;}
+	
+		.st460{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#224E9F;}
+	
+		.st461{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#214FA0;}
+	
+		.st462{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#1F50A0;}
+	
+		.st463{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#2151A1;}
+	
+		.st464{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#2052A2;}
+	
+		.st465{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#1E53A3;}
+	
+		.st466{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#1D54A4;}
+	
+		.st467{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#1C55A4;}
+	
+		.st468{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#1D56A5;}
+	
+		.st469{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#1C57A6;}
+	
+		.st470{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#1A59A7;}
+	
+		.st471{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#195AA7;}
+	
+		.st472{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#175BA8;}
+	
+		.st473{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#195CA9;}
+	
+		.st474{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#175DAA;}
+	
+		.st475{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#155EAB;}
+	
+		.st476{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#135FAB;}
+	
+		.st477{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#1060AC;}
+	
+		.st478{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#1361AD;}
+	
+		.st479{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#1062AE;}
+	
+		.st480{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0D63AE;}
+	
+		.st481{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0A64AF;}
+	
+		.st482{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0665B0;}
+	
+		.st483{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0966B1;}
+	
+		.st484{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0667B1;}
+	
+		.st485{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0268B2;}
+	
+		.st486{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0069B3;}
+	
+		.st487{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#016AB4;}
+	
+		.st488{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#006BB5;}
+	
+		.st489{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#006CB5;}
+	
+		.st490{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#006DB6;}
+	
+		.st491{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#006EB7;}
+	
+		.st492{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0070B8;}
+	
+		.st493{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0071B8;}
+	
+		.st494{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0072B9;}
+	
+		.st495{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0073BA;}
+	
+		.st496{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0074BB;}
+	
+		.st497{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0075BB;}
+	
+		.st498{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0076BC;}
+	
+		.st499{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0077BD;}
+	
+		.st500{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0078BE;}
+	
+		.st501{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0079BF;}
+	
+		.st502{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#007ABF;}
+	
+		.st503{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#007BC0;}
+	
+		.st504{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#007DC1;}
+	
+		.st505{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#007EC2;}
+	
+		.st506{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#007FC2;}
+	
+		.st507{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0080C3;}
+	
+		.st508{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0080C4;}
+	
+		.st509{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0081C5;}
+	
+		.st510{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0082C6;}
+	
+		.st511{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0083C6;}
+	
+		.st512{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0084C7;}
+	
+		.st513{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0085C8;}
+	
+		.st514{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0086C9;}
+	
+		.st515{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0087C8;}
+	
+		.st516{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0088C9;}
+	
+		.st517{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0089CA;}
+	
+		.st518{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#008ACB;}
+	
+		.st519{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#008BCB;}
+	
+		.st520{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#008CCC;}
+	
+		.st521{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#008DCD;}
+	
+		.st522{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#008ECE;}
+	
+		.st523{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#008FCF;}
+	
+		.st524{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0090CF;}
+	
+		.st525{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0091D0;}
+	
+		.st526{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0092D1;}
+	
+		.st527{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0093D2;}
+	
+		.st528{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0094D2;}
+	
+		.st529{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0095D3;}
+	
+		.st530{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0096D4;}
+	
+		.st531{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0097D5;}
+	
+		.st532{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0098D5;}
+	
+		.st533{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#0099D6;}
+	
+		.st534{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#009AD7;}
+	
+		.st535{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#009BD8;}
+	
+		.st536{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#009CD9;}
+	
+		.st537{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#009DD9;}
+	
+		.st538{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#009EDA;}
+	
+		.st539{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#009FDB;}
+	
+		.st540{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A0DC;}
+	
+		.st541{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A1DC;}
+	
+		.st542{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A2DD;}
+	
+		.st543{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A4DE;}
+	
+		.st544{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A4DF;}
+	
+		.st545{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A6E0;}
+	
+		.st546{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A7E0;}
+	
+		.st547{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A8E1;}
+	
+		.st548{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A9E2;}
+	
+		.st549{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#00AAE3;}
+	
+		.st550{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#00ABE3;}
+	
+		.st551{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#00ACE4;}
+	
+		.st552{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#00ADE5;}
+	
+		.st553{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#00AEE6;}
+	
+		.st554{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#00AFE6;}
+	
+		.st555{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#00B0E7;}
+	
+		.st556{clip-path:url(#SVGID_00000016768581437184396300000016834139904915991700_);fill-rule:evenodd;clip-rule:evenodd;fill:#00B0E8;}
+	
+		.st557{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#264498;}
+	
+		.st558{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#254599;}
+	
+		.st559{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#24469A;}
+	
+		.st560{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#25479A;}
+	
+		.st561{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#24499B;}
+	
+		.st562{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#234A9C;}
+	
+		.st563{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#224B9D;}
+	
+		.st564{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#214C9D;}
+	
+		.st565{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#234D9E;}
+	
+		.st566{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#224E9F;}
+	
+		.st567{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#214FA0;}
+	
+		.st568{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#1F50A0;}
+	
+		.st569{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#2151A1;}
+	
+		.st570{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#2052A2;}
+	
+		.st571{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#1E53A3;}
+	
+		.st572{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#1D54A4;}
+	
+		.st573{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#1C55A4;}
+	
+		.st574{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#1D56A5;}
+	
+		.st575{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#1C57A6;}
+	
+		.st576{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#1A59A7;}
+	
+		.st577{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#195AA7;}
+	
+		.st578{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#175BA8;}
+	
+		.st579{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#195CA9;}
+	
+		.st580{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#175DAA;}
+	
+		.st581{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#155EAB;}
+	
+		.st582{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#135FAB;}
+	
+		.st583{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#1060AC;}
+	
+		.st584{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#1361AD;}
+	
+		.st585{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#1062AE;}
+	
+		.st586{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0D63AE;}
+	
+		.st587{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0A64AF;}
+	
+		.st588{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0665B0;}
+	
+		.st589{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0966B1;}
+	
+		.st590{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0667B1;}
+	
+		.st591{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0268B2;}
+	
+		.st592{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0069B3;}
+	
+		.st593{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#016AB4;}
+	
+		.st594{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#006BB5;}
+	
+		.st595{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#006CB5;}
+	
+		.st596{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#006DB6;}
+	
+		.st597{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#006EB7;}
+	
+		.st598{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0070B8;}
+	
+		.st599{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0071B8;}
+	
+		.st600{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0072B9;}
+	
+		.st601{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0073BA;}
+	
+		.st602{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0074BB;}
+	
+		.st603{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0075BB;}
+	
+		.st604{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0076BC;}
+	
+		.st605{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0077BD;}
+	
+		.st606{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0078BE;}
+	
+		.st607{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0079BF;}
+	
+		.st608{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#007ABF;}
+	
+		.st609{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#007BC0;}
+	
+		.st610{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#007DC1;}
+	
+		.st611{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#007EC2;}
+	
+		.st612{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#007FC2;}
+	
+		.st613{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0080C3;}
+	
+		.st614{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0080C4;}
+	
+		.st615{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0081C5;}
+	
+		.st616{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0082C6;}
+	
+		.st617{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0083C6;}
+	
+		.st618{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0084C7;}
+	
+		.st619{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0085C8;}
+	
+		.st620{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0086C9;}
+	
+		.st621{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0087C8;}
+	
+		.st622{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0088C9;}
+	
+		.st623{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0089CA;}
+	
+		.st624{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#008ACB;}
+	
+		.st625{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#008BCB;}
+	
+		.st626{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#008CCC;}
+	
+		.st627{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#008DCD;}
+	
+		.st628{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#008ECE;}
+	
+		.st629{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#008FCF;}
+	
+		.st630{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0090CF;}
+	
+		.st631{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0091D0;}
+	
+		.st632{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0092D1;}
+	
+		.st633{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0093D2;}
+	
+		.st634{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0094D2;}
+	
+		.st635{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0095D3;}
+	
+		.st636{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0096D4;}
+	
+		.st637{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0097D5;}
+	
+		.st638{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0098D5;}
+	
+		.st639{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#0099D6;}
+	
+		.st640{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#009AD7;}
+	
+		.st641{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#009BD8;}
+	
+		.st642{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#009CD9;}
+	
+		.st643{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#009DD9;}
+	
+		.st644{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#009EDA;}
+	
+		.st645{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#009FDB;}
+	
+		.st646{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A0DC;}
+	
+		.st647{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A1DC;}
+	
+		.st648{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A2DD;}
+	
+		.st649{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A4DE;}
+	
+		.st650{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A4DF;}
+	
+		.st651{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A6E0;}
+	
+		.st652{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A7E0;}
+	
+		.st653{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A8E1;}
+	
+		.st654{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A9E2;}
+	
+		.st655{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#00AAE3;}
+	
+		.st656{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#00ABE3;}
+	
+		.st657{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#00ACE4;}
+	
+		.st658{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#00ADE5;}
+	
+		.st659{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#00AEE6;}
+	
+		.st660{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#00AFE6;}
+	
+		.st661{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#00B0E7;}
+	
+		.st662{clip-path:url(#SVGID_00000155104278733020126500000002756476825097802935_);fill-rule:evenodd;clip-rule:evenodd;fill:#00B0E8;}
+	
+		.st663{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#264498;}
+	
+		.st664{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#254599;}
+	
+		.st665{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#24469A;}
+	
+		.st666{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#25479A;}
+	
+		.st667{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#24499B;}
+	
+		.st668{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#234A9C;}
+	
+		.st669{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#224B9D;}
+	
+		.st670{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#214C9D;}
+	
+		.st671{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#234D9E;}
+	
+		.st672{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#224E9F;}
+	
+		.st673{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#214FA0;}
+	
+		.st674{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#1F50A0;}
+	
+		.st675{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#2151A1;}
+	
+		.st676{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#2052A2;}
+	
+		.st677{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#1E53A3;}
+	
+		.st678{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#1D54A4;}
+	
+		.st679{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#1C55A4;}
+	
+		.st680{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#1D56A5;}
+	
+		.st681{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#1C57A6;}
+	
+		.st682{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#1A59A7;}
+	
+		.st683{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#195AA7;}
+	
+		.st684{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#175BA8;}
+	
+		.st685{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#195CA9;}
+	
+		.st686{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#175DAA;}
+	
+		.st687{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#155EAB;}
+	
+		.st688{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#135FAB;}
+	
+		.st689{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#1060AC;}
+	
+		.st690{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#1361AD;}
+	
+		.st691{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#1062AE;}
+	
+		.st692{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0D63AE;}
+	
+		.st693{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0A64AF;}
+	
+		.st694{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0665B0;}
+	
+		.st695{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0966B1;}
+	
+		.st696{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0667B1;}
+	
+		.st697{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0268B2;}
+	
+		.st698{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0069B3;}
+	
+		.st699{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#016AB4;}
+	
+		.st700{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#006BB5;}
+	
+		.st701{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#006CB5;}
+	
+		.st702{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#006DB6;}
+	
+		.st703{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#006EB7;}
+	
+		.st704{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0070B8;}
+	
+		.st705{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0071B8;}
+	
+		.st706{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0072B9;}
+	
+		.st707{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0073BA;}
+	
+		.st708{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0074BB;}
+	
+		.st709{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0075BB;}
+	
+		.st710{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0076BC;}
+	
+		.st711{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0077BD;}
+	
+		.st712{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0078BE;}
+	
+		.st713{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0079BF;}
+	
+		.st714{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#007ABF;}
+	
+		.st715{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#007BC0;}
+	
+		.st716{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#007DC1;}
+	
+		.st717{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#007EC2;}
+	
+		.st718{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#007FC2;}
+	
+		.st719{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0080C3;}
+	
+		.st720{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0080C4;}
+	
+		.st721{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0081C5;}
+	
+		.st722{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0082C6;}
+	
+		.st723{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0083C6;}
+	
+		.st724{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0084C7;}
+	
+		.st725{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0085C8;}
+	
+		.st726{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0086C9;}
+	
+		.st727{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0087C8;}
+	
+		.st728{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0088C9;}
+	
+		.st729{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0089CA;}
+	
+		.st730{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#008ACB;}
+	
+		.st731{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#008BCB;}
+	
+		.st732{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#008CCC;}
+	
+		.st733{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#008DCD;}
+	
+		.st734{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#008ECE;}
+	
+		.st735{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#008FCF;}
+	
+		.st736{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0090CF;}
+	
+		.st737{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0091D0;}
+	
+		.st738{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0092D1;}
+	
+		.st739{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0093D2;}
+	
+		.st740{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0094D2;}
+	
+		.st741{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0095D3;}
+	
+		.st742{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0096D4;}
+	
+		.st743{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0097D5;}
+	
+		.st744{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0098D5;}
+	
+		.st745{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#0099D6;}
+	
+		.st746{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#009AD7;}
+	
+		.st747{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#009BD8;}
+	
+		.st748{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#009CD9;}
+	
+		.st749{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#009DD9;}
+	
+		.st750{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#009EDA;}
+	
+		.st751{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#009FDB;}
+	
+		.st752{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A0DC;}
+	
+		.st753{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A1DC;}
+	
+		.st754{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A2DD;}
+	
+		.st755{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A4DE;}
+	
+		.st756{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A4DF;}
+	
+		.st757{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A6E0;}
+	
+		.st758{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A7E0;}
+	
+		.st759{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A8E1;}
+	
+		.st760{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#00A9E2;}
+	
+		.st761{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#00AAE3;}
+	
+		.st762{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#00ABE3;}
+	
+		.st763{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#00ACE4;}
+	
+		.st764{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#00ADE5;}
+	
+		.st765{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#00AEE6;}
+	
+		.st766{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#00AFE6;}
+	
+		.st767{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#00B0E7;}
+	
+		.st768{clip-path:url(#SVGID_00000165933204514291903010000005500756504361372597_);fill-rule:evenodd;clip-rule:evenodd;fill:#00B0E8;}
+	.st769{fill:#FBB017;}
+	.st770{fill:#005AA8;}
+	
+		.st771{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC7701;}
+	
+		.st772{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC7900;}
+	
+		.st773{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC7B01;}
+	
+		.st774{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC7C00;}
+	
+		.st775{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD7E00;}
+	
+		.st776{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8001;}
+	
+		.st777{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8000;}
+	
+		.st778{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8201;}
+	
+		.st779{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD8400;}
+	
+		.st780{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD8500;}
+	
+		.st781{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8701;}
+	
+		.st782{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8800;}
+	
+		.st783{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD8900;}
+	
+		.st784{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD8B01;}
+	
+		.st785{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8C00;}
+	
+		.st786{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8D00;}
+	
+		.st787{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8F01;}
+	
+		.st788{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9001;}
+	
+		.st789{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9100;}
+	
+		.st790{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9200;}
+	
+		.st791{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9301;}
+	
+		.st792{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9500;}
+	
+		.st793{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9600;}
+	
+		.st794{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9700;}
+	
+		.st795{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9801;}
+	
+		.st796{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9900;}
+	
+		.st797{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9A00;}
+	
+		.st798{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9B00;}
+	
+		.st799{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9C01;}
+	
+		.st800{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9D01;}
+	
+		.st801{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9E00;}
+	
+		.st802{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9F00;}
+	
+		.st803{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FCA001;}
+	
+		.st804{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FCA101;}
+	
+		.st805{clip-path:url(#SVGID_00000153706643403127130100000016430841012522867121_);fill-rule:evenodd;clip-rule:evenodd;fill:#FCA200;}
+	
+		.st806{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC7701;}
+	
+		.st807{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC7900;}
+	
+		.st808{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC7B01;}
+	
+		.st809{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC7C00;}
+	
+		.st810{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD7E00;}
+	
+		.st811{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8001;}
+	
+		.st812{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8000;}
+	
+		.st813{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8201;}
+	
+		.st814{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD8400;}
+	
+		.st815{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD8500;}
+	
+		.st816{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8701;}
+	
+		.st817{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8800;}
+	
+		.st818{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD8900;}
+	
+		.st819{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD8B01;}
+	
+		.st820{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8C00;}
+	
+		.st821{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8D00;}
+	
+		.st822{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8F01;}
+	
+		.st823{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9001;}
+	
+		.st824{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9100;}
+	
+		.st825{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9200;}
+	
+		.st826{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9301;}
+	
+		.st827{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9500;}
+	
+		.st828{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9600;}
+	
+		.st829{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9700;}
+	
+		.st830{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9801;}
+	
+		.st831{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9900;}
+	
+		.st832{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9A00;}
+	
+		.st833{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9B00;}
+	
+		.st834{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9C01;}
+	
+		.st835{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9D01;}
+	
+		.st836{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9E00;}
+	
+		.st837{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9F00;}
+	
+		.st838{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FCA001;}
+	
+		.st839{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FCA101;}
+	
+		.st840{clip-path:url(#SVGID_00000027574072390036073830000008812794814080922814_);fill-rule:evenodd;clip-rule:evenodd;fill:#FCA200;}
+	
+		.st841{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC7701;}
+	
+		.st842{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC7900;}
+	
+		.st843{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC7B01;}
+	
+		.st844{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC7C00;}
+	
+		.st845{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD7E00;}
+	
+		.st846{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8001;}
+	
+		.st847{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8000;}
+	
+		.st848{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8201;}
+	
+		.st849{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD8400;}
+	
+		.st850{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD8500;}
+	
+		.st851{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8701;}
+	
+		.st852{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8800;}
+	
+		.st853{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD8900;}
+	
+		.st854{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD8B01;}
+	
+		.st855{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8C00;}
+	
+		.st856{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8D00;}
+	
+		.st857{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8F01;}
+	
+		.st858{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9001;}
+	
+		.st859{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9100;}
+	
+		.st860{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9200;}
+	
+		.st861{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9301;}
+	
+		.st862{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9500;}
+	
+		.st863{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9600;}
+	
+		.st864{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9700;}
+	
+		.st865{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9801;}
+	
+		.st866{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9900;}
+	
+		.st867{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9A00;}
+	
+		.st868{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9B00;}
+	
+		.st869{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9C01;}
+	
+		.st870{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9D01;}
+	
+		.st871{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9E00;}
+	
+		.st872{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9F00;}
+	
+		.st873{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FCA001;}
+	
+		.st874{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FCA101;}
+	
+		.st875{clip-path:url(#SVGID_00000119834053744014662370000000728230925219390089_);fill-rule:evenodd;clip-rule:evenodd;fill:#FCA200;}
+	
+		.st876{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC7701;}
+	
+		.st877{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC7900;}
+	
+		.st878{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC7B01;}
+	
+		.st879{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC7C00;}
+	
+		.st880{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD7E00;}
+	
+		.st881{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8001;}
+	
+		.st882{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8000;}
+	
+		.st883{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8201;}
+	
+		.st884{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD8400;}
+	
+		.st885{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD8500;}
+	
+		.st886{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8701;}
+	
+		.st887{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8800;}
+	
+		.st888{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD8900;}
+	
+		.st889{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD8B01;}
+	
+		.st890{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8C00;}
+	
+		.st891{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8D00;}
+	
+		.st892{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8F01;}
+	
+		.st893{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9001;}
+	
+		.st894{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9100;}
+	
+		.st895{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9200;}
+	
+		.st896{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9301;}
+	
+		.st897{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9500;}
+	
+		.st898{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9600;}
+	
+		.st899{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9700;}
+	
+		.st900{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9801;}
+	
+		.st901{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9900;}
+	
+		.st902{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9A00;}
+	
+		.st903{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9B00;}
+	
+		.st904{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9C01;}
+	
+		.st905{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9D01;}
+	
+		.st906{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9E00;}
+	
+		.st907{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9F00;}
+	
+		.st908{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FCA001;}
+	
+		.st909{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FCA101;}
+	
+		.st910{clip-path:url(#SVGID_00000042729398257737846470000010784575506430814338_);fill-rule:evenodd;clip-rule:evenodd;fill:#FCA200;}
+	
+		.st911{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC7701;}
+	
+		.st912{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC7900;}
+	
+		.st913{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC7B01;}
+	
+		.st914{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC7C00;}
+	
+		.st915{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD7E00;}
+	
+		.st916{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8001;}
+	
+		.st917{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8000;}
+	
+		.st918{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8201;}
+	
+		.st919{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD8400;}
+	
+		.st920{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD8500;}
+	
+		.st921{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8701;}
+	
+		.st922{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8800;}
+	
+		.st923{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD8900;}
+	
+		.st924{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD8B01;}
+	
+		.st925{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8C00;}
+	
+		.st926{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8D00;}
+	
+		.st927{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC8F01;}
+	
+		.st928{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9001;}
+	
+		.st929{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9100;}
+	
+		.st930{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9200;}
+	
+		.st931{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9301;}
+	
+		.st932{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9500;}
+	
+		.st933{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9600;}
+	
+		.st934{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9700;}
+	
+		.st935{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9801;}
+	
+		.st936{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9900;}
+	
+		.st937{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9A00;}
+	
+		.st938{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9B00;}
+	
+		.st939{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9C01;}
+	
+		.st940{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FD9D01;}
+	
+		.st941{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9E00;}
+	
+		.st942{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FC9F00;}
+	
+		.st943{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FCA001;}
+	
+		.st944{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FCA101;}
+	
+		.st945{clip-path:url(#SVGID_00000119095153339080934540000012543882850731750298_);fill-rule:evenodd;clip-rule:evenodd;fill:#FCA200;}
+	.st946{fill:#10151C;}
+	.st947{filter:url(#Adobe_OpacityMaskFilter_00000065076164412750321920000000556178661840640422_);}
+	.st948{fill:url(#SVGID_00000042721136588531539580000011604296405615057075_);}
+	.st949{filter:url(#Adobe_OpacityMaskFilter_00000180342930825485284930000002761908629138197928_);}
+	.st950{fill:url(#SVGID_00000048481998892220468480000004389176863560883350_);}
+	.st951{filter:url(#Adobe_OpacityMaskFilter_00000163066448678243771330000009253221991120881799_);}
+	.st952{fill:url(#SVGID_00000098182324491420229210000003837909914642808704_);}
+	.st953{opacity:0.75;fill:#031020;}
+</style>
+<g>
+	<path class="st71" d="M44.39,3.48h7.1c2.1,0,3.81,1.71,3.81,3.81v26.19"/>
+	<path class="st71" d="M6.2,33.48V7.29c0-2.1,1.71-3.81,3.81-3.81h5.74"/>
+	<path class="st71" d="M44.39,7.57h5.5c0.73,0,1.31,0.59,1.31,1.31v24.6"/>
+	<path class="st71" d="M10.3,33.48V8.88c0-0.73,0.59-1.31,1.31-1.31h4.14"/>
+	<path class="st71" d="M27.29,13.02c0.93-0.84,2.13-1.37,3.46-1.37c1.33,0,2.53,0.53,3.46,1.37"/>
+	<path class="st71" d="M23.56,9.16c1.88-1.83,4.41-2.96,7.19-2.96c2.78,0,5.31,1.13,7.19,2.96"/>
+	<path class="st71" d="M19.84,5.3c2.83-2.81,6.67-4.55,10.91-4.55c4.24,0,8.07,1.74,10.91,4.55"/>
+	<rect x="15.75" y="21.2" class="st71" width="6.82" height="5.45"/>
+	<rect x="26.66" y="21.2" class="st71" width="6.82" height="5.45"/>
+	<rect x="37.57" y="21.2" class="st71" width="6.82" height="5.45"/>
+	<path class="st71" d="M60.75,33.48h-60v4.89c0,1.82,1.47,3.29,3.29,3.29h53.41c1.82,0,3.29-1.47,3.29-3.29V33.48z"/>
+	<path class="st71" d="M22.57,33.48v2.35c0,0.96,0.78,1.74,1.74,1.74h12.89c0.96,0,1.74-0.78,1.74-1.74v-2.35"/>
+</g>
+</svg>

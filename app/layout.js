@@ -1,5 +1,8 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
+import Form from "@/components/forms";
+import Footer from "@/components/footer";
+import Navigation from "@/components/navigation";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -11,7 +14,34 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body>
+        <Navigation />
+        <main>{children}</main>
+        <div
+          style={{ background: "rgba(223, 223, 223, 1)", padding: "4rem 0" }}
+        >
+          <div
+            style={{
+              width: "1100px",
+              marginInline: "auto",
+              display: "grid",
+              gridTemplateColumns: "1fr 3fr",
+            }}
+          >
+            <h2
+              style={{
+                fontSize: "32px",
+                fontWeight: "600",
+                lineHeight: "35px",
+              }}
+            >
+              Talk To Our Experts
+            </h2>
+            <Form />
+          </div>
+        </div>
+        <Footer />
+      </body>
     </html>
   );
 }
