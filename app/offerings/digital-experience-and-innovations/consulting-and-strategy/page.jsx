@@ -1,6 +1,6 @@
 import Banner from '@/components/banner'
 import { blog } from '@/constant'
-import { consultingBanner, digital} from '@/public'
+import { consultingBanner, digital, graphics8} from '@/public'
 import Image from 'next/image'
 
 const page = () => {
@@ -67,7 +67,7 @@ const page = () => {
               alignItems: "center",
             }}
           >
-            <Image src={digital} style={{ width: "80%" }} />
+            <Image src={graphics8} style={{ width: "80%" }} />
           </div>
         </div>
       </div>

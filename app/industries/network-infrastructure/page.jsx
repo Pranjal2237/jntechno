@@ -1,7 +1,7 @@
 import Banner from "@/components/banner";
 import Active from "@/components/cards/active";
 import { blog, innovationOfferings, networkOfferings } from "@/constant";
-import { digital, networkBanner, terms } from "@/public";
+import { digital, graphics23, networkBanner, terms } from "@/public";
 import Image from "next/image";
 
 const page = () => {
@@ -73,7 +73,7 @@ const page = () => {
               alignItems: "center",
             }}
           >
-            <Image src={digital} style={{ width: "80%" }} />
+            <Image src={graphics23} style={{ width: "80%" }} />
           </div>
         </div>
       </div>

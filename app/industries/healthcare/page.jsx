@@ -5,6 +5,7 @@ import {
   abiBanner,
   careerBanner3,
   digital,
+  graphics21,
   healthcareBanner,
   terms,
 } from "@/public";
@@ -74,7 +75,7 @@ const page = () => {
               alignItems: "center",
             }}
           >
-            <Image src={digital} style={{ width: "80%" }} />
+            <Image src={graphics21} style={{ width: "80%" }} />
           </div>
         </div>
       </div>

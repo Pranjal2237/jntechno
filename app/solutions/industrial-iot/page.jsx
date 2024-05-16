@@ -7,6 +7,7 @@ import {
   qinsightBenifits2,
   qinsightBenifits3,
   qinsightBenifits4,
+  graphics26,
 } from "@/public";
 import Image from "next/image";
 
@@ -86,7 +87,7 @@ const page = () => {
               alignItems: "center",
             }}
           >
-            <Image src={digital} style={{ width: "60%" }} />
+            <Image src={graphics26} style={{ width: "60%" }} />
           </div>
         </div>
       </div>

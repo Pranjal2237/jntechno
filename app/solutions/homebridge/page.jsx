@@ -1,6 +1,6 @@
 import Banner from '@/components/banner'
 import { blog, homeBridgeOfferings } from '@/constant'
-import { digital, homeBanner9, qinsightBenifits1, qinsightBenifits2, qinsightBenifits3, qinsightBenifits4, terms } from '@/public'
+import { digital, graphics16, homeBanner9, qinsightBenifits1, qinsightBenifits2, qinsightBenifits3, qinsightBenifits4, terms } from '@/public'
 import Image from 'next/image'
 import React from 'react'
 
@@ -68,7 +68,7 @@ const page = () => {
               alignItems: "center",
             }}
           >
-            <Image src={digital} style={{ width: "60%" }} />
+            <Image src={graphics16} style={{ width: "60%" }} />
           </div>
         </div>
       </div>

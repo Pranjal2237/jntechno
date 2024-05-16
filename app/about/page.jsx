@@ -1,6 +1,6 @@
 import Banner from "@/components/banner";
 import { aboutDescriptionArr, aboutValuesArr } from "@/constant";
-import { aboutBanner, digital, qinsightBenifits1, terms } from "@/public";
+import { aboutBanner, digital, graphics35, qinsightBenifits1, terms } from "@/public";
 import Image from "next/image";
 import React from "react";
 qinsightBenifits1;
@@ -71,7 +71,7 @@ const page = () => {
               alignItems: "center",
             }}
           >
-            <Image src={digital} style={{ width: "60%" }} />
+            <Image src={graphics35} style={{ width: "60%" }} />
           </div>
         </div>
       </div>

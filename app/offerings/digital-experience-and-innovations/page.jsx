@@ -4,7 +4,7 @@ import Banner from "@/components/banner";
 import Active from "@/components/cards/active";
 import Carousel from "@/components/carousel";
 import { blog, digitalBannerCarousel, innovationOfferings } from "@/constant";
-import { digital, homeBanner9, innovationBanner2 } from "@/public";
+import { digital, graphics10, homeBanner9, innovationBanner2 } from "@/public";
 import Image from "next/image";
 
 const page = () => {
@@ -69,7 +69,7 @@ const page = () => {
               alignItems: "center",
             }}
           >
-            <Image src={digital} style={{ width: "80%" }} />
+            <Image src={graphics10} style={{ width: "80%" }} />
           </div>
         </div>
       </div>

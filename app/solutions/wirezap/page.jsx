@@ -1,5 +1,5 @@
 import Banner from "@/components/banner";
-import { digital, terms } from "@/public";
+import { digital, graphics30, graphics62, terms } from "@/public";
 import Image from "next/image";
 import React from "react";
 
@@ -69,7 +69,7 @@ const page = () => {
               alignItems: "center",
             }}
           >
-            <Image src={digital} style={{ width: "60%" }} />
+            <Image src={graphics30} style={{ width: "60%" }} />
           </div>
         </div>
       </div>

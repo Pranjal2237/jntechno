@@ -2,6 +2,7 @@ import Banner from "@/components/banner";
 import { blog, homeBridgeOfferings } from "@/constant";
 import {
   digital,
+  graphics13,
   homeBanner9,
   qinsightBenifits1,
   terms,
@@ -80,7 +81,7 @@ const page = () => {
               alignItems: "center",
             }}
           >
-            <Image src={digital} style={{ width: "60%" }} />
+            <Image src={graphics13} style={{ width: "60%" }} />
           </div>
         </div>
       </div>
