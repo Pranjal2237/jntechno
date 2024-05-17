@@ -1,15 +1,22 @@
 import Banner from "@/components/banner";
 import { blog } from "@/constant";
-import { digital, terms,qinsightBenifits1,qinsightBenifits2,qinsightBenifits3,qinsightBenifits4, graphics18 } from "@/public";
+import {
+  digital,
+  terms,
+  qinsightBenifits1,
+  qinsightBenifits2,
+  qinsightBenifits3,
+  qinsightBenifits4,
+  graphics18,
+} from "@/public";
 import Image from "next/image";
-
 
 const page = () => {
   return (
     <div>
       <Banner
         image={terms}
-        heading="Elevate Patient Experience with Healthcare IoT and Automation"
+        heading="Enhance Patient Care through Healthcare IoT and Automation."
         height="560px"
       />
       <div
@@ -46,30 +53,26 @@ const page = () => {
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "16px" }}>
             <p>
-              Digital transformation is the key to success in the modern
-              healthcare industry. Remote health monitoring and connected
-              medical devices have enhanced medical treatment efficiency,
-              precision, and consistency. Managing appointments, getting
-              healthcare notifications, and interacting with chatbots, the
-              healthcare sector is on the verge of being ‘smarter’ than ever.
-              Like other sectors, healthcare is entering the world of Artificial
-              Intelligence (AI) and chatbots, IoT, and advanced cloud-based
-              offerings. IoT solutions in healthcare are advantageous for
-              doctors, patients, and healthcare facilities, as they can have
-              real-time and remote access to a patient’s vital analysis and
-              data. Moreover, drug delivery systems are inching toward inhalers,
-              auto-injectors, IoT-enabled pumps, and insideables for diagnostic
-              and body function monitoring.
+              The digital revolution is vital in modern healthcare. Remote
+              monitoring and connected devices enhance treatment efficiency and
+              consistency. With AI, chatbots, IoT, and cloud solutions,
+              healthcare becomes smarter. IoT benefits doctors, patients, and
+              facilities with real-time data access. Drug delivery evolves with
+              inhalers, auto-injectors, IoT pumps, and insideables for
+              monitoring.
             </p>
             <p>
-              ACL Digital is a preferred healthcare solution partner for leading
-              healthcare system providers and medical device manufacturers. Our
-              highly qualified and experienced engineers have the necessary
-              experience in providing Smart healthcare solutions and
-              medical-grade HIPAA/FDA compliant solutions, including robotic
-              surgical equipment, medical diagnostic devices, drug delivery
-              systems, digital health systems, DNA analysis devices using
-              advanced and sophisticated technologies.
+              ACL Digital stands as the top choice healthcare solution partner
+              for prominent healthcare system providers and medical device
+              manufacturers. Our seasoned engineers possess the expertise to
+              deliver intelligent healthcare solutions and FDA-compliant
+              products. From robotic surgical tools to diagnostic devices and
+              drug delivery systems, we specialize in crafting cutting-edge
+              solutions. Our offerings extend to digital health systems and DNA
+              analysis devices, leveraging advanced technologies for precision
+              and efficiency. Trust ACL Digital for innovative, sophisticated,
+              and compliant healthcare solutions tailored to meet the evolving
+              needs of the industry.
             </p>
           </div>
           <div
@@ -86,45 +89,78 @@ const page = () => {
       </div>
       <div style={{ backgroundColor: "#004275", paddingBlock: "3rem" }}>
         <div style={{ width: "1100px", marginInline: "auto", color: "#fff" }}>
-            <h1 style={{ fontSize: "32px", fontWeight: "600" }}>Industry Requirements</h1>
-            <div style={{ display: "flex", gap: "2.5rem" }}>
-                <div style={{ flexBasis: "100%" }}>
-                    <div>
-                        <h2 style={{
-                  fontSize: "20px",
-                  fontWeight: "700",
-                  marginTop: "30px",
-                }}>Remote Medical Assistance</h2>
-                        <p style={{ marginBottom: "12px", fontSize: "18px" }}>Development of IoT solutions in healthcare to effortlessly monitor the data history and patient health by any remote devices including iOS or Android devices</p>
-                    </div>
-                    <div>
-                        <h2 style={{
-                  fontSize: "20px",
-                  fontWeight: "700",
-                  marginTop: "30px",
-                }}>Patient Vital Analysis</h2>
-                        <p style={{ marginBottom: "12px", fontSize: "18px" }}>Utilize Data Engineering on patient vitals and implement modern and innovative technologies on the cloud such as AI and ML to distinguish and recommend proactive health measures to each patient</p>
-                    </div>
-                </div>
-                <div style={{ flexBasis: "100%" }}>
-                    <div>
-                        <h2 style={{
-                  fontSize: "20px",
-                  fontWeight: "700",
-                  marginTop: "30px",
-                }}>IoT Adoption</h2>
-                        <p style={{ marginBottom: "12px", fontSize: "18px" }}>Transforming legacy health parameter monitoring devices into connected devices for better and superior diagnosis</p>
-                    </div>
-                    <div>
-                        <h2 style={{
-                  fontSize: "20px",
-                  fontWeight: "700",
-                  marginTop: "30px",
-                }}>Medical Regulation Compliance</h2>
-                        <p style={{ marginBottom: "12px", fontSize: "18px" }}>Delivering FDA and HIPAA healthcare guidelines and standards to make the solution compliant and reduce any unwanted risks</p>
-                    </div>
-                </div>
+          <h1 style={{ fontSize: "32px", fontWeight: "600" }}>
+            Industry Demands
+          </h1>
+          <div style={{ display: "flex", gap: "2.5rem" }}>
+            <div style={{ flexBasis: "100%" }}>
+              <div>
+                <h2
+                  style={{
+                    fontSize: "20px",
+                    fontWeight: "700",
+                    marginTop: "30px",
+                  }}
+                >
+                  Virtual Health Support
+                </h2>
+                <p style={{ marginBottom: "12px", fontSize: "18px" }}>
+                  Development of IoT solutions in healthcare to effortlessly
+                  monitor the data history and patient health by any remote
+                  devices including iOS or Android devices
+                </p>
+              </div>
+              <div>
+                <h2
+                  style={{
+                    fontSize: "20px",
+                    fontWeight: "700",
+                    marginTop: "30px",
+                  }}
+                >
+                  Vital Health Insights
+                </h2>
+                <p style={{ marginBottom: "12px", fontSize: "18px" }}>
+                  Leverage data engineering on patient vitals and use
+                  cutting-edge cloud technologies like AI and ML to identify and
+                  suggest proactive health measures for each patient.
+                </p>
+              </div>
             </div>
+            <div style={{ flexBasis: "100%" }}>
+              <div>
+                <h2
+                  style={{
+                    fontSize: "20px",
+                    fontWeight: "700",
+                    marginTop: "30px",
+                  }}
+                >
+                  IoT Integration
+                </h2>
+                <p style={{ marginBottom: "12px", fontSize: "18px" }}>
+                  make it plagarism free in 2 words and it should be cachy and
+                  attractive and use easy words and sound professional
+                </p>
+              </div>
+              <div>
+                <h2
+                  style={{
+                    fontSize: "20px",
+                    fontWeight: "700",
+                    marginTop: "30px",
+                  }}
+                >
+                  Healthcare Standards Adherence
+                </h2>
+                <p style={{ marginBottom: "12px", fontSize: "18px" }}>
+                  Implementing FDA and HIPAA guidelines to ensure compliance and
+                  minimize risks, delivering a secure and reliable healthcare
+                  solution.
+                </p>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
       <div className="qinsight-benifits-container">
@@ -152,10 +188,12 @@ const page = () => {
                   color: "#000000",
                 }}
               >
-                One-stop Service Provider
+                Comprehensive Service Provider
               </h2>
               <p style={{ fontSize: "18px", marginTop: "12px" }}>
-              ACL Digital excels at all stages of medical-grade device development, application development, testing, large-scale manufacturing, and cloud integration
+                ACL Digital excels in all facets of medical-grade device
+                development, app creation, testing, large-scale production, and
+                cloud integration, ensuring excellence throughout.
               </p>
             </div>
             <div style={{ flexBasis: "100%" }}>
@@ -170,10 +208,12 @@ const page = () => {
                   color: "#000000",
                 }}
               >
-                Regulatory Experience
+                Compliance Mastery
               </h2>
               <p style={{ fontSize: "18px", marginTop: "12px" }}>
-              Pre-compliance design and testing (HIPAA, FDA, IEC 62304, GDPR, ISO 14971, HITRUST NIST, HITRUST CSF, FHIR, EU-U.S. & Swiss-U.S. Privacy Shield, and IEC)
+                Thorough pre-compliance design and testing cover HIPAA, FDA,
+                GDPR, ISO standards, HITRUST, FHIR, and privacy regulations,
+                ensuring robust solutions.
               </p>
             </div>
           </div>
@@ -197,10 +237,12 @@ const page = () => {
                   color: "#000000",
                 }}
               >
-                Proven Domain Expertise
+                Established Industry Proficiency
               </h2>
               <p style={{ fontSize: "18px", marginTop: "12px" }}>
-              Deep knowledge and proven expertise in transforming legacy devices such as radiology apparatus, monitoring/diagnostic, respiratory, and endoscopy to smart ones
+                Extensive experience and expertise in upgrading older devices
+                like radiology, monitoring, respiratory, and endoscopy equipment
+                into intelligent, modern systems.
               </p>
             </div>
             <div style={{ flexBasis: "100%" }}>
@@ -218,7 +260,9 @@ const page = () => {
                 Collaboration
               </h2>
               <p style={{ fontSize: "18px", marginTop: "12px" }}>
-              A solid partnership with hardware and pre-complaint medical standard cloud platform providers to facilitate faster time to market
+                Established collaboration with hardware and pre-compliant
+                medical cloud platform providers to expedite time-to-market,
+                ensuring swift product launches.
               </p>
             </div>
           </div>

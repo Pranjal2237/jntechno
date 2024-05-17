@@ -74,6 +74,7 @@ import {
   offerings14,
   offerings16,
   offerings26,
+  qinsightBenifits1,
 } from "@/public";
 
 export const HomBannerCarousel = [
@@ -1376,21 +1377,87 @@ export const careerCarousel = [
 
 export const homeBridgeOfferings = [
   {
-    heading: "OEM Solution",
+    heading: "Custom Solutions",
     content:
-      "Customize Logo, Enclosure, Packaging and Connectivity options. So you can focus more on generating core business value for your customers",
+      "Tailor logo, enclosure, packaging, and connectivity options to focus on delivering core business value for your customers.",
   },
   {
-    heading: "Faster Time to Market",
+    heading: "Accelerate Market Entry",
     content:
-      "Customize Logo, Enclosure, Packaging and Connectivity options. So you can focus more on generating core business value for your customers",
+      "Personalize logos, enclosures, packaging, and connectivity options, allowing you to concentrate on delivering greater core business value to your customers.",
   },
   {
-    heading: "Lower Cost of Ownership",
+    heading: "Reduced Ownership Costs",
     content:
-      "Reduce cost of ownership by utilizing our ready-to-use cost-effective solution – minimal development cost, low production cost, low operating costs",
+      "Lower ownership costs with our ready-to-use, cost-effective solution, featuring minimal development expenses, low production costs, and reduced operating expenses.",
   },
 ];
+
+export const homebridgeFeatures=[
+  {
+    image:qinsightBenifits1,
+    heading:"Wireless Links",
+    description:"Connect via Zigbee, Bluetooth 5.0, Wi-Fi (802.11 b/g/n), Ethernet, or customize as needed."
+  },
+  {
+    image:qinsightBenifits1,
+    heading:"Robust Device and User Management",
+    description:"Supports multiple users, locations, and over 40 end devices per gateway."
+  },
+  {
+    image:qinsightBenifits1,
+    heading:"Top-tier IoT Cloud Integration",
+    description:"Choose from IoTify, Ayla, Evrythng, AWS IoT, or other tailored solutions."
+  },
+  {
+    image:qinsightBenifits1,
+    heading:"Mobile App for Both Platforms",
+    description:"Manage and oversee devices and sensors efficiently for seamless operations."
+  },
+  {
+    image:qinsightBenifits1,
+    heading:"Space-Saving Casing",
+    description:"Compact wall-mountable design: Dimensions (L x W x H) 55 mm x 55 mm x 50 mm.b"
+  },
+  {
+    image:qinsightBenifits1,
+    heading:"Gateway Software",
+    description:"Enable OTA updates, instant alerts, rule engine support, scene management, and seamless management of multiple gateway devices, plus additional features."
+  },
+  {
+    image:qinsightBenifits1,
+    heading:"Security",
+    description:"Ensure security with TLS 1.2, MQTT 3.1.1, and encryption at the database and hardware levels."
+  },
+  {
+    image:qinsightBenifits1,
+    heading:"OEM Solution",
+    description:"Tailor brand, casing, packaging, and certification options (CE/FCC/RoHS/UL available upon request) to suit your needs."
+  },
+]
+
+export const homebridgeApplications=[
+  {
+    image:qinsightBenifits1,
+    heading:"Intelligent Home Solutions",
+    description:"Manage Zigbee or BLE-enabled sensors remotely via cloud, voice assistant, or compatible home control protocols for seamless operation."
+  },
+  {
+    image:qinsightBenifits1,
+    heading:"Intelligent Healthcare",
+    description:"Link heart rate monitors, blood pressure cuffs, temperature gauges, air quality sensors, and more for immediate patient monitoring and care."
+  },
+  {
+    image:qinsightBenifits1,
+    heading:"Intelligent Illumination",
+    description:"Sync lights, switches, and sensors seamlessly with HomeBridge® and voice assistant services for enhanced home automation and control."
+  },
+  {
+    image:qinsightBenifits1,
+    heading:"Intelligent Asset Monitoring",
+    description:"Leverage Bluetooth Beacons using iBeacon or Eddystone protocols to develop a cost-effective tracking solution for various applications."
+  },
+]
 
 export const aboutDescriptionArr=[
   {

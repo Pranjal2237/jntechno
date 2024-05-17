@@ -54,30 +54,30 @@ const page = () => {
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "16px" }}>
             <p>
-              A truly connected home is no longer a figment of imagination but a
-              proper functioning reality. The number of connected devices is
-              steadily rising, and some brand-new platforms and technologies are
-              being adopted at an astonishing pace. IoT-based smart connected
-              homes have made life hassle-free and more comfortable. In the
-              meantime, we need to overcome hurdles such as security, data
-              privacy, connecting multiple large devices, converting legacy
-              systems, and vie with evolving technologies. From home security
-              systems to online shopping and entertainment to energy management,
-              tech-savvy connected consumers can depend on ACL Digital for
-              interactive and immersive experiences.
+              A truly connected home is now a functioning reality. The number of
+              connected devices is steadily rising, and new platforms and
+              technologies are being adopted rapidly. IoT-based smart homes have
+              made life more comfortable and hassle-free. However, challenges
+              like security, data privacy, connecting multiple devices,
+              converting legacy systems, and evolving technologies must be
+              addressed. From home security and energy management to online
+              shopping and entertainment, tech-savvy consumers can rely on ACL
+              Digital for interactive and immersive experiences. ACL Digital
+              provides solutions that ensure a seamless, secure, and efficient
+              smart home environment for today's connected world.
             </p>
             <p>
-              We have sound knowledge and in-depth experience with industry
+              We have extensive knowledge and experience with industry
               standards, connectivity protocols, and integrating legacy devices
-              with home automation solutions. Our experts develop futuristic,
-              modern, customizable, and secure Smart home solutions development
-              compatible with numerous home IoT devices, delivering an
-              integrated and extraordinary user experience. For OEMs and device
-              manufacturers, we provide a ready-to-use and pre-integrated IoT
-              home automation platform via HomeBridge®. At ACL Digital, we
-              transform conventional devices into connected devices, design, and
-              integrate AV-enabled Smart home solutions with voice assistant
-              platforms, including Google, Alexa, and others.
+              into home automation solutions. Our experts develop futuristic,
+              customizable, and secure smart home solutions compatible with
+              various IoT devices, ensuring an exceptional user experience. For
+              OEMs and device manufacturers, we offer a ready-to-use,
+              pre-integrated IoT home automation platform through HomeBridge®.
+              At ACL Digital, we transform traditional devices into connected
+              ones, designing and integrating AV-enabled smart home solutions
+              with voice assistants like Google and Alexa. Rely on us for
+              modern, efficient, and secure smart home innovations.
             </p>
           </div>
           <div
@@ -95,7 +95,7 @@ const page = () => {
       <div style={{ backgroundColor: "#004275", paddingBlock: "3rem" }}>
         <div style={{ width: "1100px", marginInline: "auto", color: "#fff" }}>
           <h1 style={{ fontSize: "32px", fontWeight: "600" }}>
-            Industry Requirements
+            Market Demands
           </h1>
           <div
             style={{
@@ -113,11 +113,12 @@ const page = () => {
                   marginTop: "20px",
                 }}
               >
-                End-to-end Product Engineering Support
+                Comprehensive Product Engineering Support
               </h2>
               <p style={{ fontSize: "18px", marginTop: "12px" }}>
-                Development support at all levels consists of IoT Gateway,
-                Prototyping, Cloud, Manufacturing, and Manufacturing
+                Comprehensive development support includes IoT gateway,
+                prototyping, cloud integration, and manufacturing, ensuring
+                seamless progression from concept to production at all stages.
               </p>
             </div>
             <div style={{ flexBasis: "100%" }}>
@@ -129,55 +130,12 @@ const page = () => {
                   marginTop: "20px",
                 }}
               >
-                Alliance Standard Compliance
+                Alliance Compliance Standards
               </h2>
               <p style={{ fontSize: "18px", marginTop: "12px" }}>
-                ACL Digital as a member of Alliances contributing to Z-Wave,
-                Thread, Zigbee, etc. makes it simple for us to help our
-                customers commercially roll out/release their products in
-                approval through the local and global authorities
-              </p>
-            </div>
-          </div>
-          <div
-            style={{
-              display: "flex",
-              marginTop: "2rem",
-              gap: "2rem",
-            }}
-          >
-            <div style={{ flexBasis: "100%" }}>
-              <div></div>
-              <h2
-                style={{
-                  fontSize: "20px",
-                  fontWeight: "600",
-                  marginTop: "20px",
-                }}
-              >
-                Virtual Assistance Integration
-              </h2>
-              <p style={{ fontSize: "18px", marginTop: "12px" }}>
-                Integration with Google Mini/Home, Alexa, Crestron, Control 4,
-                Elan, and others. Chromecast, Nest, and HomeKit for smooth and
-                real-time connectivity
-              </p>
-            </div>
-            <div style={{ flexBasis: "100%" }}>
-              <div></div>
-              <h2
-                style={{
-                  fontSize: "20px",
-                  fontWeight: "600",
-                  marginTop: "20px",
-                }}
-              >
-                Faster Time to Market
-              </h2>
-              <p style={{ fontSize: "18px", marginTop: "12px" }}>
-                Ready-to-market solutions IoTify, CENTAURI 200, HomeBridge, and
-                RF connectivity modules are available to reduce time to market
-                substantially
+                As an alliance member, ACL Digital facilitates Z-Wave, Thread,
+                Zigbee, etc., simplifying product commercialization and approval
+                processes with local/global authorities.
               </p>
             </div>
           </div>
@@ -197,11 +155,12 @@ const page = () => {
                   marginTop: "20px",
                 }}
               >
-                Safe and Reliable Connectivity
+                Virtual Assistant Integration
               </h2>
               <p style={{ fontSize: "18px", marginTop: "12px" }}>
-                Development of secure communication using TLS 1.2, MQTT 3.1.1,
-                database and hardware chip-level encryption
+                Seamless integration with Google Mini/Home, Alexa, Crestron,
+                Control 4, Elan, and other platforms, along with Chromecast,
+                Nest, and HomeKit, ensures smooth real-time connectivity.
               </p>
             </div>
             <div style={{ flexBasis: "100%" }}>
@@ -213,7 +172,49 @@ const page = () => {
                   marginTop: "20px",
                 }}
               >
-                Enabling Connectivity
+                Accelerate Market Entry
+              </h2>
+              <p style={{ fontSize: "18px", marginTop: "12px" }}>
+                Streamline time-to-market significantly with readily available
+                solutions like IoTify, CENTAURI 200, HomeBridge, and RF
+                connectivity modules.
+              </p>
+            </div>
+          </div>
+          <div
+            style={{
+              display: "flex",
+              marginTop: "2rem",
+              gap: "2rem",
+            }}
+          >
+            <div style={{ flexBasis: "100%" }}>
+              <div></div>
+              <h2
+                style={{
+                  fontSize: "20px",
+                  fontWeight: "600",
+                  marginTop: "20px",
+                }}
+              >
+                Secure Reliable Connectivity
+              </h2>
+              <p style={{ fontSize: "18px", marginTop: "12px" }}>
+                Craft secure communication employing TLS 1.2, MQTT 3.1.1,
+                database encryption, and hardware chip-level security for
+                enhanced data protection.
+              </p>
+            </div>
+            <div style={{ flexBasis: "100%" }}>
+              <div></div>
+              <h2
+                style={{
+                  fontSize: "20px",
+                  fontWeight: "600",
+                  marginTop: "20px",
+                }}
+              >
+                Facilitating Connectivity
               </h2>
               <p style={{ fontSize: "18px", marginTop: "12px" }}>
                 Experienced to handle the latest wireless technologies like

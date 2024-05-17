@@ -1,15 +1,24 @@
-import Banner from '@/components/banner'
-import { blog, homeBridgeOfferings } from '@/constant'
-import { digital, graphics16, homeBanner9, qinsightBenifits1, qinsightBenifits2, qinsightBenifits3, qinsightBenifits4, terms } from '@/public'
-import Image from 'next/image'
-import React from 'react'
+import Banner from "@/components/banner";
+import { blog, homeBridgeOfferings, homebridgeApplications, homebridgeFeatures } from "@/constant";
+import {
+  digital,
+  graphics16,
+  homeBanner9,
+  qinsightBenifits1,
+  qinsightBenifits2,
+  qinsightBenifits3,
+  qinsightBenifits4,
+  terms,
+} from "@/public";
+import Image from "next/image";
+import React from "react";
 
 const page = () => {
   return (
     <div>
       <Banner
         image={terms}
-        heading="Intelligent Home Automation IoT Gateway Solution"
+        heading="Smart Home IoT Gateway Solution."
         height="560px"
       />
       <div
@@ -46,18 +55,17 @@ const page = () => {
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "16px" }}>
             <p>
-              HomeBridge® is a smart home automation IoT gateway solution for
-              OEMs that offers a cost-effective and secure way of connecting
-              Internet of Things devices to industry-leading cloud platforms
-              with SDK-based connectivity. HomeBridge® can efficiently manage
-              40+ smart edge devices with standard features for industry
-              applications. HomeBridge® is available as a white-label smart home
-              solution for OEMs and IoT end-device manufacturers to easily alter
-              according to their market needs. With ACL Digtal’s IoT gateway,
-              device manufacturers can complete their entire solution by
-              utilizing a ready-to-production platform with other strategic
-              advantages such as OEM customization, faster time to market, and a
-              lower cost of ownership to build IoT solutions.
+              HomeBridge® is a smart home automation IoT gateway solution
+              designed for OEMs, providing a cost-effective and secure way to
+              connect IoT devices to leading cloud platforms using SDK-based
+              connectivity. Capable of managing over 40 smart edge devices,
+              HomeBridge® offers standard features for industry applications.
+              Available as a white-label solution, it allows OEMs and IoT device
+              manufacturers to customize it to their market needs. With ACL
+              Digital's IoT gateway, manufacturers can leverage a
+              ready-to-production platform, benefiting from OEM customization,
+              faster time to market, and reduced ownership costs, thus
+              streamlining the creation of IoT solutions.
             </p>
           </div>
           <div
@@ -72,91 +80,136 @@ const page = () => {
           </div>
         </div>
       </div>
-      <div style={{paddingBlock:'3rem',color:'#333'}}>
-        <div style={{width:'1100px',marginInline:'auto'}}>
-            <h1 style={{fontSize:'32px',fontWeight:'600'}}>HomeBridge Offerings</h1>
-            <div style={{display:'flex',justifyContent:'space-between',marginTop:'30px'}}>
-                {
-                    homeBridgeOfferings.map(({heading,content})=>(
-                        <div style={{flex:'0 1 31%',paddingInline:'1rem',paddingBlock:'3rem',background:'#f7f7f6',boxShadow:'0 3px 6px #00000029'}}>
-                            <h3 style={{fontSize:'20px',fontWeight:'600',marginBottom:'7px'}}>{heading}</h3>
-                            <p>{content}</p>
-                        </div>
-                    ))
-                }
-            </div>
+      <div style={{ paddingBlock: "3rem", color: "#333" }}>
+        <div style={{ width: "1100px", marginInline: "auto" }}>
+          <h1 style={{ fontSize: "32px", fontWeight: "600" }}>
+            HomeBridge Offerings
+          </h1>
+          <div
+            style={{
+              display: "flex",
+              justifyContent: "space-between",
+              marginTop: "30px",
+            }}
+          >
+            {homeBridgeOfferings.map(({ heading, content }) => (
+              <div
+                style={{
+                  flex: "0 1 31%",
+                  paddingInline: "1rem",
+                  paddingBlock: "3rem",
+                  background: "#f7f7f6",
+                  boxShadow: "0 3px 6px #00000029",
+                }}
+              >
+                <h3
+                  style={{
+                    fontSize: "20px",
+                    fontWeight: "600",
+                    marginBottom: "7px",
+                  }}
+                >
+                  {heading}
+                </h3>
+                <p>{content}</p>
+              </div>
+            ))}
+          </div>
         </div>
       </div>
       <div className="qinsight-benifits-container">
         <div style={{ width: "1100px", marginInline: "auto" }}>
-          <h1 style={{ fontWeight: "700", fontSize: "32px" }}>
-          Key Features
-          </h1>
-          <div style={{display:'flex',flexWrap:'wrap',gap:'2.5rem',marginTop:'30px'}}>
-            {
-                [1,2,3,4,5,6,7,8].map(()=>(
-                    <div style={{ flex:'0 0 30%' }}>
-              <div style={{display:'flex',justifyContent:'center'}}>
-                <Image src={qinsightBenifits1} />
+          <h1 style={{ fontWeight: "700", fontSize: "32px" }}>Key Features</h1>
+          <div
+            style={{
+              display: "flex",
+              flexWrap: "wrap",
+              gap: "2.5rem",
+              marginTop: "30px",
+            }}
+          >
+            {homebridgeFeatures.map(({image,heading,description}) => (
+              <div style={{ flex: "0 0 30%" }}>
+                <div style={{ display: "flex", justifyContent: "center" }}>
+                  <Image src={image} />
+                </div>
+                <h2
+                  style={{
+                    fontSize: "20px",
+                    fontWeight: "600",
+                    marginTop: "20px",
+                    color: "#000000",
+                    textAlign: "center",
+                  }}
+                >
+                  {heading}
+                </h2>
+                <p
+                  style={{
+                    fontSize: "18px",
+                    marginTop: "12px",
+                    textAlign: "center",
+                  }}
+                >
+                  {description}
+                </p>
               </div>
-              <h2
-                style={{
-                  fontSize: "20px",
-                  fontWeight: "600",
-                  marginTop: "20px",
-                  color: "#000000",
-                  textAlign:'center'
-                }}
-              >
-                Enhanced Security System
-              </h2>
-              <p style={{ fontSize: "18px", marginTop: "12px",textAlign:'center' }}>
-                Role-based access, password-protected downloads, and control
-                file types
-              </p>
-            </div>
-                ))
-            }
+            ))}
           </div>
         </div>
       </div>
-      <div className="qinsight-benifits-container" style={{marginTop:'30px'}} >
+      <div
+        className="qinsight-benifits-container"
+        style={{ marginTop: "30px" }}
+      >
         <div style={{ width: "1100px", marginInline: "auto" }}>
-          <h1 style={{ fontWeight: "700", fontSize: "32px",textAlign:'center' }}>
-          Industry Applications
+          <h1
+            style={{ fontWeight: "700", fontSize: "32px", textAlign: "center" }}
+          >
+            Industry Applications
           </h1>
-          <div style={{display:'flex',flexWrap:'wrap',justifyContent:'space-between',marginTop:'30px'}}>
-            {
-                [1,2,3,4].map(()=>(
-                    <div style={{ flex:'0 0 23%' }}>
-              <div style={{display:'flex',justifyContent:'center'}}>
-                <Image src={qinsightBenifits1} />
+          <div
+            style={{
+              display: "flex",
+              flexWrap: "wrap",
+              justifyContent: "space-between",
+              marginTop: "30px",
+            }}
+          >
+            {homebridgeApplications.map(({image,heading,description}) => (
+              <div style={{ flex: "0 0 23%" }}>
+                <div style={{ display: "flex", justifyContent: "center" }}>
+                  <Image src={image} />
+                </div>
+                <h2
+                  style={{
+                    fontSize: "16px",
+                    fontWeight: "600",
+                    marginTop: "20px",
+                    color: "#000000",
+                    textAlign: "center",
+                  }}
+                >
+                  {heading}
+                </h2>
+                <p
+                  style={{
+                    fontSize: "18px",
+                    marginTop: "12px",
+                    textAlign: "center",
+                  }}
+                >
+                  {description}
+                </p>
               </div>
-              <h2
-                style={{
-                  fontSize: "20px",
-                  fontWeight: "600",
-                  marginTop: "20px",
-                  color: "#000000",
-                  textAlign:'center'
-                }}
-              >
-                Enhanced Security System
-              </h2>
-              <p style={{ fontSize: "18px", marginTop: "12px",textAlign:'center' }}>
-                Role-based access, password-protected downloads, and control
-                file types
-              </p>
-            </div>
-                ))
-            }
+            ))}
           </div>
         </div>
       </div>
       <Banner
         image={homeBanner9}
-        heading="Technology, Media, and Telecommunication"
-        description="With a holistic approach, our experts help TMT companies thrive in the rapidly changing business landscape. Together, we increase adaptability and resilience across industries"
+        heading="Specification Overview"
+        description="Discover HomeBridge, an affordable gateway platform for OEMs, featuring customizable options for diverse industry applications. Explore the demo for a comprehensive look at its features."
         haveButton={true}
         buttonText="READ MORE"
         height="420px"
@@ -199,7 +252,7 @@ const page = () => {
         ))}
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default page
+export default page;
