@@ -24,7 +24,7 @@ const Footer = () => {
     </div>
     <div className='social'>
     <div className='social_box'>
-        <div>
+        {/* <div>
           {
             [linkedin,twitter,facebook,youtube,instagram].map((image)=>(
               <div>
@@ -32,7 +32,7 @@ const Footer = () => {
               </div>
             ))
           }
-        </div>
+        </div> */}
         <h2>
         business@acldigital.com
         </h2>
