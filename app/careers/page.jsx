@@ -43,12 +43,12 @@ const page = () => {
               letterSpacing: "0.5px",
             }}
           >
-            Why ACL Digital?
+            Why Jonaren Technology?
           </h1>
           <div className="career-about">
             <div style={{ color: "#333", fontSize: "16px" }}>
               <p>
-                ACL Digital believes in the knowledge, dedication, and
+                Jonaren Technology believes in the knowledge, dedication, and
                 innovative spirit our team. We are in a pursuit to provide a
                 platform for our people to grow and excel. Our team members are
                 the torchbearers of the company’s determination to redefine the
@@ -57,7 +57,7 @@ const page = () => {
               </p>
               <p>
                 Are you an IT whiz with a thirst for challenge? Look no further!
-                ACL Digital is constantly seeking passionate individuals to join
+                Jonaren Technology is constantly seeking passionate individuals to join
                 our team. We offer more than just a career; we offer the chance
                 to push your skills and make a real difference.
               </p>
@@ -99,7 +99,7 @@ const page = () => {
               Who we are
             </h1>
             <h2 style={{ fontSize: "20px", fontWeight: "600" }}>
-              ACL Digital + ALTEN{" "}
+              Jonaren Technology + ALTEN{" "}
             </h2>
             <p style={{ fontWeight: "16px", marginTop: "10px" }}>
               Digital Product Innovation and Engineering Leader helping clients
@@ -115,7 +115,7 @@ const page = () => {
       </div>
       <Banner
         image={careerBanner4}
-        heading="ACL Digital Champions Tech Diversity Through Capella Partnership."
+        heading="Jonaren Technology Champions Tech Diversity Through Capella Partnership."
         haveButton={true}
         buttonText="READ MORE"
         height="420px"
@@ -151,10 +151,10 @@ const page = () => {
               marginBottom: "0.2rem",
             }}
           >
-            Life at ACL Digital
+            Life at Jonaren Technology
           </h1>
           <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
-            At ACL Digital, we place trust, integrity, teamwork, equality, and
+            At Jonaren Technology, we place trust, integrity, teamwork, equality, and
             care at the heart of whatever we do.
           </p>
           <div className="offering-container">

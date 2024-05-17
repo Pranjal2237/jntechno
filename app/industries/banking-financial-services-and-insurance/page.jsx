@@ -87,7 +87,7 @@ const page = () => {
             Offerings
           </h1>
           <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
-            ACL Digital drives global banking and financial services forward,
+            Jonaren Technology drives global banking and financial services forward,
             enhancing customer experiences, reshaping business models, and
             optimizing operational efficiency. Our track record speaks volumes,
             propelling organizations confidently into the future.

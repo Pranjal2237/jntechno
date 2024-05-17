@@ -37,7 +37,7 @@ const page = () => {
           </h2>
           <p style={{ color: "#333", fontSize: "17px" }}>
             Subject to the terms and conditions set forth in these Terms of Use,
-            ACL Digital grants you a non-exclusive, non-transferable, limited
+            Jonaren Technology grants you a non-exclusive, non-transferable, limited
             right to access and use this Website and the Materials thereon. You
             agree not to interrupt or attempt to interrupt the operation of the
             Website in any manner. You shall not modify, copy, distribute,
@@ -59,12 +59,12 @@ const page = () => {
             understood) on this Website entirely at the sole discretion of ACL
             Digital.. You hereby acknowledge and agree that these blogs
             constitute the opinion of the Individuals in their personal
-            capacity, and may not represent official positions of ACL Digital in
-            any manner. ACL Digital retains all copyright to these blogs. You
+            capacity, and may not represent official positions of Jonaren Technology in
+            any manner. Jonaren Technology retains all copyright to these blogs. You
             may be permitted to post comments and feedback to these blogs. You
-            understand that ACL Digital will have the right to post/remove any
+            understand that Jonaren Technology will have the right to post/remove any
             blog, comments, feedback at its discretion and the same is binding
-            on you. Further, ACL Digital shall not be liable in any manner for
+            on you. Further, Jonaren Technology shall not be liable in any manner for
             any errors, inaccuracies in the content posted on the Website by any
             user.
           </p>
@@ -80,7 +80,7 @@ const page = () => {
             including any regulatory authority and other financial markets and
             other data from external sources (the “Third Party Content”). You
             acknowledge and agree that the Third Party Content is not created or
-            endorsed by ACL Digital. The provision of Third Party Content is for
+            endorsed by Jonaren Technology. The provision of Third Party Content is for
             general informational purposes only and does not constitute a
             recommendation or solicitation to purchase or sell any securities or
             shares or to make any other type of investment or investment
@@ -115,14 +115,14 @@ const page = () => {
             Limitation of Damages
           </h2>
           <p style={{ color: "#333", fontSize: "17px" }}>
-            In no event shall ACL Digital or any of its subsidiaries or
+            In no event shall Jonaren Technology or any of its subsidiaries or
             affiliates be liable to any entity for any direct, indirect,
             special, consequential or other damages (including, without
             limitation, any lost profits, business interruption, loss of
             information or programs or other data on your information handling
             system) that are related to the use of, or the inability to use, the
             content, materials, and functions of this Website or any linked
-            Website, even if ACL Digital is expressly advised of the possibility
+            Website, even if Jonaren Technology is expressly advised of the possibility
             of such damages.
           </p>
           <h2
@@ -132,8 +132,8 @@ const page = () => {
           </h2>
           <p style={{ color: "#333", fontSize: "17px" }}>
             The website may contain inaccuracies and typographical and clerical
-            errors. ACL Digital expressly disclaims any obligation(s) to update
-            this website or any of the materials on this website. ACL Digital
+            errors. Jonaren Technology expressly disclaims any obligation(s) to update
+            this website or any of the materials on this website. Jonaren Technology
             does not warrant the accuracy or completeness of the materials or
             the reliability of any advice, opinion, statement or other
             information displayed or distributed through the Website.
@@ -144,12 +144,12 @@ const page = () => {
             Posting on the Website
           </h2>
           <p style={{ color: "#333", fontSize: "17px" }}>
-            ACL Digital does not claim ownership of the materials You provide
+            Jonaren Technology does not claim ownership of the materials You provide
             (including feedback and suggestions) or post, upload, input or
             submit to any section of the Website, (each a “Submission” and
             collectively “Submissions”). However, by posting, uploading,
             inputting, providing or submitting (“Posting”) Your Submission You
-            are granting ACL Digital, its affiliated companies and necessary
+            are granting Jonaren Technology, its affiliated companies and necessary
             sub-licensees permission to use Your Submission in connection with
             the operation of their Internet businesses including, without
             limitation, the license rights to: copy, distribute, transmit,
@@ -181,8 +181,8 @@ const page = () => {
             As a condition of Your use of the Website, You shall not use the
             Website for any purpose(s) that is unlawful or prohibited by the
             Terms of Use. You shall not use the Website in any manner that could
-            damage, disable, overburden, or impair any ACL Digital’ server, or
-            the network(s) connected to any ACL Digital’ server, or interfere
+            damage, disable, overburden, or impair any Jonaren Technology’ server, or
+            the network(s) connected to any Jonaren Technology’ server, or interfere
             with any other party’s use and enjoyment of any services associated
             with the Website.
           </p>
@@ -192,7 +192,7 @@ const page = () => {
             Indemnity
           </h2>
           <p style={{ color: "#333", fontSize: "17px" }}>
-            You agree to indemnify and hold harmless ACL Digital, its
+            You agree to indemnify and hold harmless Jonaren Technology, its
             subsidiaries and affiliates from any claim, cost, expense, judgment
             or other loss relating to Your use of this Website in any manner,
             including without limitation of the foregoing, any action You take
@@ -205,7 +205,7 @@ const page = () => {
             Changes
           </h2>
           <p style={{ color: "#333", fontSize: "17px" }}>
-            ACL Digital reserves the rights, at its sole discretion, to change,
+            Jonaren Technology reserves the rights, at its sole discretion, to change,
             modify, add or remove any portion of these Terms of Use in whole or
             in part, at any time. Changes in these Terms of Use will be
             effective when notice of such change is posted.

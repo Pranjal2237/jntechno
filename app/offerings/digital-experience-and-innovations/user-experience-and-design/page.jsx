@@ -85,7 +85,7 @@ const page = () => {
             Offerings
           </h1>
           <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
-            ACL Digital’s enterprise-grade Digital Experience platforms help
+            Jonaren Technology’s enterprise-grade Digital Experience platforms help
             enterprises achieve holistic digital transformations. The companies
             demand innovative and customized solutions with intuitive and
             meaningful digital experiences and a seamless end-to-end customer
@@ -104,7 +104,7 @@ const page = () => {
       <Banner
         image={homeBanner9}
         heading="Experience 360"
-        description="Whether it is customer experience, user experience, employee experience, or multi-experience, ACL Digital’s Total Experience Strategy, and the innovation process, including deliverables, will help you bring the entire 360° Experience to the forefront."
+        description="Whether it is customer experience, user experience, employee experience, or multi-experience, Jonaren Technology’s Total Experience Strategy, and the innovation process, including deliverables, will help you bring the entire 360° Experience to the forefront."
         haveButton={true}
         buttonText="TALK TO OUR CONSULTANT"
         height="420px"

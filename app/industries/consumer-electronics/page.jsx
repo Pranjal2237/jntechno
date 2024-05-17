@@ -46,7 +46,7 @@ const page = () => {
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
-              Amidst shifting consumer dynamics, ACL Digital responds adeptly to
+              Amidst shifting consumer dynamics, Jonaren Technology responds adeptly to
               the demand for convenience and sustainability in households. With
               a keen eye on consumer-centric strategies, we seize opportunities
               in the Consumer Electronics (CE) sector. Leveraging our domain
@@ -57,7 +57,7 @@ const page = () => {
               client triumph in an evolving market landscape.
             </p>
             <p>
-              ACL Digital empowers the creation of intelligent, connected
+              Jonaren Technology empowers the creation of intelligent, connected
               consumer electronics devices by leveraging our adeptness in
               tailored connected solutions. With a rich portfolio spanning
               audio/video systems, home appliances, HVAC systems, and smart
@@ -112,7 +112,7 @@ const page = () => {
             Consumer Electronics Offerings
           </h1>
           <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
-            Embark on a journey with ACL Digital's Consumer Electronics
+            Embark on a journey with Jonaren Technology's Consumer Electronics
             solutions, where innovation meets excellence. Explore cutting-edge
             advancements that redefine everyday experiences, transforming your
             products into intelligent companions for the modern consumer.

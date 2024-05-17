@@ -89,7 +89,7 @@ const page = () => {
             Offerings
           </h1>
           <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
-            ACL Digital empowers enterprises with enterprise-grade Digital
+            Jonaren Technology empowers enterprises with enterprise-grade Digital
             Experience platforms, facilitating comprehensive digital
             transformations. Our solutions deliver innovative, customized
             experiences, ensuring intuitive interactions and seamless end-to-end

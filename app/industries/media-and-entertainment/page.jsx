@@ -1,21 +1,24 @@
-import Banner from "@/components/banner"
-import Active from "@/components/cards/active"
-import { blog, innovationOfferings, mediaOfferings } from "@/constant"
-import { digital, graphics2, mediaBanner, terms } from "@/public"
-import Image from "next/image"
-
+import Banner from "@/components/banner";
+import Active from "@/components/cards/active";
+import { blog, innovationOfferings, mediaOfferings } from "@/constant";
+import { digital, graphics2, mediaBanner, terms } from "@/public";
+import Image from "next/image";
 
 const page = () => {
   return (
     <div>
-      <Banner image={mediaBanner} heading="Enhance your brand's competitiveness with innovative streaming and content experiences for optimal engagement in today's attention economy." height="560px" />
+      <Banner
+        image={mediaBanner}
+        heading="Enhance your brand's competitiveness with innovative streaming and content experiences for optimal engagement in today's attention economy."
+        height="560px"
+      />
       <div
         style={{
           padding: "1rem 0",
           boxShadow: "0px 3px 6px #00000029",
           background: "#fff",
           position: "sticky",
-          top:'0px'
+          top: "0px",
         }}
       >
         <div style={{ width: "1100px", marginInline: "auto" }}>
@@ -27,7 +30,7 @@ const page = () => {
               letterSpacing: "0.5px",
             }}
           >
-           Media and Entertainment
+            Media and Entertainment
           </h2>
         </div>
       </div>
@@ -43,10 +46,18 @@ const page = () => {
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
-            Digital advancements empower consumers; a streaming war ensues. Deliver personalized experiences to meet evolving expectations. As media boundaries blur, adapt to the converging landscape of telecom, media, and technology for sustained relevance.
+              Digital advancements empower consumers; a streaming war ensues.
+              Deliver personalized experiences to meet evolving expectations. As
+              media boundaries blur, adapt to the converging landscape of
+              telecom, media, and technology for sustained relevance.
             </p>
             <p>
-            Businesses must adeptly capture real-time customer needs and behaviors, transforming internally with digital tools to enhance outreach and service. Digital Marketing enables precise engagement, targeting, and effective communication across channels, fostering brand recognition, customer interest, leads, accelerated sales, and enduring loyalty.
+              Businesses must adeptly capture real-time customer needs and
+              behaviors, transforming internally with digital tools to enhance
+              outreach and service. Digital Marketing enables precise
+              engagement, targeting, and effective communication across
+              channels, fostering brand recognition, customer interest, leads,
+              accelerated sales, and enduring loyalty.
             </p>
           </div>
           <div
@@ -73,7 +84,9 @@ const page = () => {
             Offerings
           </h1>
           <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
-          ACL Digital leverages cutting-edge tech, domain expertise, design thinking, and analytics to offer tailored services for the entertainment and media sector.
+            Jonaren Technology leverages cutting-edge tech, domain expertise, design
+            thinking, and analytics to offer tailored services for the
+            entertainment and media sector.
           </p>
           <div className="offering-container">
             {mediaOfferings.map(({ image, title, paragraph }) => (
@@ -122,8 +135,7 @@ const page = () => {
         ))}
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default page
-
+export default page;

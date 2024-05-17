@@ -46,7 +46,7 @@ const page = () => {
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
-              ACL Digital pioneers cutting-edge product and solution
+              Jonaren Technology pioneers cutting-edge product and solution
               engineering, empowering telecom operators to deliver digital
               services beyond mere connectivity. Our innovations enhance
               performance and revenue for Telcos and equipment makers, elevating
@@ -54,7 +54,7 @@ const page = () => {
               transformative solutions!
             </p>
             <p>
-              Leveraging our proven framework and innovative tools, ACL Digital
+              Leveraging our proven framework and innovative tools, Jonaren Technology
               aids telecom operators and equipment manufacturers in swiftly
               transitioning to next-gen networks. From 5G to AI, our expertise
               in Edge Computing, IoT, and more drives efficiency, reducing
@@ -86,7 +86,7 @@ const page = () => {
             Offerings
           </h1>
           <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
-            ACL Digital's tailored engineering services boost market impact by
+            Jonaren Technology's tailored engineering services boost market impact by
             enhancing telecom performance, managing traffic, and maximizing
             revenue potential amid rising device connectivity. Join us in
             optimizing telecom solutions!

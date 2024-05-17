@@ -1,5 +1,10 @@
 import Banner from "@/components/banner";
-import { blog, homeBridgeOfferings, homebridgeApplications, homebridgeFeatures } from "@/constant";
+import {
+  blog,
+  homeBridgeOfferings,
+  homebridgeApplications,
+  homebridgeFeatures,
+} from "@/constant";
 import {
   digital,
   graphics16,
@@ -61,8 +66,8 @@ const page = () => {
               connectivity. Capable of managing over 40 smart edge devices,
               HomeBridge® offers standard features for industry applications.
               Available as a white-label solution, it allows OEMs and IoT device
-              manufacturers to customize it to their market needs. With ACL
-              Digital's IoT gateway, manufacturers can leverage a
+              manufacturers to customize it to their market needs. With Jonaren
+              Technology's IoT gateway, manufacturers can leverage a
               ready-to-production platform, benefiting from OEM customization,
               faster time to market, and reduced ownership costs, thus
               streamlining the creation of IoT solutions.
@@ -128,7 +133,7 @@ const page = () => {
               marginTop: "30px",
             }}
           >
-            {homebridgeFeatures.map(({image,heading,description}) => (
+            {homebridgeFeatures.map(({ image, heading, description }) => (
               <div style={{ flex: "0 0 30%" }}>
                 <div style={{ display: "flex", justifyContent: "center" }}>
                   <Image src={image} />
@@ -176,7 +181,7 @@ const page = () => {
               marginTop: "30px",
             }}
           >
-            {homebridgeApplications.map(({image,heading,description}) => (
+            {homebridgeApplications.map(({ image, heading, description }) => (
               <div style={{ flex: "0 0 23%" }}>
                 <div style={{ display: "flex", justifyContent: "center" }}>
                   <Image src={image} />

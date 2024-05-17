@@ -52,7 +52,7 @@ const page = () => {
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "16px" }}>
             <p>
-              ACL Digital CENTAURI 200 IoT Gateway platform is exclusively
+              Jonaren Technology CENTAURI 200 IoT Gateway platform is exclusively
               designed to suit all the requirements of the enterprise/industrial
               IoT Gateway Solution. Gateway is developed on power-efficient,
               secure, and cost-optimized ARM® Cortex®-A7 based i.MX6UL/6ULL/6ULZ
@@ -61,7 +61,7 @@ const page = () => {
               customized solution according to the end-user requirements.
             </p>
             <p>
-              ACL Digital also offers a CENTAURI Software Framework for all OEMs
+              Jonaren Technology also offers a CENTAURI Software Framework for all OEMs
               to rapidly develop applications. CENTAURI Gateway platform is
               pre-integrated with well-known cloud & application platform
               providers to help OEMs with quicker application development. OEMs

@@ -48,7 +48,7 @@ const page = () => {
             <p>
               Are you looking to give your COTS server-based hub hardware a
               boost with software-accelerated traffic processing solutions? If
-              yes, then ACL Digital has a unique solution known as WireZAP that
+              yes, then Jonaren Technology has a unique solution known as WireZAP that
               can accelerate the packet processing workloads where there is a
               requirement of ultra-low latency and high-bandwidth massive
               interconnect.
@@ -76,7 +76,7 @@ const page = () => {
       <div style={{ padding: "3rem", background: "#4f6bb3", color: "#fff" }}>
         <div style={{ width: "1100px", marginInline: "auto" }}>
           <h1 style={{ fontSize: "26px", fontWeight: "600" }}>
-            How ACL Digital Can Help?
+            How Jonaren Technology Can Help?
           </h1>
           <p style={{ fontSize: "17px" }}>
             You can count on our experience to develop high-speed white-box
@@ -173,7 +173,7 @@ const page = () => {
       >
         <div style={{ width: "1100px", marginInline: "auto" }}>
           <h1 style={{ fontSize: "26px", fontWeight: "600" }}>
-            Why Choose ACL Digital?
+            Why Choose Jonaren Technology?
           </h1>
           <p style={{ fontSize: "18px", marginTop: "12px" }}>
             All our engineers have years of experience with professionally

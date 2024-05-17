@@ -52,7 +52,7 @@ const page = () => {
               scheduling solutions.
             </p>
             <p>
-              ACL Digital’s Workforce Scheduling Software utilizes innovative
+              Jonaren Technology’s Workforce Scheduling Software utilizes innovative
               artificial intelligence to optimize your scheduling process. Our
               Workforce Scheduler generates optimal schedules in a fraction of
               the time than it would take to do them manually. It helps

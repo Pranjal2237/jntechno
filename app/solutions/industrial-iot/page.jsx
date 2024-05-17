@@ -62,7 +62,7 @@ const page = () => {
               privacy, connecting multiple large devices, converting legacy
               systems, and vie with evolving technologies. From home security
               systems to online shopping and entertainment to energy management,
-              tech-savvy connected consumers can depend on ACL Digital for
+              tech-savvy connected consumers can depend on Jonaren Technology for
               interactive and immersive experiences.
             </p>
             <p>
@@ -73,7 +73,7 @@ const page = () => {
               compatible with numerous home IoT devices, delivering an
               integrated and extraordinary user experience. For OEMs and device
               manufacturers, we provide a ready-to-use and pre-integrated IoT
-              home automation platform via HomeBridge®. At ACL Digital, we
+              home automation platform via HomeBridge®. At Jonaren Technology, we
               transform conventional devices into connected devices, design, and
               integrate AV-enabled Smart home solutions with voice assistant
               platforms, including Google, Alexa, and others.
@@ -131,7 +131,7 @@ const page = () => {
                 Alliance Standard Compliance
               </h2>
               <p style={{ fontSize: "18px", marginTop: "12px" }}>
-                ACL Digital as a member of Alliances contributing to Z-Wave,
+                Jonaren Technology as a member of Alliances contributing to Z-Wave,
                 Thread, Zigbee, etc. makes it simple for us to help our
                 customers commercially roll out/release their products in
                 approval through the local and global authorities
@@ -227,7 +227,7 @@ const page = () => {
       <div className="qinsight-benifits-container">
         <div style={{ width: "1100px", marginInline: "auto" }}>
           <h1 style={{ fontWeight: "700", fontSize: "32px" }}>
-            Why Choose ACL Digital?
+            Why Choose Jonaren Technology?
           </h1>
           <div
             style={{

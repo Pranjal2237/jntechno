@@ -62,7 +62,7 @@ const page = () => {
               monitoring.
             </p>
             <p>
-              ACL Digital stands as the top choice healthcare solution partner
+              Jonaren Technology stands as the top choice healthcare solution partner
               for prominent healthcare system providers and medical device
               manufacturers. Our seasoned engineers possess the expertise to
               deliver intelligent healthcare solutions and FDA-compliant
@@ -70,7 +70,7 @@ const page = () => {
               drug delivery systems, we specialize in crafting cutting-edge
               solutions. Our offerings extend to digital health systems and DNA
               analysis devices, leveraging advanced technologies for precision
-              and efficiency. Trust ACL Digital for innovative, sophisticated,
+              and efficiency. Trust Jonaren Technology for innovative, sophisticated,
               and compliant healthcare solutions tailored to meet the evolving
               needs of the industry.
             </p>
@@ -166,7 +166,7 @@ const page = () => {
       <div className="qinsight-benifits-container">
         <div style={{ width: "1100px", marginInline: "auto" }}>
           <h1 style={{ fontWeight: "700", fontSize: "32px" }}>
-            Why Choose ACL Digital?
+            Why Choose Jonaren Technology?
           </h1>
           <div
             style={{
@@ -191,7 +191,7 @@ const page = () => {
                 Comprehensive Service Provider
               </h2>
               <p style={{ fontSize: "18px", marginTop: "12px" }}>
-                ACL Digital excels in all facets of medical-grade device
+                Jonaren Technology excels in all facets of medical-grade device
                 development, app creation, testing, large-scale production, and
                 cloud integration, ensuring excellence throughout.
               </p>

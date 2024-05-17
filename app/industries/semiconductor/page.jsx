@@ -54,7 +54,7 @@ const page = () => {
               intricate VLSI design & verification requisites, compact form
               factors, rigorous quality benchmarks, shortened time-to-market
               cycles, and the imperative for robust testing and validation
-              protocols. At ACL Digital, we engage in close collaboration with
+              protocols. At Jonaren Technology, we engage in close collaboration with
               industry giants, spanning IDMs, silicon manufacturers, OEMs,
               foundries, EDA, and IP vendors, to craft cutting-edge chipsets
               tailored for diverse industrial applications. Our prowess in VLSI

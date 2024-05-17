@@ -85,7 +85,7 @@ const page = () => {
             Offerings
           </h1>
           <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
-            ACL Digital's robust Digital Experience platforms empower
+            Jonaren Technology's robust Digital Experience platforms empower
             enterprises in comprehensive digital transformations. Firms seek
             tailored solutions that deliver intuitive, impactful digital
             experiences and streamline customer journeys seamlessly. Our suite
@@ -103,7 +103,7 @@ const page = () => {
       <Banner
         image={innovationBanner2}
         heading="Experience 360"
-        description="Experience a seamless blend of customer, user, and employee interactions with ACL Digital's Total Experience Strategy. Our innovative approach and deliverables ensure a comprehensive 360° experience for your organization's success."
+        description="Experience a seamless blend of customer, user, and employee interactions with Jonaren Technology's Total Experience Strategy. Our innovative approach and deliverables ensure a comprehensive 360° experience for your organization's success."
         haveButton={true}
         buttonText="TALK TO OUR CONSULTANT"
         height="420px"
@@ -121,7 +121,7 @@ const page = () => {
           </h1>
           <div style={{ display: "flex", gap: "2.5rem", color: "#333" }}>
             <p style={{ flexBasis: "100%" }}>
-              ACL Digital collaborates with organizations to orchestrate
+              Jonaren Technology collaborates with organizations to orchestrate
               complete digital transformations across their ecosystems. Through
               DEXTRA (Design-led Digital Experience Transformation), we
               prioritize customer journeys and design, facilitating
@@ -132,7 +132,7 @@ const page = () => {
             </p>
             <div style={{ flexBasis: "100%" }}>
               <p>
-              ACL Digital offers comprehensive digital expertise across various capabilities.
+              Jonaren Technology offers comprehensive digital expertise across various capabilities.
               </p>
               <ul style={{ marginTop: "10px" }}>
                 <li>

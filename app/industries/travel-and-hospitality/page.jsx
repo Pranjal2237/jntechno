@@ -48,13 +48,13 @@ const page = () => {
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
               In the travel and hospitality sector, digital evolution is
-              paramount. From reservations to tracking, ACL Digital elevates
+              paramount. From reservations to tracking, Jonaren Technology elevates
               travel ease and streamlines operations for partners like Airlines,
               Hotels, and OTAs. Harnessing cutting-edge design and digital tech,
               we redefine travel experiences.
             </p>
             <p>
-              From airlines to logistics, ACL Digital pioneers innovation in
+              From airlines to logistics, Jonaren Technology pioneers innovation in
               diverse sectors. Our solutions span product innovation, digital
               experiences, consulting, marketing, and IT services. Empowering
               global Travel & Hospitality leaders, we redefine industry
@@ -85,7 +85,7 @@ const page = () => {
             Offerings
           </h1>
           <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
-            Harnessing Internet, Mobility, Cloud, and Analytics, ACL Digital
+            Harnessing Internet, Mobility, Cloud, and Analytics, Jonaren Technology
             crafts tailored solutions. We streamline travel enterprise
             operations and elevate customer experiences seamlessly. Join us in
             redefining hassle-free travel!

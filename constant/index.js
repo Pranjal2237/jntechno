@@ -80,21 +80,21 @@ import {
 export const HomBannerCarousel = [
   {
     image: homeBanner1,
-    heading: "ACL Digital: Your Innovation Partner",
+    heading: "Jonaren Technology: Your Innovation Partner",
     description:
       "Your reliable partner for global digital engineering and transformation, empowering enterprises to thrive in the digital age.",
   },
   {
     image: homeBanner2,
     heading:
-      "ACL Digital earns Great Place to Work® certification for second consecutive year.",
+      "Jonaren Technology earns Great Place to Work® certification for second consecutive year.",
     description: "",
   },
   {
     image: homeBanner3,
     heading: "AWS Partner Tier Attainment",
     description:
-      "ACL Digital rises to AWS Advanced Tier Partner Status within the Amazon Web Services Partner Network.",
+      "Jonaren Technology rises to AWS Advanced Tier Partner Status within the Amazon Web Services Partner Network.",
   },
   {
     image: homeBanner4,
@@ -132,11 +132,11 @@ export const careerBannerCarousel=[
   {
     image:careerBanner1,
     heading:'Building Opportunities for the Future of Work',
-    description:'Take the first step to an amazing career. We are waiting for you at ACL Digital.'
+    description:'Take the first step to an amazing career. We are waiting for you at Jonaren Technology.'
   },
   {
     image:careerBanner2,
-    heading:'Join the Winning Team! ACL Digital Certified as a Great Place to Work® Again.',
+    heading:'Join the Winning Team! Jonaren Technology Certified as a Great Place to Work® Again.',
   },
   {
     image:careerBanner3,
@@ -148,7 +148,7 @@ export const digitalBannerCarousel=[
   {
     image:digitalBanner1,
     heading:'Unleashing Digital Transformation Opportunities',
-    description:'ACL Digital pioneers unique customer experiences, leveraging emerging tech to tackle intricate business hurdles with precision.'
+    description:'Jonaren Technology pioneers unique customer experiences, leveraging emerging tech to tackle intricate business hurdles with precision.'
   },
   {
     image:digitalBanner2,
@@ -337,7 +337,7 @@ export const blog = [
   {
     category: "Newsroom",
     heading:
-      "ACL Digital and PhoenixAI.tech partner to take AI driven drone technology to new heights",
+      "Jonaren Technology and PhoenixAI.tech partner to take AI driven drone technology to new heights",
     background: "#333333",
   },
   {
@@ -883,7 +883,7 @@ export const navigation = [
 export const contact = [
   {
     country: "USA - Bay Area (Headquarters)",
-    company: "ACL Digital",
+    company: "Jonaren Technology",
     location: {
       primary: "2890 Zanker Road, Suite 200,",
       secondary: "San Jose, CA - 95134",
@@ -893,7 +893,7 @@ export const contact = [
   },
   {
     country: "USA - Dallas, TX",
-    company: "ACL Digital",
+    company: "Jonaren Technology",
     location: {
       primary: "14228 Midway Rd, Dallas,",
       secondary: "TX - 75244",
@@ -903,7 +903,7 @@ export const contact = [
   },
   {
     country: "USA - Philadelphia",
-    company: "ACL Digital",
+    company: "Jonaren Technology",
     location: {
       primary: "501 Allendale Road, Suite 201,",
       secondary: "King of Prussia, PA -19406",
@@ -913,7 +913,7 @@ export const contact = [
   },
   {
     country: "USA - Atlanta",
-    company: "ACL Digital",
+    company: "Jonaren Technology",
     location: {
       primary: "3655 North Point Parkway, Suite 650,",
       secondary: "Alpharetta GA  - 30005",
@@ -923,7 +923,7 @@ export const contact = [
   },
   {
     country: "USA - Seattle",
-    company: "ACL Digital",
+    company: "Jonaren Technology",
     location: {
       primary: "8201 164th Ave NE Ste 200,",
       secondary: "Redmond, WA - 98052",
@@ -944,7 +944,7 @@ export const innovationOfferings = [
     image: offerings2,
     title: "Customer Experience",
     paragraph:
-      "ACL Digital helps businesses create a seamless customer experience by putting first the customers, patients, internal users, or employees who all demand delightful experiences—seamless, rapid, secure, omnichannel, on-demand, convenient, and personalized.",
+      "Jonaren Technology helps businesses create a seamless customer experience by putting first the customers, patients, internal users, or employees who all demand delightful experiences—seamless, rapid, secure, omnichannel, on-demand, convenient, and personalized.",
   },
   {
     image: offerings3,
@@ -967,25 +967,25 @@ export const innovationOfferings = [
   {
     image:offerings9,
     title:"Mobile Experience",
-    paragraph:'From strategy consulting to design, development, and transformation, you can count on us to help you foresee problems and dissipate them with our innovative solutions. ACL Digital offers world-class end-to-end mobility solutions that create seamless user experiences.'
+    paragraph:'From strategy consulting to design, development, and transformation, you can count on us to help you foresee problems and dissipate them with our innovative solutions. Jonaren Technology offers world-class end-to-end mobility solutions that create seamless user experiences.'
   }
 ];
 
 export const careerOfferings=[
   {
     image:offerings20,
-    title:'ACL Digital Revamp',
+    title:'Jonaren Technology Revamp',
     paragraph:'Ready to rejoin the corporate world and propel your career forward? Whatever the reason for your break—passion, sabbatical, parenthood—we have an opportunity for you. We understand the importance of personal priorities and offer a seamless return to work. Like you, we believe everyone should pursue whats best for them. Join us in restarting your career journey.'
   },
   {
     image:offerings17,
     title:'Skilled Experts',
-    paragraph:'Discover your potential with diverse career paths across various technology fields at ACL Digital. If you are a skilled IT professional with broad experience in technology platforms, seize the opportunity to join our team and unlock new possibilities today.'
+    paragraph:'Discover your potential with diverse career paths across various technology fields at Jonaren Technology. If you are a skilled IT professional with broad experience in technology platforms, seize the opportunity to join our team and unlock new possibilities today.'
   },
   {
     image:offerings29,
     title:'College Graduates',
-    paragraph:"Are you enthusiastic about information technology? Recently graduated? Begin your career journey with ACL Digital, a renowned solutions provider with over two decades of expertise in IT and digital transformation. Jumpstart your career with us and immerse yourself in the ever-evolving realm of technology. Join ACL Digital today!"
+    paragraph:"Are you enthusiastic about information technology? Recently graduated? Begin your career journey with Jonaren Technology, a renowned solutions provider with over two decades of expertise in IT and digital transformation. Jumpstart your career with us and immerse yourself in the ever-evolving realm of technology. Join Jonaren Technology today!"
   },
 ]
 
@@ -994,12 +994,12 @@ export const careerEnvironmentArr=[
   {
     image:offerings11,
     title:"Originality Pledge",
-    paragraph:"At ACL Digital, we prioritize both employee and organizational growth. Our nurturing atmosphere promotes work-life balance and prioritizes mental and physical well-being. Join us to discover abundant opportunities in a dynamic setting where you can unleash your fullest potential. Join our team and thrive in an environment designed for success!"
+    paragraph:"At Jonaren Technology, we prioritize both employee and organizational growth. Our nurturing atmosphere promotes work-life balance and prioritizes mental and physical well-being. Join us to discover abundant opportunities in a dynamic setting where you can unleash your fullest potential. Join our team and thrive in an environment designed for success!"
   },
   {
     image:offerings18,
     title:"Essence: Our Guiding Principles",
-    paragraph:"At ACL Digital, our culture thrives on trust, ethics, integrity, and expertise. Operating globally across 30+ countries, our diversity strengthens us, embracing cultures and differences worldwide. We champion transparency, employee involvement, and personal/professional growth. Join us and flourish in a culture of inclusivity and opportunity!"
+    paragraph:"At Jonaren Technology, our culture thrives on trust, ethics, integrity, and expertise. Operating globally across 30+ countries, our diversity strengthens us, embracing cultures and differences worldwide. We champion transparency, employee involvement, and personal/professional growth. Join us and flourish in a culture of inclusivity and opportunity!"
   },
   {
     image:offerings12,
@@ -1009,12 +1009,12 @@ export const careerEnvironmentArr=[
   {
     image:offerings13,
     title:"Unity in Diversity",
-    paragraph:"At ACL Digital, diversity and inclusion are non-negotiables. We actively measure our progress as we expand, drawing insights from a rich tapestry of perspectives: race, age, gender, nationality, and more. We're convinced that embracing diversity fosters empathy and creates a workplace where everyone belongs. Join us in building a brighter future!"
+    paragraph:"At Jonaren Technology, diversity and inclusion are non-negotiables. We actively measure our progress as we expand, drawing insights from a rich tapestry of perspectives: race, age, gender, nationality, and more. We're convinced that embracing diversity fosters empathy and creates a workplace where everyone belongs. Join us in building a brighter future!"
   },
   {
     image:offerings8,
     title:"Female Strength",
-    paragraph:"At ACL Digital, women hold key positions and make up a substantial part of our team. We foster a culture where women can thrive and contribute diverse perspectives. Our commitment? Providing ample career growth for all women in tech. Join our empowering community!"
+    paragraph:"At Jonaren Technology, women hold key positions and make up a substantial part of our team. We foster a culture where women can thrive and contribute diverse perspectives. Our commitment? Providing ample career growth for all women in tech. Join our empowering community!"
   },
 ]
 
@@ -1027,7 +1027,7 @@ export const telecomOfferings=[
   {
     image:offerings19,
     title:'Security',
-    paragraph:'ACL Digital provides complete security solutions to fortify telecom network infrastructure, ensuring robust protection and peace of mind. Safeguard your network with us!'
+    paragraph:'Jonaren Technology provides complete security solutions to fortify telecom network infrastructure, ensuring robust protection and peace of mind. Safeguard your network with us!'
   },
   {
     image:offerings28,
@@ -1101,17 +1101,17 @@ export const healthSegments=[
   {
     image:offerings24,
     title:"MediTech",
-    paragraph:"ACL Digital's HealthTech solutions empower you to streamline operations, elevate patient satisfaction, and elevate care standards. From enhancing care team coordination to ensuring unparalleled patient journeys and outcomes, count on us for premium, personalized healthcare solutions that align seamlessly with your organization's objectives."
+    paragraph:"Jonaren Technology's HealthTech solutions empower you to streamline operations, elevate patient satisfaction, and elevate care standards. From enhancing care team coordination to ensuring unparalleled patient journeys and outcomes, count on us for premium, personalized healthcare solutions that align seamlessly with your organization's objectives."
   },
   {
     image:offerings25,
     title:"Health Alliance Solutions",
-    paragraph:"Rooted in a consumer-centric approach, ACL Digital offers value-driven care solutions for payers and providers. Our pioneering services enable seamless, top-tier care delivery while enhancing financial viability. Engage with our tech and specialists to explore tailored solutions that surmount obstacles and realize your objectives with precision."
+    paragraph:"Rooted in a consumer-centric approach, Jonaren Technology offers value-driven care solutions for payers and providers. Our pioneering services enable seamless, top-tier care delivery while enhancing financial viability. Engage with our tech and specialists to explore tailored solutions that surmount obstacles and realize your objectives with precision."
   },
   {
     image:offerings27,
     title:"MedCare",
-    paragraph:"ACL Digital pioneers top-tier medical devices, IT services, and consulting solutions. Renowned for our excellence in software, electronics, and mechanical engineering, we craft cutting-edge connected devices. Partner with us to usher in the future of digital medicine, enhancing care standards for premier device manufacturers worldwide."
+    paragraph:"Jonaren Technology pioneers top-tier medical devices, IT services, and consulting solutions. Renowned for our excellence in software, electronics, and mechanical engineering, we craft cutting-edge connected devices. Partner with us to usher in the future of digital medicine, enhancing care standards for premier device manufacturers worldwide."
   }
 ]
 
@@ -1124,22 +1124,22 @@ export const healthOfferings=[
   {
     image:offerings2,
     title:"Comprehensive Patient Journey",
-    paragraph:"ACL Digital's pioneering product development, engineering proficiency, and transformative strategy empower providers, payers, MedTech, and health tech firms to craft integrated solutions. We engineer personalized, on-demand total experiences for healthcare transformation."
+    paragraph:"Jonaren Technology's pioneering product development, engineering proficiency, and transformative strategy empower providers, payers, MedTech, and health tech firms to craft integrated solutions. We engineer personalized, on-demand total experiences for healthcare transformation."
   },
   {
     image:offerings3,
     title:"Remote Health Innovations",
-    paragraph:"The rising demand for virtual health underscores the need for progress in interoperability, business models, and preventive care. ACL Digital delivers holistic virtual care solutions backed by robust frameworks and accelerators."
+    paragraph:"The rising demand for virtual health underscores the need for progress in interoperability, business models, and preventive care. Jonaren Technology delivers holistic virtual care solutions backed by robust frameworks and accelerators."
   },
   {
     image:offerings4,
     title:"IoMT-enhanced Devices",
-    paragraph:"In the realm of Smart Healthcare, IoMT proves its prowess. ACL Digital’s IoMT solutions amalgamate connected devices, platforms, and mobile apps to elevate patient outcomes, leveraging accuracy, reliability, and productivity."
+    paragraph:"In the realm of Smart Healthcare, IoMT proves its prowess. Jonaren Technology’s IoMT solutions amalgamate connected devices, platforms, and mobile apps to elevate patient outcomes, leveraging accuracy, reliability, and productivity."
   },
   {
     image:offerings9,
     title:"Smart Health",
-    paragraph:"ACL Digital's intelligent solutions harness care and operational data to maximize value. Amidst rising data volumes and compliance demands, we empower healthcare entities to capitalize on opportunities facilitated by connected medical devices."
+    paragraph:"Jonaren Technology's intelligent solutions harness care and operational data to maximize value. Amidst rising data volumes and compliance demands, we empower healthcare entities to capitalize on opportunities facilitated by connected medical devices."
   }
 ]
 
@@ -1152,7 +1152,7 @@ export const bankingOfferings=[
   {
     image:offerings11,
     title:"Managing and Optimizing IT Networks",
-    paragraph:"ACL Digital fortifies Banking & Financial institutions with a comprehensive Network and Infrastructure Management suite. Our solutions forge secure, agile, and scalable IT frameworks, driving differentiated value. Through seamless integration and consistency, we cater to diverse organizational objectives, ensuring robustness across all business facets."
+    paragraph:"Jonaren Technology fortifies Banking & Financial institutions with a comprehensive Network and Infrastructure Management suite. Our solutions forge secure, agile, and scalable IT frameworks, driving differentiated value. Through seamless integration and consistency, we cater to diverse organizational objectives, ensuring robustness across all business facets."
   },
   {
     image:offerings12,
@@ -1162,12 +1162,12 @@ export const bankingOfferings=[
   {
     image:offerings18,
     title:"Cybersecurity and IT Protection.",
-    paragraph:"At ACL Digital, our Cyber Security COE offers comprehensive Information Systems Security Governance & Consulting, Audit, and Intrusion & Security Testing services. Trust us to safeguard your digital assets with expert guidance and robust testing methodologies, ensuring peace of mind in an ever-evolving threat landscape."
+    paragraph:"At Jonaren Technology, our Cyber Security COE offers comprehensive Information Systems Security Governance & Consulting, Audit, and Intrusion & Security Testing services. Trust us to safeguard your digital assets with expert guidance and robust testing methodologies, ensuring peace of mind in an ever-evolving threat landscape."
   },
   {
     image:offerings22,
     title:"Compliance and Regulation Solutions.",
-    paragraph:"ACL Digital's regulatory consultants are adept at aiding banking and financial entities in managing compliance gaps, consumer privacy, regulatory readiness, and audit adherence. Stay ahead of regulatory shifts with our expert guidance, ensuring alignment with evolving industry standards and expectations."
+    paragraph:"Jonaren Technology's regulatory consultants are adept at aiding banking and financial entities in managing compliance gaps, consumer privacy, regulatory readiness, and audit adherence. Stay ahead of regulatory shifts with our expert guidance, ensuring alignment with evolving industry standards and expectations."
   },
   {
     image:offerings31,
@@ -1213,27 +1213,27 @@ export const consumerElecSegments=[
   {
     image:offerings5,
     title:"Digital Revolution",
-    paragraph:"Unlock the potential of digital transformation effortlessly with ACL Digital. Our expert professionals craft and implement cutting-edge strategies, while our in-house product platforms swiftly transition legacy devices into intelligent solutions."
+    paragraph:"Unlock the potential of digital transformation effortlessly with Jonaren Technology. Our expert professionals craft and implement cutting-edge strategies, while our in-house product platforms swiftly transition legacy devices into intelligent solutions."
   },
   {
     image:offerings6,
     title:"IoT Ecosystem",
-    paragraph:"ACL Digital's IoT solution development simplifies integration across cloud platforms, sensors, gateways, and chip-to-cloud security, ensuring a seamless end-to-end experience. Effortlessly manage and monitor connected devices remotely through versatile interfaces like mobile apps, tablets, and display interfaces."
+    paragraph:"Jonaren Technology's IoT solution development simplifies integration across cloud platforms, sensors, gateways, and chip-to-cloud security, ensuring a seamless end-to-end experience. Effortlessly manage and monitor connected devices remotely through versatile interfaces like mobile apps, tablets, and display interfaces."
   },
   {
     image:offerings16,
     title:"Elevated User Experience",
-    paragraph:"At ACL Digital, our design process prioritizes user personas and functionality, ensuring intuitive UX/UI that empowers users to control devices seamlessly. We integrate diverse aspects to create innovative solutions tailored to business and consumer needs."
+    paragraph:"At Jonaren Technology, our design process prioritizes user personas and functionality, ensuring intuitive UX/UI that empowers users to control devices seamlessly. We integrate diverse aspects to create innovative solutions tailored to business and consumer needs."
   },
   {
     image:offerings17,
     title:"Proactive Insights",
-    paragraph:"ACL Digital’s predictive and consumer behavior analytics deliver crucial insights into purchasing trends, leveraging cloud, AI/ML solutions, and data analysis to bolster marketing efficacy. Enhance user experience and minimize device failure rates with our cutting-edge solutions."
+    paragraph:"Jonaren Technology’s predictive and consumer behavior analytics deliver crucial insights into purchasing trends, leveraging cloud, AI/ML solutions, and data analysis to bolster marketing efficacy. Enhance user experience and minimize device failure rates with our cutting-edge solutions."
   },
   {
     image:offerings11,
     title:"Enabling 5G in Consumer",
-    paragraph:"ACL Digital pioneers open development methodologies and programming tools to craft an extensive 5G portfolio, shaping the networks of tomorrow. Harness the power of 5G Gbps connectivity to transform consumer electronic devices, ushering in an era of unparalleled user experiences characterized by enhanced network reliability, superior performance, and minimal latency. Redefine connectivity with ACL Digital's innovative solutions."
+    paragraph:"Jonaren Technology pioneers open development methodologies and programming tools to craft an extensive 5G portfolio, shaping the networks of tomorrow. Harness the power of 5G Gbps connectivity to transform consumer electronic devices, ushering in an era of unparalleled user experiences characterized by enhanced network reliability, superior performance, and minimal latency. Redefine connectivity with Jonaren Technology's innovative solutions."
   }
 ]
 
@@ -1241,17 +1241,17 @@ export const consumerElecOfferings=[
   {
     image:offerings1,
     title:"Connected Consumer Electronics",
-    paragraph:"Pioneering consumer electronics solutions, from smart appliances to wearables and security equipment, crafted with innovation and precision to redefine everyday living. Elevate your lifestyle with ACL Digital's cutting-edge technology."
+    paragraph:"Pioneering consumer electronics solutions, from smart appliances to wearables and security equipment, crafted with innovation and precision to redefine everyday living. Elevate your lifestyle with Jonaren Technology's cutting-edge technology."
   },
   {
     image:offerings2,
     title:"Innovative Prototyping",
-    paragraph:"Accelerate innovation with rapid, budget-friendly prototypes for concept validation and field trials, ensuring flawless execution before scaling production. Trust ACL Digital for seamless prototyping."
+    paragraph:"Accelerate innovation with rapid, budget-friendly prototypes for concept validation and field trials, ensuring flawless execution before scaling production. Trust Jonaren Technology for seamless prototyping."
   },
   {
     image:offerings3,
     title:"Cloud and DevOps Services",
-    paragraph:"Unlock the potential of connected consumer solutions with ACL Digital's expertise in cloud application development, migration, and integration. Seamlessly connected, effortlessly transformative."
+    paragraph:"Unlock the potential of connected consumer solutions with Jonaren Technology's expertise in cloud application development, migration, and integration. Seamlessly connected, effortlessly transformative."
   },
   {
     image:offerings4,
@@ -1261,12 +1261,12 @@ export const consumerElecOfferings=[
   {
     image:offerings7,
     title:"End-to-end Testing",
-    paragraph:"Enhance efficiency with ACL Digital's automated testing framework for connected solutions, streamlining processes and ensuring optimal performance for seamless operations."
+    paragraph:"Enhance efficiency with Jonaren Technology's automated testing framework for connected solutions, streamlining processes and ensuring optimal performance for seamless operations."
   },
   {
     image:offerings9,
     title:"Certification & Validation Assurance",
-    paragraph:"Ensure regulatory compliance with ACL Digital's pre-compliance and certification services for CE, CE-RED, FCC, and IC standards, safeguarding quality and market readiness."
+    paragraph:"Ensure regulatory compliance with Jonaren Technology's pre-compliance and certification services for CE, CE-RED, FCC, and IC standards, safeguarding quality and market readiness."
   },
 ]
 
@@ -1274,17 +1274,17 @@ export const networkOfferings=[
   {
     image:offerings24,
     title:"SDN/NFV",
-    paragraph:"Empower your enterprise with ACL Digital's expertise in open-source SDN controller development, customization, and feature enhancements, fostering seamless SDN application development and porting."
+    paragraph:"Empower your enterprise with Jonaren Technology's expertise in open-source SDN controller development, customization, and feature enhancements, fostering seamless SDN application development and porting."
   },
   {
     image:offerings25,
     title:"VNF",
-    paragraph:"Unlock unparalleled performance with ACL Digital's DPDK-optimized virtual network functions, seamlessly integrated and scalable for your business needs. Accelerate time-to-market with our customizable VNF framework."
+    paragraph:"Unlock unparalleled performance with Jonaren Technology's DPDK-optimized virtual network functions, seamlessly integrated and scalable for your business needs. Accelerate time-to-market with our customizable VNF framework."
   },
   {
     image:offerings27,
     title:"L2/L7 Networking",
-    paragraph:"ACL Digital delivers automated L2-L7 network and application services, ensuring seamless operations. Rely on us for integrated solutions encompassing application load balancing and network automation, driving efficiency and performance in your infrastructure."
+    paragraph:"Jonaren Technology delivers automated L2-L7 network and application services, ensuring seamless operations. Rely on us for integrated solutions encompassing application load balancing and network automation, driving efficiency and performance in your infrastructure."
   },
   {
     image:offerings30,
@@ -1294,12 +1294,12 @@ export const networkOfferings=[
   {
     image:offerings31,
     title:"Wireless",
-    paragraph:"ACL Digital provides comprehensive services encompassing development, enhancement, testing, and maintenance for device manufacturers, NEMs, and telecommunications service providers. Empowering innovation and reliability."
+    paragraph:"Jonaren Technology provides comprehensive services encompassing development, enhancement, testing, and maintenance for device manufacturers, NEMs, and telecommunications service providers. Empowering innovation and reliability."
   },
   {
     image:offerings28,
     title:"DPDK Consulting",
-    paragraph:"ACL Digital spearheads network infrastructure services by crafting, deploying, and optimizing Virtual Network Functions (VNFs) with unrivaled performance and scalability through DPDK. Additionally, we support enterprises with performance benchmarking and the development of test tools, ensuring excellence across the board."
+    paragraph:"Jonaren Technology spearheads network infrastructure services by crafting, deploying, and optimizing Virtual Network Functions (VNFs) with unrivaled performance and scalability through DPDK. Additionally, we support enterprises with performance benchmarking and the development of test tools, ensuring excellence across the board."
   },
 ]
 
@@ -1347,7 +1347,7 @@ export const innovationBannerCarousel = [
     image: innovationBanner2,
     heading: "Unlocking Opportunities for Digital Transformation",
     description:
-      "ACL Digital helps create unique customer experience by utilizing emerging technologies to solve complex business challenges",
+      "Jonaren Technology helps create unique customer experience by utilizing emerging technologies to solve complex business challenges",
   },
 ];
 
@@ -1355,14 +1355,14 @@ export const careerCarousel = [
   {
     image: careerCarouselImage,
     caption:
-      "“ONE WORD THAT I WOULD USE TO DEFINE ACL DIGITAL AND THE INDIVIDUALS AT ACL DIGITAL IS DEDICATION”",
+      "“ONE WORD THAT I WOULD USE TO DEFINE Jonaren Technology AND THE INDIVIDUALS AT Jonaren Technology IS DEDICATION”",
     name: "Ramandeep Singh",
     position: "CEO",
   },
   {
     image: careerCarouselImage,
     caption:
-      "“MY VISION AND INSPIRATION IS TO DRIVE OPPORTUNITIES AND PROGRESS FOR THE PEOPLE AND ALL EMPLOYEES OF ACL DIGITAL”",
+      "“MY VISION AND INSPIRATION IS TO DRIVE OPPORTUNITIES AND PROGRESS FOR THE PEOPLE AND ALL EMPLOYEES OF Jonaren Technology”",
     name: "Sai Satyam",
     position: "CFO",
   },
@@ -1473,7 +1473,7 @@ export const aboutDescriptionArr=[
   {
     image:upskillLogo,
     heading:'Enabling the workforce.',
-    description:'We hold the belief that a empowered workforce directly correlates with satisfied customers. At ACL Digital, we are committed to continuously enhancing our workforce skills with cutting-edge technologies and current trends, thereby generating tangible benefits for the company, employees, and the growth of our customers.'
+    description:'We hold the belief that a empowered workforce directly correlates with satisfied customers. At Jonaren Technology, we are committed to continuously enhancing our workforce skills with cutting-edge technologies and current trends, thereby generating tangible benefits for the company, employees, and the growth of our customers.'
   }
 ]
 

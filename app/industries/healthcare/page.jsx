@@ -53,7 +53,7 @@ const page = () => {
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
-              ACL Digital, a renowned innovator in digital technology, strives
+              Jonaren Technology, a renowned innovator in digital technology, strives
               to unify healthcare experiences. Leveraging innovation, product
               engineering, and a strategic Total Experience (TX) approach, we
               empower stakeholders to simplify and transform healthcare
@@ -91,7 +91,7 @@ const page = () => {
             Segments
           </h1>
           <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
-            ACL Digital harnesses extensive industry expertise gained from
+            Jonaren Technology harnesses extensive industry expertise gained from
             partnerships with top healthcare entities in Provider, Payer, and
             Medical Device sectors. Our skilled engineers employ cutting-edge
             tech to empower clients in achieving impactful, business-aligned
@@ -125,7 +125,7 @@ const page = () => {
             Offerings
           </h1>
           <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
-            ACL Digital pioneers secure, compliant, and interoperable healthcare
+            Jonaren Technology pioneers secure, compliant, and interoperable healthcare
             and medical device engineering solutions through design-led
             engineering services. Our expertise fuels digital innovation,
             business transformation, and industry convergence.

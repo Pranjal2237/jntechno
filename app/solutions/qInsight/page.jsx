@@ -283,7 +283,7 @@ const page = () => {
       <div className="qinsight-benifits-container">
         <div style={{ width: "1100px", marginInline: "auto" }}>
           <h1 style={{ fontWeight: "700", fontSize: "32px" }}>
-            QInsight Benefits
+            QInsight Benefits 
           </h1>
           <div
             style={{

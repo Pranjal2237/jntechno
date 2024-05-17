@@ -62,7 +62,7 @@ const page = () => {
               converting legacy systems, and evolving technologies must be
               addressed. From home security and energy management to online
               shopping and entertainment, tech-savvy consumers can rely on ACL
-              Digital for interactive and immersive experiences. ACL Digital
+              Digital for interactive and immersive experiences. Jonaren Technology
               provides solutions that ensure a seamless, secure, and efficient
               smart home environment for today's connected world.
             </p>
@@ -74,7 +74,7 @@ const page = () => {
               various IoT devices, ensuring an exceptional user experience. For
               OEMs and device manufacturers, we offer a ready-to-use,
               pre-integrated IoT home automation platform through HomeBridge®.
-              At ACL Digital, we transform traditional devices into connected
+              At Jonaren Technology, we transform traditional devices into connected
               ones, designing and integrating AV-enabled smart home solutions
               with voice assistants like Google and Alexa. Rely on us for
               modern, efficient, and secure smart home innovations.
@@ -133,7 +133,7 @@ const page = () => {
                 Alliance Compliance Standards
               </h2>
               <p style={{ fontSize: "18px", marginTop: "12px" }}>
-                As an alliance member, ACL Digital facilitates Z-Wave, Thread,
+                As an alliance member, Jonaren Technology facilitates Z-Wave, Thread,
                 Zigbee, etc., simplifying product commercialization and approval
                 processes with local/global authorities.
               </p>
@@ -229,7 +229,7 @@ const page = () => {
       <div className="qinsight-benifits-container">
         <div style={{ width: "1100px", marginInline: "auto" }}>
           <h1 style={{ fontWeight: "700", fontSize: "32px" }}>
-            Why Choose ACL Digital?
+            Why Choose Jonaren Technology?
           </h1>
           <div
             style={{
