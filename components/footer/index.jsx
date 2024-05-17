@@ -1,7 +1,7 @@
 import { footer } from '@/constant'
 import React from 'react'
 import '../../styles/global.css'
-import { alten, facebook, instagram, linkedin, twitter, youtube } from '@/public'
+import {  facebook, instagram, linkedin, twitter, youtube } from '@/public'
 import Image from 'next/image'
 import Link from 'next/link'
 
