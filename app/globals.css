@@ -3,9 +3,6 @@
 @tailwind utilities;
 
 :root {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
   --blue: #007bff;
   --indigo: #6610f2;
   --purple: #6f42c1;
@@ -32,29 +29,63 @@
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
+  --font-xl:32px;
+  --font-lg:28px;
+  --font-md:20px;
+  --font-sm:18px;
+  --font-xs:16px;
 }
 
-/* @media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-} */
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
 
-/* body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
-} */
+a{
+  text-decoration: none;
+}
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
+
+.wrapper{
+  padding: 0 10rem;
+}
+
+h1{
+  font-size: var(--font-xl);
+}
+
+h2{
+  font-size: var(--font-lg);
+}
+
+h3{
+  font-size: var(--font-md);
+}
+
+h4{
+  font-size: var(--font-sm);
+}
+
+h5{
+  font-size: var(--font-xs);
+  font-weight: 500;
+}
+
+@media screen and (max-width:var(--breakpoint-xl)) {
+  .wrapper{
+    padding: 0 6rem;
   }
 }
 
+@media screen and (max-width:var(--breakpoint-md)) {
+  .wrapper{
+    padding: 0 4rem;
+  }
+}
+
+@media screen and (max-width:var(--breakpoint-sm)) {
+  .wrapper{
+    padding: 0 2rem;
+  }
+}

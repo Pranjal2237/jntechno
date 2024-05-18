@@ -25,11 +25,10 @@ export default function RootLayout({ children }) {
         >
           <div
             style={{
-              width: "1100px",
-              marginInline: "auto",
               display: "grid",
-              gridTemplateColumns: "1fr 3fr",
+              gridTemplateColumns: "0.75fr 3fr",
             }}
+            className="wrapper"
           >
             <h2
               style={{

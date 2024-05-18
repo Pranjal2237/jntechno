@@ -11,7 +11,7 @@ const Banner = ({
   justify="flex-start"
 }) => {
   return (
-    <div style={{ background: "green", position: "relative" }}>
+    <div style={{position: "relative" }}>
       <div>
         <Image
           src={image}
@@ -25,12 +25,11 @@ const Banner = ({
           position: "absolute",
           zIndex: "10",
           inset: "0",
-          maxWidth: "1100px",
-          marginInline: "auto",
           display: "flex",
           alignItems: "center",
           justifyContent:justify
         }}
+        className="wrapper"
       >
         <div
           style={{

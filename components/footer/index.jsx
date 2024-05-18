@@ -9,7 +9,7 @@ const Footer = () => {
   return (
     <>
       <div className='footer'>
-      <div>
+      <div className='wrapper'>
         {footer.map(({heading,subnav,navLink})=>(
           <div className='footer_content'>
             <h2>{heading}</h2>
@@ -24,7 +24,7 @@ const Footer = () => {
     </div>
     <div className='social'>
     <div className='social_box'>
-        {/* <div>
+        <div>
           {
             [linkedin,twitter,facebook,youtube,instagram].map((image)=>(
               <div>
@@ -32,7 +32,7 @@ const Footer = () => {
               </div>
             ))
           }
-        </div> */}
+        </div>
         <h2>
         business@acldigital.com
         </h2>

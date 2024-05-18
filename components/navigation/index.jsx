@@ -30,7 +30,7 @@ const Navigation = () => {
   },[pathname])
   return (
     <div className={isscroll===true?'navigation scroll':'navigation'}>
-      <div className='nav_box'>
+      <div className='nav_box wrapper'>
         <div className='nav_logo'>
           <Link href='/'>
           <Image src={logo} />
@@ -41,12 +41,12 @@ const Navigation = () => {
             navigation.map(({nav,subnav,navLink})=>(
               <div>
               <li>
-                <Link href={`/${navLink}`} style={{color:isscroll===true?'#333':'#fff'}}>{nav}</Link>
+                <div style={{color:isscroll===true?'#333':'#fff'}}><h5 style={nav.toLowerCase()===activePath?{fontWeight:'600'}:{}}>{nav}</h5></div>
                 <div className='after' style={nav.toLowerCase()===activePath?{display:'block'}:{}}></div>
               </li>
               {
                 subnav?.length>0 && <div className='subnav'>
-                <div>
+                <div className='wrapper'>
                 {
                   subnav?.length>0 && subnav.map(({heading,headingLink,options})=>(
                     <div>

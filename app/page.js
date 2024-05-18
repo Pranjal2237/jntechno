@@ -21,7 +21,7 @@ const Home = () => {
     <div>
       <Carousel autoplay={true} BannerCarousel={HomBannerCarousel} />
       <div style={{ background: "#545454", padding: "3.5rem 0" }}>
-        <div style={{ maxWidth: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h1
             style={{
               fontSize: "32px",
@@ -78,7 +78,7 @@ const Home = () => {
         height="420px"
       />
       <div style={{ background: "#545454", padding: "3.5rem 0" }}>
-        <div style={{ maxWidth: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h1
             style={{
               fontSize: "32px",
@@ -106,13 +106,12 @@ const Home = () => {
       <div style={{ padding: "1rem 0" }}>
         <div
           style={{
-            width: "1100px",
-            marginInline: "auto",
             display: "grid",
             gridTemplateColumns: "repeat(3,1fr)",
             gap: "0.3rem",
             rowGap: "0.3rem",
           }}
+          className="wrapper"
         >
           <div
             style={{
