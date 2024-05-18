@@ -1,7 +1,7 @@
 import { footer } from '@/constant'
 import React from 'react'
 import '../../styles/global.css'
-import {  facebook, instagram, linkedin, twitter, youtube } from '@/public'
+import {  facebook, linkedin, twitter, youtube } from '@/public'
 import Image from 'next/image'
 import Link from 'next/link'
 
@@ -26,7 +26,7 @@ const Footer = () => {
     <div className='social_box'>
         <div>
           {
-            [linkedin,twitter,facebook,youtube,instagram].map((image)=>(
+            [linkedin,twitter,facebook,youtube].map((image)=>(
               <div>
                 <Link href="/"><Image src={image} /></Link>
               </div>
