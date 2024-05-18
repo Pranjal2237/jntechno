@@ -132,7 +132,7 @@ const Home = () => {
               Who we are
             </h1>
             <h2 style={{ fontSize: "20px", fontWeight: "600" }}>
-              ACL Digital + ALTEN{" "}
+              Jonaren Technology
             </h2>
             <p style={{ fontWeight: "16px", marginTop: "10px" }}>
               Digital Product Innovation and Engineering Leader helping clients
