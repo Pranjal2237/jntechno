@@ -4,15 +4,19 @@ import '../../styles/global.css'
 import {  facebook, linkedin, twitter, youtube } from '@/public'
 import Image from 'next/image'
 import Link from 'next/link'
+import { Poppins } from 'next/font/google'
+import styles from './styles.module.css'
+
+const poppins=Poppins({subsets:["latin"],weight:['400','500','600','700']})
 
 const Footer = () => {
   return (
-    <>
-      <div className='footer'>
+    <div className={poppins.className}>
+      <div className={styles.footer}>
       <div className='wrapper'>
         {footer.map(({heading,subnav,navLink})=>(
-          <div className='footer_content'>
-            <h2>{heading}</h2>
+          <div className={styles.footerContent}>
+            <h5>{heading}</h5>
             {subnav && subnav.map(({heading,headingLink})=>(
               <Link href={`${navLink}${headingLink}`}>
                 {heading}
@@ -22,8 +26,8 @@ const Footer = () => {
         ))}
       </div>
     </div>
-    <div className='social'>
-    <div className='social_box'>
+    <div className={styles.social}>
+    <div className='wrapper'>
         <div>
           {
             [linkedin,twitter,facebook,youtube].map((image)=>(
@@ -37,10 +41,10 @@ const Footer = () => {
         business@acldigital.com
         </h2>
         <h2>1234567890</h2>
-      </div>
     </div>
-    <div className='policies'>
-      <div>
+    </div>
+    <div className={styles.policies}>
+      <div className='wrapper'>
         <div>
         <p>© 2024 ACL Digital. All Rights Reserved.</p>
         </div>
@@ -52,7 +56,7 @@ const Footer = () => {
         </div>
       </div>
     </div>
-    </>
+    </div>
   )
 }
 

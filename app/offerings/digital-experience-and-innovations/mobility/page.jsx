@@ -1,6 +1,6 @@
 import Banner from "@/components/banner";
 import Active from "@/components/cards/active";
-import { blog, innovationOfferings } from "@/constant";
+import { blog, innovationOfferings, mobileOfferings } from "@/constant";
 import { digital, graphics6, terms } from "@/public";
 import Image from "next/image";
 
@@ -9,8 +9,8 @@ const page = () => {
     <div>
       <Banner
         image={terms}
-        heading="Smart, Secure and Connected Mobility Solutions"
-        description="Driving the digital economy and transformations"
+        heading="Elevating Mobility: Innovative, Secure, and Interconnected Solutions for Modern Lifestyles"
+        description="Empowering Digital Growth and Evolution: Driving Innovation in the Economy"
         height="560px"
       />
       <div
@@ -22,7 +22,7 @@ const page = () => {
           top: "0px",
         }}
       >
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h2
             style={{
               fontSize: "28px",
@@ -38,12 +38,11 @@ const page = () => {
       <div style={{ marginBlock: "2rem" }}>
         <div
           style={{
-            width: "1100px",
-            marginInline: "auto",
             display: "flex",
             alignItems: "center",
             gap: "2.5rem",
           }}
+          className="wrapper"
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
@@ -78,7 +77,7 @@ const page = () => {
         </div>
       </div>
       <div style={{ marginBlock: "3rem" }}>
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h1
             style={{
               fontSize: "32px",
@@ -97,7 +96,7 @@ const page = () => {
             include:
           </p>
           <div className="offering-container">
-            {innovationOfferings.map(({ image, title, paragraph }) => (
+            {mobileOfferings.map(({ image, title, paragraph }) => (
               <div>
                 <Active image={image} title={title} paragraph={paragraph} />
               </div>

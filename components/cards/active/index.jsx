@@ -5,7 +5,7 @@ import Link from 'next/link'
 import React from 'react'
 import '@/styles/global.css'
 
-const Active = ({image,title,paragraph}) => {
+const Active = ({image,title,paragraph,haveLink=false,link}) => {
   return (
     <div className='card'>
       <Image src={image} style={{width:'100%'}} />
@@ -13,7 +13,7 @@ const Active = ({image,title,paragraph}) => {
         <h3>{title}</h3>
         <p>{paragraph}</p>
       </div>
-      <Link href='/' className='card_link'><span>READ MORE</span></Link>
+      {haveLink && <Link href={link} className='card_link'><span>READ MORE</span></Link>}
     </div>
   )
 }

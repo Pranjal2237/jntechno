@@ -51,7 +51,7 @@ const Form = () => {
     });
 
   return (
-    <form className="enquiry-form" onSubmit={handleSubmit} ref={form}>
+    <form id="enquiry" className="enquiry-form" onSubmit={handleSubmit} ref={form}>
       <div className="input-block">
         <label htmlFor="name">
           Name <span>*</span>

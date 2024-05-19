@@ -1,5 +1,7 @@
 import Image from "next/image";
 import React from "react";
+import styles from './styles.module.css'
+import Link from "next/link";
 
 const Banner = ({
   image,
@@ -42,14 +44,13 @@ const Banner = ({
         >
           <h2
             style={{
-              fontSize: "30px",
-              fontWeight: "700",
+              fontWeight: "var(--fw-semi_bold)",
               letterSpacing: "0.26px",
             }}
           >
             {heading}
           </h2>
-          <p style={{ fontSize: "22px", fontWeight: "500" }}>{description}</p>
+          <p style={{ fontSize: "20px", fontWeight: "500" }}>{description}</p>
           {haveButton && (
             <button
               style={{
@@ -58,7 +59,7 @@ const Banner = ({
                 fontSize: "18px",
               }}
             >
-              {buttonText}
+              <Link href='#enquiry'>{buttonText}</Link>
             </button>
           )}
         </div>

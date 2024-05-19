@@ -22,7 +22,7 @@ const page = () => {
           top: "0px",
         }}
       >
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h2
             style={{
               fontSize: "28px",
@@ -31,19 +31,18 @@ const page = () => {
               letterSpacing: "0.5px",
             }}
           >
-            Workforce Scheduler
+            Jonaren Technology
           </h2>
         </div>
       </div>
       <div style={{ marginBlock: "2rem" }}>
         <div
           style={{
-            width: "1100px",
-            marginInline: "auto",
             display: "flex",
             alignItems: "center",
             gap: "2.5rem",
           }}
+          className="wrapper"
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "16px" }}>
             <p>
@@ -78,7 +77,7 @@ const page = () => {
       <div
         style={{ paddingBlock: "3rem", background: "#202834", color: "#fff" }}
       >
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <div
             style={{
               display: "flex",
@@ -92,32 +91,30 @@ const page = () => {
                 <div style={{ display: "flex", justifyContent: "center" }}>
                   <Image src={image} />
                 </div>
-                <h2
+                <h5
                   style={{
-                    fontSize: "20px",
                     fontWeight: "600",
                     marginTop: "20px",
                     textAlign: "center",
                   }}
                 >
                   {heading}
-                </h2>
-                <p
+                </h5>
+                <h5
                   style={{
-                    fontSize: "18px",
                     marginTop: "12px",
                     textAlign: "center",
                   }}
                 >
                   {description}
-                </p>
+                </h5>
               </div>
             ))}
           </div>
         </div>
       </div>
       <div style={{ paddingBlock: "3rem" }}>
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h1 style={{ fontSize: "32px", fontWeight: "600" }}>Vision</h1>
           <p>
           Being the top choice for creative solutions in Product Innovation and Digital Transformation.
@@ -134,18 +131,17 @@ const page = () => {
                   <Image src={image} />
                 </div>
                 <div>
-                  <h3
+                  <h5
                     style={{
-                      fontSize: "18px",
                       fontWeight: "600",
                       marginBottom: "1rem",
                     }}
                   >
                     {heading}
-                  </h3>
-                  <p style={{ fontSize: "17px", color: "#333" }}>
+                  </h5>
+                  <h5 style={{ color: "#333" }}>
                     {description}
-                  </p>
+                  </h5>
                 </div>
               </div>
             ))}

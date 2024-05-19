@@ -20,13 +20,12 @@ const page = () => {
           top: "0px",
         }}
       >
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h2
             style={{
-              fontSize: "28px",
+              fontSize: "23px",
               color: "#333",
-              fontWeight: "600",
-              letterSpacing: "0.5px",
+              fontWeight: "var(--fw-bold)",
             }}
           >
             Digital Experience & Innovations
@@ -36,12 +35,11 @@ const page = () => {
       <div style={{ marginBlock: "2rem" }}>
         <div
           style={{
-            width: "1100px",
-            marginInline: "auto",
             display: "flex",
             alignItems: "center",
             gap: "2.5rem",
           }}
+          className="wrapper"
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
@@ -74,11 +72,11 @@ const page = () => {
         </div>
       </div>
       <div style={{ marginBlock: "3rem" }}>
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h1
             style={{
-              fontSize: "32px",
-              fontWeight: "600",
+              color:"#333333",
+              fontWeight: "var(--fw-bold)",
               marginBottom: "0.2rem",
             }}
           >
@@ -92,9 +90,9 @@ const page = () => {
             of Digital Experience & Innovation services encompasses:
           </p>
           <div className="offering-container">
-            {innovationOfferings.map(({ image, title, paragraph }) => (
+            {innovationOfferings.map(({ image, title, paragraph, haveLink, link }) => (
               <div>
-                <Active image={image} title={title} paragraph={paragraph} />
+                <Active image={image} title={title} haveLink={haveLink} link={link} paragraph={paragraph} />
               </div>
             ))}
           </div>

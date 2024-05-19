@@ -1,4 +1,5 @@
 import Banner from "@/components/banner";
+import Dynamic from "@/components/cards/dynamic";
 import {
   blog,
   homeBridgeOfferings,
@@ -98,26 +99,7 @@ const page = () => {
             }}
           >
             {homeBridgeOfferings.map(({ heading, content }) => (
-              <div
-                style={{
-                  flex: "0 1 31%",
-                  paddingInline: "1rem",
-                  paddingBlock: "3rem",
-                  background: "#f7f7f6",
-                  boxShadow: "0 3px 6px #00000029",
-                }}
-              >
-                <h3
-                  style={{
-                    fontSize: "20px",
-                    fontWeight: "600",
-                    marginBottom: "7px",
-                  }}
-                >
-                  {heading}
-                </h3>
-                <p>{content}</p>
-              </div>
+              <Dynamic heading={heading} content={content} />
             ))}
           </div>
         </div>

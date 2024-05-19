@@ -8,7 +8,7 @@ import Image from "next/image"
 const page = () => {
   return (
     <div>
-      <Banner image={enterpriseAgilityBanner} heading="Connected Enterprises – Radically Reforming Companies and Competition" height="560px" />
+      <Banner image={enterpriseAgilityBanner} heading="Empower Enterprise Agility: DevOps, SAFe, Automation Frameworks & Services for Security." height="560px" />
       <div
         style={{
           padding: "1rem 0",
@@ -18,7 +18,7 @@ const page = () => {
           top:'0px'
         }}
       >
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h2
             style={{
               fontSize: "28px",
@@ -34,12 +34,11 @@ const page = () => {
       <div style={{ marginBlock: "2rem" }}>
         <div
           style={{
-            width: "1100px",
-            marginInline: "auto",
             display: "flex",
             alignItems: "center",
             gap: "2.5rem",
           }}
+          className="wrapper"
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
@@ -74,7 +73,7 @@ const page = () => {
         </div>
       </div>
       <div style={{ marginBlock: "3rem" }}>
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h1
             style={{
               fontSize: "32px",

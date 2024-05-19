@@ -62,91 +62,12 @@
   background-color: var(--orange);
 }
 
-.footer{
-  background-color: #232323;
-  color: #fff;
-  padding: 2.5rem 0;
-  position: relative;
-}
-
-.footer>div{
-  display: flex;
-  justify-content: space-between;
-}
-
-.footer_content h2{
-  border-bottom: 1px solid #707070;
-  font-size: 18px;
-  font-weight: 600;
-}
-
-.footer_content a{
-  color: #FAF2F2;
-  font-size: 16px;
-  opacity: 0.7;
-  margin-top: 10px;
-  font-weight: 600;
-  display: block;
-}
-
-.footer_content p:hover{
-  cursor: pointer;
-}
-
 .absolute{
   position: absolute;
   bottom: 0;
   right: 0;
   display: flex;
   flex-direction: row-reverse;
-}
-
-.social{
-  background-color: #000000;
-  padding: 10px 0;
-}
-
-.social_box{
-  width: 1100px;
-  margin-inline: auto;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  color: #fff;
-}
-
-.social_box>div{
-  display: flex;
-  gap: 1rem;
-}
-
-.social_box>h2{
-  font-size: 18px;
-  font-weight: 600;
-}
-
-.policies{
-  background-color: #232323;
-  padding: 10px 0;
-}
-
-.policies>div{
-  width: 1100px;
-  margin-inline: auto;
-  display: flex;
-  color: #FAF2F2;
-  opacity: 0.7;
-  font-size: 14px;
-  justify-content: space-between;
-}
-
-.policies>div a{
-  padding:0 10px;
-  cursor: pointer;
-}
-
-.policies>div>div>a:where(:not(:nth-child(1))){
-  border-left: 1px solid #707070;
 }
 
 .navigation{
@@ -324,49 +245,9 @@
   background-color: #fff;
 }
 
-.contact-container{
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2rem;
-  margin-block: 4rem;
-}
-
-.contact-container>.contact-box{
-  flex: 0 1 30%;
-  box-shadow: 0 3px 6px #00000029;
-  padding: 1rem;
-  background-color: #f7f7f6;
-}
-
-.contact-box>h1{
-  font-size: 18px;
-  font-weight: 600;
-  color: #333333;
-}
-
-.contact-box>h2{
-  font-size: 16px;
-  font-weight: 600;
-  color: #333333;
-  margin-top: 30px;
-  margin-bottom: 0.2rem;
-}
-
-.contact-box>p{
-  font-size: 16px;
-  color: var(--gray);
-  font-size: 16px;
-}
-
-.contact-box>p:nth-child(even){
-  padding-bottom: 32px;
-}
-
 .offering-container{
   display: flex;
   flex-wrap: wrap;
-  max-width: 1100px;
-  margin-inline: auto;
   gap: 1.5rem;
 }
 

@@ -1,14 +1,14 @@
 import Banner from "@/components/banner"
 import Active from "@/components/cards/active"
-import { blog, innovationOfferings } from "@/constant"
-import { customerBanner, digital, graphics11, homeBanner9} from "@/public"
+import { blog, customerOfferings, innovationOfferings } from "@/constant"
+import { customerBanner, digital, graphics11, homeBanner9, workplaceBanner} from "@/public"
 import Image from "next/image"
 
 
 const page = () => {
   return (
     <div>
-      <Banner image={customerBanner} heading="Terms of Use" height="560px" />
+      <Banner image={customerBanner} heading="Transform Your Business with a Customer Experience Focus." height="560px" />
       <div
         style={{
           padding: "1rem 0",
@@ -18,7 +18,7 @@ const page = () => {
           top:'0px'
         }}
       >
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h2
             style={{
               fontSize: "28px",
@@ -34,12 +34,11 @@ const page = () => {
       <div style={{ marginBlock: "2rem" }}>
         <div
           style={{
-            width: "1100px",
-            marginInline: "auto",
             display: "flex",
             alignItems: "center",
             gap: "2.5rem",
           }}
+          className="wrapper"
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
@@ -74,7 +73,7 @@ const page = () => {
         </div>
       </div>
       <div style={{ marginBlock: "3rem" }}>
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h1
             style={{
               fontSize: "32px",
@@ -93,20 +92,20 @@ const page = () => {
             include:
           </p>
           <div className="offering-container">
-            {innovationOfferings.map(({ image, title, paragraph }) => (
+            {customerOfferings.map(({ image, title, paragraph,haveLink=false,link='/' }) => (
               <div>
-                <Active image={image} title={title} paragraph={paragraph} />
+                <Active image={image} title={title} paragraph={paragraph} haveLink={haveLink} link={link} />
               </div>
             ))}
           </div>
         </div>
       </div>
       <Banner
-        image={homeBanner9}
-        heading="Experience 360"
-        description="Whether it is customer experience, user experience, employee experience, or multi-experience, Jonaren Technology’s Total Experience Strategy, and the innovation process, including deliverables, will help you bring the entire 360° Experience to the forefront."
+        image={workplaceBanner}
+        heading="Ready for Digital Transformation?"
+        description="For a strategic digital transformation roadmap, choose ACL Digital. We offer top-level assessments to gauge your organization’s digital maturity and guide your transformation journey."
         haveButton={true}
-        buttonText="TALK TO OUR CONSULTANT"
+        buttonText="LEARN MORE"
         height="420px"
       />
       <div

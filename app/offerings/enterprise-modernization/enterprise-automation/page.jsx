@@ -1,6 +1,6 @@
 import Banner from "@/components/banner"
 import Active from "@/components/cards/active"
-import { blog, innovationOfferings } from "@/constant"
+import { blog, enterpriseAutOfferings, innovationOfferings } from "@/constant"
 import { digital, enterpriseAutomationBanner, graphics18, terms } from "@/public"
 import Image from "next/image"
 
@@ -8,7 +8,7 @@ import Image from "next/image"
 const page = () => {
   return (
     <div>
-      <Banner image={enterpriseAutomationBanner} heading="Connected Enterprises – Radically Reforming Companies and Competition" height="560px" />
+      <Banner image={enterpriseAutomationBanner} heading="Empowering Enterprise Evolution: Automation at the Forefront of Digital Transformation" height="560px" />
       <div
         style={{
           padding: "1rem 0",
@@ -18,7 +18,7 @@ const page = () => {
           top:'0px'
         }}
       >
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h2
             style={{
               fontSize: "28px",
@@ -34,12 +34,11 @@ const page = () => {
       <div style={{ marginBlock: "2rem" }}>
         <div
           style={{
-            width: "1100px",
-            marginInline: "auto",
             display: "flex",
             alignItems: "center",
             gap: "2.5rem",
           }}
+          className="wrapper"
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
@@ -74,7 +73,7 @@ const page = () => {
         </div>
       </div>
       <div style={{ marginBlock: "3rem" }}>
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h1
             style={{
               fontSize: "32px",
@@ -93,7 +92,7 @@ const page = () => {
             include:
           </p>
           <div className="offering-container">
-            {innovationOfferings.map(({ image, title, paragraph }) => (
+            {enterpriseAutOfferings.map(({ image, title, paragraph }) => (
               <div>
                 <Active image={image} title={title} paragraph={paragraph} />
               </div>

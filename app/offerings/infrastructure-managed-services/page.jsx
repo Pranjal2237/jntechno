@@ -1,6 +1,6 @@
 import Banner from "@/components/banner"
 import Active from "@/components/cards/active"
-import { blog, innovationOfferings } from "@/constant"
+import { blog, infraOfferings, innovationOfferings } from "@/constant"
 import { digital, graphics57, imsBanner, terms } from "@/public"
 import Image from "next/image"
 
@@ -8,7 +8,7 @@ import Image from "next/image"
 const page = () => {
   return (
     <div>
-      <Banner image={imsBanner} heading="Connected Enterprises – Radically Reforming Companies and Competition" height="560px" />
+      <Banner image={imsBanner} heading="Reimagining IT Infrastructure – For Today, Tomorrow, and the Future." height="560px" />
       <div
         style={{
           padding: "1rem 0",
@@ -18,7 +18,7 @@ const page = () => {
           top:'0px'
         }}
       >
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h2
             style={{
               fontSize: "28px",
@@ -27,19 +27,18 @@ const page = () => {
               letterSpacing: "0.5px",
             }}
           >
-           Connected Enterprise
+           Infrastructure Managed Services
           </h2>
         </div>
       </div>
       <div style={{ marginBlock: "2rem" }}>
         <div
           style={{
-            width: "1100px",
-            marginInline: "auto",
             display: "flex",
             alignItems: "center",
             gap: "2.5rem",
           }}
+          className="wrapper"
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
@@ -74,7 +73,7 @@ const page = () => {
         </div>
       </div>
       <div style={{ marginBlock: "3rem" }}>
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h1
             style={{
               fontSize: "32px",
@@ -82,7 +81,7 @@ const page = () => {
               marginBottom: "0.2rem",
             }}
           >
-            Our connected enterprise offerings
+            Offerings
           </h1>
           <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
             ACL Digital’s enterprise-grade Digital Experience platforms help
@@ -93,9 +92,9 @@ const page = () => {
             include:
           </p>
           <div className="offering-container">
-            {innovationOfferings.map(({ image, title, paragraph }) => (
+            {infraOfferings.map(({ image, title, paragraph,haveLink=false,link='' }) => (
               <div>
-                <Active image={image} title={title} paragraph={paragraph} />
+                <Active image={image} title={title} paragraph={paragraph} haveLink={haveLink} link={link} />
               </div>
             ))}
           </div>

@@ -8,13 +8,11 @@ import {
   transformation,
   about,
   blog,
-  innovationOfferings,
   HomBannerCarousel,
 } from "@/constant";
-import { abiBanner, homeBanner9 } from "@/public";
+import { abiBanner } from "@/public";
 import "../styles/global.css";
 import Image from "next/image";
-import Active from "@/components/cards/active";
 
 const Home = () => {
   return (
@@ -75,6 +73,7 @@ const Home = () => {
         heading="Technology, Media, and Telecommunication"
         description="Our comprehensive services equip TMT companies to navigate the dynamic business landscape, building their ability to adapt and overcome challenges."
         buttonText="READ MORE"
+        haveButton={true}
         height="420px"
       />
       <div style={{ background: "#545454", padding: "3.5rem 0" }}>

@@ -1,5 +1,6 @@
 import Banner from "@/components/banner";
-import { homeBridgeOfferings } from "@/constant";
+import Dynamic from "@/components/cards/dynamic";
+import { homeBridgeOfferings, homeOfferings } from "@/constant";
 import { digital, graphics13, qinsightBenifits1, terms } from "@/public";
 import Image from "next/image";
 
@@ -21,7 +22,7 @@ const page = () => {
           top: "0px",
         }}
       >
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h2
             style={{
               fontSize: "28px",
@@ -37,12 +38,11 @@ const page = () => {
       <div style={{ marginBlock: "2rem" }}>
         <div
           style={{
-            width: "1100px",
-            marginInline: "auto",
             display: "flex",
             alignItems: "center",
             gap: "2.5rem",
           }}
+          className="wrapper"
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "16px" }}>
             <p>
@@ -75,7 +75,7 @@ const page = () => {
         </div>
       </div>
       <div style={{paddingBlock:'3rem',color:'#fff',background:'black'}}>
-        <div style={{width:'1100px',marginInline:'auto'}}>
+        <div className="wrapper">
             <h1 style={{fontSize:'32px',fontWeight:'600',marginBottom:'30px'}}>Features</h1>
             {
                 [1,2,3,4,5,6,7,8,9].map(()=>(
@@ -93,40 +93,19 @@ const page = () => {
         </div>
       </div>
       <div style={{ paddingBlock: "3rem", color: "#333" }}>
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h1 style={{ fontSize: "32px", fontWeight: "600" }}>
           Benefits
           </h1>
-          <div
-            style={{
-              display: "flex",
-              justifyContent: "space-between",
-              marginTop: "30px",
-            }}
-          >
-            {homeBridgeOfferings.map(({ heading, content }) => (
-              <div
-                style={{
-                  flex: "0 1 31%",
-                  paddingInline: "1rem",
-                  paddingBlock: "3rem",
-                  background: "#f7f7f6",
-                  boxShadow: "0 3px 6px #00000029",
-                }}
-              >
-                <h3
-                  style={{
-                    fontSize: "20px",
-                    fontWeight: "600",
-                    marginBottom: "7px",
-                  }}
-                >
-                  {heading}
-                </h3>
-                <p>{content}</p>
-              </div>
-            ))}
-          </div>
+          <div style={{display:'grid',gridTemplateColumns:'repeat(3,1fr)',gap:'2rem',marginTop:'2rem'}}>
+          {
+            homeOfferings.map(({heading,content,haveLogo,logo})=>(
+              <>
+                <Dynamic heading={heading} content={content} haveLogo={haveLogo} logo={logo} />
+              </>
+            ))
+          }
+        </div>
         </div>
       </div>
     </div>

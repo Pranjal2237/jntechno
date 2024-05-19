@@ -1,5 +1,6 @@
 import Banner from "@/components/banner";
-import { blog } from "@/constant";
+import Dynamic from "@/components/cards/dynamic";
+import { blog, homeOfferings, medicalOfferings } from "@/constant";
 import {
   digital,
   terms,
@@ -29,7 +30,7 @@ const page = () => {
           top: "0px",
         }}
       >
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h2
             style={{
               fontSize: "28px",
@@ -45,12 +46,11 @@ const page = () => {
       <div style={{ marginBlock: "2rem" }}>
         <div
           style={{
-            width: "1100px",
-            marginInline: "auto",
             display: "flex",
             alignItems: "center",
             gap: "2.5rem",
           }}
+          className="wrapper"
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "16px" }}>
             <p>
@@ -92,8 +92,20 @@ const page = () => {
           </div>
         </div>
       </div>
+      <div className="wrapper qinsight-benifits-container" style={{ paddingBlock: "4rem" }}>
+        <h1>Offerings</h1>
+        <div style={{display:'grid',gridTemplateColumns:'repeat(3,1fr)',gap:'2rem',marginTop:'2rem'}}>
+          {
+            homeOfferings.map(({heading,content,haveLogo,logo})=>(
+              <>
+                <Dynamic heading={heading} content={content} haveLogo={haveLogo} logo={logo} />
+              </>
+            ))
+          }
+        </div>
+      </div>
       <div style={{ backgroundColor: "#004275", paddingBlock: "3rem" }}>
-        <div style={{ width: "1100px", marginInline: "auto", color: "#fff" }}>
+        <div style={{ color: "#fff" }} className="wrapper">
           <h1 style={{ fontSize: "32px", fontWeight: "600" }}>
             Market Demands
           </h1>
@@ -227,7 +239,7 @@ const page = () => {
         </div>
       </div>
       <div className="qinsight-benifits-container">
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h1 style={{ fontWeight: "700", fontSize: "32px" }}>
             Why Choose Jonaren Technology?
           </h1>

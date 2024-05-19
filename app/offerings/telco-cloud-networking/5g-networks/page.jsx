@@ -1,6 +1,6 @@
 import Banner from "@/components/banner"
 import Active from "@/components/cards/active"
-import { blog, innovationOfferings } from "@/constant"
+import { blog, fiveGOfferings, innovationOfferings } from "@/constant"
 import { FivegBanner, digital, graphics47, terms } from "@/public"
 import Image from "next/image"
 
@@ -8,7 +8,7 @@ import Image from "next/image"
 const page = () => {
   return (
     <div>
-      <Banner image={FivegBanner} heading="Connected Enterprises – Radically Reforming Companies and Competition" height="560px" />
+      <Banner image={FivegBanner} heading="Secure 5G Transition" height="560px" />
       <div
         style={{
           padding: "1rem 0",
@@ -18,7 +18,7 @@ const page = () => {
           top:'0px'
         }}
       >
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h2
             style={{
               fontSize: "28px",
@@ -27,19 +27,18 @@ const page = () => {
               letterSpacing: "0.5px",
             }}
           >
-           Connected Enterprise
+           5G Networks
           </h2>
         </div>
       </div>
       <div style={{ marginBlock: "2rem" }}>
         <div
           style={{
-            width: "1100px",
-            marginInline: "auto",
             display: "flex",
             alignItems: "center",
             gap: "2.5rem",
           }}
+          className="wrapper"
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
@@ -74,7 +73,7 @@ const page = () => {
         </div>
       </div>
       <div style={{ marginBlock: "3rem" }}>
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h1
             style={{
               fontSize: "32px",
@@ -82,7 +81,7 @@ const page = () => {
               marginBottom: "0.2rem",
             }}
           >
-            Our connected enterprise offerings
+          offerings
           </h1>
           <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
             ACL Digital’s enterprise-grade Digital Experience platforms help
@@ -93,7 +92,7 @@ const page = () => {
             include:
           </p>
           <div className="offering-container">
-            {innovationOfferings.map(({ image, title, paragraph }) => (
+            {fiveGOfferings.map(({ image, title, paragraph }) => (
               <div>
                 <Active image={image} title={title} paragraph={paragraph} />
               </div>

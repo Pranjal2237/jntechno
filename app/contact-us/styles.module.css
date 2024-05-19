@@ -1,0 +1,42 @@
+.contactLocations{
+    margin-top: 4rem;
+    color: #333333;
+}
+
+.contactContainer{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-block: 4rem;
+  }
+  
+  .contactBox{
+    flex: 0 1 30%;
+    box-shadow: 0 3px 6px #00000029;
+    padding: 1rem;
+    background-color: #f7f7f6;
+  }
+  
+  .contactBox>h1{
+    font-size: 18px;
+    font-weight: 600;
+    color: #333333;
+  }
+  
+  .contactBox>h2{
+    font-size: 16px;
+    font-weight: 600;
+    color: #333333;
+    margin-top: 30px;
+    margin-bottom: 0.2rem;
+  }
+  
+  .contactBox>p{
+    font-size: 16px;
+    color: var(--gray);
+    font-size: 16px;
+  }
+  
+  .contactBox>p:nth-child(even){
+    padding-bottom: 32px;
+  }
