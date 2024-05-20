@@ -1,21 +1,24 @@
-import Banner from "@/components/banner"
-import Active from "@/components/cards/active"
-import { blog, dataOfferings, innovationOfferings } from "@/constant"
-import { diBanner, digital, graphics43, terms } from "@/public"
-import Image from "next/image"
-
+import Banner from "@/components/banner";
+import Active from "@/components/cards/active";
+import { blog, dataOfferings, innovationOfferings } from "@/constant";
+import { diBanner, digital, graphics43, terms } from "@/public";
+import Image from "next/image";
 
 const page = () => {
   return (
     <div>
-      <Banner image={diBanner} heading="Empowering Organizations with Intelligent Solutions for Future Preparedness." height="560px" />
+      <Banner
+        image={diBanner}
+        heading="Empowering Organizations with Intelligent Solutions for Future Preparedness."
+        height="560px"
+      />
       <div
         style={{
           padding: "1rem 0",
           boxShadow: "0px 3px 6px #00000029",
           background: "#fff",
           position: "sticky",
-          top:'0px'
+          top: "0px",
         }}
       >
         <div className="wrapper">
@@ -27,7 +30,7 @@ const page = () => {
               letterSpacing: "0.5px",
             }}
           >
-           Data & Intelligence
+            Data & Intelligence
           </h2>
         </div>
       </div>
@@ -42,22 +45,18 @@ const page = () => {
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
-              Digital Experiences today define customers' engagement across
-              various channels with an organization's products, services, or
-              brand in both B2B and B2C industries. The customer is at the
-              center of these experiences, and personas and customer journeys
-              are driving purchase, adoption, and consumption, consequently
-              impacting business decisions. Hence, it is not enough for
-              organizations to just focus on creating products and services.
+              Establishing an Intelligent Enterprise is essential for fostering
+              product innovation, enhancing personalized customer experiences,
+              optimizing operational efficiency, and attaining various business
+              objectives.
             </p>
             <p>
-              Businesses must capture customer needs, behaviors in real-time to
-              define and deliver great experiences across all touchpoints, and
-              transform internally with digital applications to help, reach, and
-              serve customers. Digital Marketing provides the reach to engage,
-              target and communicate the right messages through the right
-              channels to the intended audience segments and create brand
-              recognition, customer interests, leads, faster sales and loyalty.
+              Data, analytics, and AI are pivotal in constructing an Intelligent
+              Enterprise. However, challenges arise in managing data,
+              integrating data sources, and selecting appropriate analytics or
+              AI techniques to ensure precise outcomes. Overcoming these hurdles
+              is essential for unleashing the full potential of an Intelligent
+              Enterprise and driving sustainable business growth.
             </p>
           </div>
           <div
@@ -84,19 +83,27 @@ const page = () => {
             Our connected enterprise offerings
           </h1>
           <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
-            Jonaren Technology’s enterprise-grade Digital Experience platforms help
-            enterprises achieve holistic digital transformations. The companies
-            demand innovative and customized solutions with intuitive and
-            meaningful digital experiences and a seamless end-to-end customer
-            journey. Our range of Digital Experience & Innovation offerings
-            include:
+            Jonaren Technology’s enterprise-grade Digital Experience platforms
+            help enterprises achieve holistic digital transformations. The
+            companies demand innovative and customized solutions with intuitive
+            and meaningful digital experiences and a seamless end-to-end
+            customer journey. Our range of Digital Experience & Innovation
+            offerings include:
           </p>
           <div className="offering-container">
-            {dataOfferings.map(({ image, title, paragraph,haveLink,link }) => (
-              <div>
-                <Active image={image} title={title} paragraph={paragraph} haveLink={haveLink} link={link} />
-              </div>
-            ))}
+            {dataOfferings.map(
+              ({ image, title, paragraph, haveLink, link }) => (
+                <div>
+                  <Active
+                    image={image}
+                    title={title}
+                    paragraph={paragraph}
+                    haveLink={haveLink}
+                    link={link}
+                  />
+                </div>
+              )
+            )}
           </div>
         </div>
       </div>
@@ -138,8 +145,7 @@ const page = () => {
         ))}
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default page
-
+export default page;

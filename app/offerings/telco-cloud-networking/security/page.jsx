@@ -1,21 +1,24 @@
-import Banner from "@/components/banner"
-import Active from "@/components/cards/active"
-import { blog, innovationOfferings } from "@/constant"
-import { digital, graphics38, securityBanner, terms } from "@/public"
-import Image from "next/image"
-
+import Banner from "@/components/banner";
+import Active from "@/components/cards/active";
+import { blog, innovationOfferings } from "@/constant";
+import { digital, graphics38, securityBanner, terms } from "@/public";
+import Image from "next/image";
 
 const page = () => {
   return (
     <div>
-      <Banner image={securityBanner} heading="Connected Enterprises – Radically Reforming Companies and Competition" height="560px" />
+      <Banner
+        image={securityBanner}
+        heading="Connected Enterprises – Radically Reforming Companies and Competition"
+        height="560px"
+      />
       <div
         style={{
           padding: "1rem 0",
           boxShadow: "0px 3px 6px #00000029",
           background: "#fff",
           position: "sticky",
-          top:'0px'
+          top: "0px",
         }}
       >
         <div style={{ width: "1100px", marginInline: "auto" }}>
@@ -27,7 +30,7 @@ const page = () => {
               letterSpacing: "0.5px",
             }}
           >
-           Connected Enterprise
+            Security
           </h2>
         </div>
       </div>
@@ -43,22 +46,26 @@ const page = () => {
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
-              Digital Experiences today define customers' engagement across
-              various channels with an organization's products, services, or
-              brand in both B2B and B2C industries. The customer is at the
-              center of these experiences, and personas and customer journeys
-              are driving purchase, adoption, and consumption, consequently
-              impacting business decisions. Hence, it is not enough for
-              organizations to just focus on creating products and services.
+              The landscape of network security services has undergone a
+              profound transformation due to digital innovation, cloud adoption,
+              and the widespread shift to remote work. Dynamic changes in
+              network configurations and the rapid expansion of attack surfaces
+              pose significant challenges. Traditional security solutions often
+              fall short in providing adequate security and access control. To
+              meet the demands of digital innovation, enterprises increasingly
+              require Secure Access Service Edge (SASE) offerings for
+              low-latency access to end users, devices, and cloud-hosted
+              services anywhere.
             </p>
             <p>
-              Businesses must capture customer needs, behaviors in real-time to
-              define and deliver great experiences across all touchpoints, and
-              transform internally with digital applications to help, reach, and
-              serve customers. Digital Marketing provides the reach to engage,
-              target and communicate the right messages through the right
-              channels to the intended audience segments and create brand
-              recognition, customer interests, leads, faster sales and loyalty.
+              ACL Digital offers a comprehensive SASE framework featuring
+              cloud-native security functions including secure SD-WAN, Secure
+              Web Gateways, Cloud Access Security Brokerage, Identity and Access
+              Management, WAF, Cloud-delivered FwaaS, and zero-trust network
+              access. This enables telecommunication service providers and
+              enterprises to expedite product development, market delivery, and
+              adapt swiftly to evolving business conditions and security
+              challenges.
             </p>
           </div>
           <div
@@ -82,7 +89,7 @@ const page = () => {
               marginBottom: "0.2rem",
             }}
           >
-            Our connected enterprise offerings
+            Offerings
           </h1>
           <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
             ACL Digital’s enterprise-grade Digital Experience platforms help
@@ -139,8 +146,7 @@ const page = () => {
         ))}
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default page
-
+export default page;

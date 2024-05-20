@@ -1,21 +1,25 @@
-import Banner from "@/components/banner"
-import Active from "@/components/cards/active"
-import { blog, innovationOfferings } from "@/constant"
-import { digital, graphics28, qeaBanner, terms } from "@/public"
-import Image from "next/image"
-
+import Banner from "@/components/banner";
+import Active from "@/components/cards/active";
+import Dynamic from "@/components/cards/dynamic";
+import { blog, homeBridgeOfferings, homeOfferings, innovationOfferings } from "@/constant";
+import { digital, graphics28, qeaBanner, terms } from "@/public";
+import Image from "next/image";
 
 const page = () => {
   return (
     <div>
-      <Banner image={qeaBanner} heading="Connected Enterprises – Radically Reforming Companies and Competition" height="560px" />
+      <Banner
+        image={qeaBanner}
+        heading="Connected Enterprises – Radically Reforming Companies and Competition"
+        height="560px"
+      />
       <div
         style={{
           padding: "1rem 0",
           boxShadow: "0px 3px 6px #00000029",
           background: "#fff",
           position: "sticky",
-          top:'0px'
+          top: "0px",
         }}
       >
         <div style={{ width: "1100px", marginInline: "auto" }}>
@@ -27,7 +31,7 @@ const page = () => {
               letterSpacing: "0.5px",
             }}
           >
-           Connected Enterprise
+            Quality Engineering & Automation
           </h2>
         </div>
       </div>
@@ -43,22 +47,21 @@ const page = () => {
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
-              Digital Experiences today define customers' engagement across
-              various channels with an organization's products, services, or
-              brand in both B2B and B2C industries. The customer is at the
-              center of these experiences, and personas and customer journeys
-              are driving purchase, adoption, and consumption, consequently
-              impacting business decisions. Hence, it is not enough for
-              organizations to just focus on creating products and services.
+              In today's digital era, software plays a pivotal role in business
+              success, underscoring the significance of Quality Assurance (QA)
+              testing services. QA testing is essential throughout the software
+              development lifecycle, ensuring applications adhere to stringent
+              quality, reliability, and performance benchmarks.
             </p>
             <p>
-              Businesses must capture customer needs, behaviors in real-time to
-              define and deliver great experiences across all touchpoints, and
-              transform internally with digital applications to help, reach, and
-              serve customers. Digital Marketing provides the reach to engage,
-              target and communicate the right messages through the right
-              channels to the intended audience segments and create brand
-              recognition, customer interests, leads, faster sales and loyalty.
+              ACL Digital adopts a comprehensive approach to quality assurance,
+              integrating industry best practices with our domain expertise.
+              Through our Test Automation Centre of Excellence, we provide
+              tailored test automation solutions with custom-built frameworks.
+              Our Quality Assurance Services aim to minimize testing expenses,
+              expedite market readiness, and deliver flawless, agile software
+              products for both ISVs and Enterprises, ensuring uncompromised
+              quality and efficiency.
             </p>
           </div>
           <div
@@ -101,6 +104,18 @@ const page = () => {
           </div>
         </div>
       </div>
+      <div className="wrapper qinsight-benifits-container" style={{ paddingBlock: "4rem" }}>
+        <h1>Choose ACL Digital for superior QA testing solutions and reliability</h1>
+        <div style={{display:'grid',gridTemplateColumns:'repeat(3,1fr)',gap:'2rem',marginTop:'2rem'}}>
+          {
+            homeOfferings.map(({heading,content,haveLogo,logo})=>(
+              <>
+                <Dynamic heading={heading} content={content} haveLogo={haveLogo} logo={logo} />
+              </>
+            ))
+          }
+        </div>
+      </div>
       <div
         className="child"
         style={{ display: "grid", gridTemplateColumns: "repeat(4,1fr)" }}
@@ -139,8 +154,7 @@ const page = () => {
         ))}
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default page
-
+export default page;

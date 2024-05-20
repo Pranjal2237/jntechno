@@ -1,21 +1,24 @@
-import Banner from "@/components/banner"
-import Active from "@/components/cards/active"
-import { blog, innovationOfferings, iotOfferings } from "@/constant"
-import { digital, graphics26, iotBanner, terms } from "@/public"
-import Image from "next/image"
-
+import Banner from "@/components/banner";
+import Active from "@/components/cards/active";
+import { blog, innovationOfferings, iotOfferings } from "@/constant";
+import { digital, graphics26, iotBanner, terms } from "@/public";
+import Image from "next/image";
 
 const page = () => {
   return (
     <div>
-      <Banner image={iotBanner} heading="Transform Your Business: Future-Proof IoT Solutions for Success." height="560px" />
+      <Banner
+        image={iotBanner}
+        heading="Transform Your Business: Future-Proof IoT Solutions for Success."
+        height="560px"
+      />
       <div
         style={{
           padding: "1rem 0",
           boxShadow: "0px 3px 6px #00000029",
           background: "#fff",
           position: "sticky",
-          top:'0px'
+          top: "0px",
         }}
       >
         <div className="wrapper">
@@ -27,7 +30,7 @@ const page = () => {
               letterSpacing: "0.5px",
             }}
           >
-           Connected Enterprise
+            IoT Solution Engineering Services
           </h2>
         </div>
       </div>
@@ -42,22 +45,22 @@ const page = () => {
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
-              Digital Experiences today define customers' engagement across
-              various channels with an organization's products, services, or
-              brand in both B2B and B2C industries. The customer is at the
-              center of these experiences, and personas and customer journeys
-              are driving purchase, adoption, and consumption, consequently
-              impacting business decisions. Hence, it is not enough for
-              organizations to just focus on creating products and services.
+              The Internet of Things (IoT) harnesses cost-effective sensors to
+              streamline data tracking and transmission, reducing manual efforts
+              and enabling swift decision-making. This technology revolutionizes
+              internet connectivity, analytics, and data processing for physical
+              objects, promising significant efficiencies across enterprise
+              operations.
             </p>
             <p>
-              Businesses must capture customer needs, behaviors in real-time to
-              define and deliver great experiences across all touchpoints, and
-              transform internally with digital applications to help, reach, and
-              serve customers. Digital Marketing provides the reach to engage,
-              target and communicate the right messages through the right
-              channels to the intended audience segments and create brand
-              recognition, customer interests, leads, faster sales and loyalty.
+              Businesses across sectors embrace IoT solutions to seize lucrative
+              opportunities and sustain competitiveness. ACL Digital's IoT
+              development services ensure seamless integrations between cloud
+              platforms, sensors, gateways, and chip-to-cloud security, enabling
+              end-to-end connectivity. Whether it's cloud or mobile app
+              development, or integrating AI-driven intelligence, we cater to
+              diverse industries, transforming IoT concepts into reality for
+              enhanced operational efficiency and innovation.
             </p>
           </div>
           <div
@@ -138,8 +141,7 @@ const page = () => {
         ))}
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default page
-
+export default page;

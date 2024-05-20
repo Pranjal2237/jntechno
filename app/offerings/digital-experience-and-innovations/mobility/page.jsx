@@ -46,22 +46,18 @@ const page = () => {
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
-              Digital Experiences today define customers' engagement across
-              various channels with an organization's products, services, or
-              brand in both B2B and B2C industries. The customer is at the
-              center of these experiences, and personas and customer journeys
-              are driving purchase, adoption, and consumption, consequently
-              impacting business decisions. Hence, it is not enough for
-              organizations to just focus on creating products and services.
+              Mobile apps are catalysts for digital transformation, enhancing
+              both enterprise operations and consumer experiences. They boost
+              employee engagement and offer customers seamless interactions. A
+              compelling mobile presence is pivotal in shaping and enriching
+              every step of the customer journey. Elevate your digital strategy
+              with our dynamic and engaging mobile solutions.
             </p>
             <p>
-              Businesses must capture customer needs, behaviors in real-time to
-              define and deliver great experiences across all touchpoints, and
-              transform internally with digital applications to help, reach, and
-              serve customers. Digital Marketing provides the reach to engage,
-              target and communicate the right messages through the right
-              channels to the intended audience segments and create brand
-              recognition, customer interests, leads, faster sales and loyalty.
+              Harnessing expertise in iOS, Android, and Hybrid mobile
+              frameworks, we blend industry-specific insights to empower
+              organizations with a competitive digital advantage. Elevate your
+              mobile strategy with our tailored solutions.
             </p>
           </div>
           <div
@@ -88,12 +84,12 @@ const page = () => {
             Offerings
           </h1>
           <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
-            Jonaren Technology’s enterprise-grade Digital Experience platforms help
-            enterprises achieve holistic digital transformations. The companies
-            demand innovative and customized solutions with intuitive and
-            meaningful digital experiences and a seamless end-to-end customer
-            journey. Our range of Digital Experience & Innovation offerings
-            include:
+            Jonaren Technology’s enterprise-grade Digital Experience platforms
+            help enterprises achieve holistic digital transformations. The
+            companies demand innovative and customized solutions with intuitive
+            and meaningful digital experiences and a seamless end-to-end
+            customer journey. Our range of Digital Experience & Innovation
+            offerings include:
           </p>
           <div className="offering-container">
             {mobileOfferings.map(({ image, title, paragraph }) => (

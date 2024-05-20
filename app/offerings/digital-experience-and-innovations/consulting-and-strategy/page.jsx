@@ -1,22 +1,22 @@
-import Banner from '@/components/banner'
-import { blog } from '@/constant'
-import { consultingBanner, digital, graphics8} from '@/public'
-import Image from 'next/image'
+import Banner from "@/components/banner";
+import { blog } from "@/constant";
+import { consultingBanner, digital, graphics8 } from "@/public";
+import Image from "next/image";
 
 const page = () => {
   return (
     <div>
-      <Banner image={consultingBanner} heading="Terms of Use" height="560px" />
+      <Banner image={consultingBanner} heading="Join the Collaborative, Connected Digital World Today." height="560px" />
       <div
         style={{
           padding: "1rem 0",
           boxShadow: "0px 3px 6px #00000029",
           background: "#fff",
           position: "sticky",
-          top:'0px'
+          top: "0px",
         }}
       >
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h2
             style={{
               fontSize: "28px",
@@ -32,31 +32,31 @@ const page = () => {
       <div style={{ marginBlock: "2rem" }}>
         <div
           style={{
-            width: "1100px",
-            marginInline: "auto",
             display: "flex",
             alignItems: "center",
             gap: "2.5rem",
           }}
+          className="wrapper"
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
-              Digital Experiences today define customers' engagement across
-              various channels with an organization's products, services, or
-              brand in both B2B and B2C industries. The customer is at the
-              center of these experiences, and personas and customer journeys
-              are driving purchase, adoption, and consumption, consequently
-              impacting business decisions. Hence, it is not enough for
-              organizations to just focus on creating products and services.
+              In today’s digital age, organizations are increasingly utilizing
+              information technology for digital transformation. Navigating the
+              challenges of identifying, assessing, and deploying the right
+              solutions is crucial. We grasp your strategic goals and combine
+              them with our deep technological expertise to implement the most
+              effective solutions. Let us help you drive your business forward
+              with precision and innovation, ensuring a seamless digital
+              transformation.
             </p>
             <p>
-              Businesses must capture customer needs, behaviors in real-time to
-              define and deliver great experiences across all touchpoints, and
-              transform internally with digital applications to help, reach, and
-              serve customers. Digital Marketing provides the reach to engage,
-              target and communicate the right messages through the right
-              channels to the intended audience segments and create brand
-              recognition, customer interests, leads, faster sales and loyalty.
+              Our strategic IT consulting team is dedicated to helping you adapt
+              and automate digital experiences, SaaS platforms, product
+              engineering, and IT-led transformation services. Through our
+              consulting and strategy-driven approach, we partner with you to
+              co-innovate and co-create solutions. Enhance resilience and forge
+              stronger connections with your customers, driving your business
+              forward with tailored, cutting-edge technology.
             </p>
           </div>
           <div
@@ -109,7 +109,7 @@ const page = () => {
         ))}
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default page
+export default page;

@@ -1,21 +1,24 @@
-import Banner from "@/components/banner"
-import Active from "@/components/cards/active"
-import { blog, innovationOfferings } from "@/constant"
-import { digital, enterpriseAgilityBanner, graphics32, terms } from "@/public"
-import Image from "next/image"
-
+import Banner from "@/components/banner";
+import Active from "@/components/cards/active";
+import { blog, innovationOfferings } from "@/constant";
+import { digital, enterpriseAgilityBanner, graphics32, terms } from "@/public";
+import Image from "next/image";
 
 const page = () => {
   return (
     <div>
-      <Banner image={enterpriseAgilityBanner} heading="Empower Enterprise Agility: DevOps, SAFe, Automation Frameworks & Services for Security." height="560px" />
+      <Banner
+        image={enterpriseAgilityBanner}
+        heading="Empower Enterprise Agility: DevOps, SAFe, Automation Frameworks & Services for Security."
+        height="560px"
+      />
       <div
         style={{
           padding: "1rem 0",
           boxShadow: "0px 3px 6px #00000029",
           background: "#fff",
           position: "sticky",
-          top:'0px'
+          top: "0px",
         }}
       >
         <div className="wrapper">
@@ -27,7 +30,7 @@ const page = () => {
               letterSpacing: "0.5px",
             }}
           >
-           Connected Enterprise
+            Enterprise Agility
           </h2>
         </div>
       </div>
@@ -42,22 +45,24 @@ const page = () => {
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
-              Digital Experiences today define customers' engagement across
-              various channels with an organization's products, services, or
-              brand in both B2B and B2C industries. The customer is at the
-              center of these experiences, and personas and customer journeys
-              are driving purchase, adoption, and consumption, consequently
-              impacting business decisions. Hence, it is not enough for
-              organizations to just focus on creating products and services.
+              Enterprises in various industries are witnessing rapid shifts in
+              business requirements. The CIO & IT function plays a pivotal role
+              in spearheading digital strategies to enhance agility and
+              efficiency in delivering services to both business units and end
+              customers. Digital transformation entails leveraging innovative
+              technology and adopting DevOps and Agile processes to achieve
+              business goals with speed and quality. DevOps facilitates
+              accelerated software delivery and smooth cross-stage transitions
+              throughout the development life cycle by bringing together
+              stakeholders from business, development, and operations teams.
             </p>
             <p>
-              Businesses must capture customer needs, behaviors in real-time to
-              define and deliver great experiences across all touchpoints, and
-              transform internally with digital applications to help, reach, and
-              serve customers. Digital Marketing provides the reach to engage,
-              target and communicate the right messages through the right
-              channels to the intended audience segments and create brand
-              recognition, customer interests, leads, faster sales and loyalty.
+              ACL Digital's DevOps solution establishes a seamless DevOps
+              toolchain for comprehensive application release, ensuring
+              dependable releases and expedited time to market. This efficiency
+              in the deployment process empowers businesses to innovate and
+              maintain a competitive edge amidst evolving technological
+              landscapes.
             </p>
           </div>
           <div
@@ -84,12 +89,12 @@ const page = () => {
             Our connected enterprise offerings
           </h1>
           <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
-            Jonaren Technology’s enterprise-grade Digital Experience platforms help
-            enterprises achieve holistic digital transformations. The companies
-            demand innovative and customized solutions with intuitive and
-            meaningful digital experiences and a seamless end-to-end customer
-            journey. Our range of Digital Experience & Innovation offerings
-            include:
+            Jonaren Technology’s enterprise-grade Digital Experience platforms
+            help enterprises achieve holistic digital transformations. The
+            companies demand innovative and customized solutions with intuitive
+            and meaningful digital experiences and a seamless end-to-end
+            customer journey. Our range of Digital Experience & Innovation
+            offerings include:
           </p>
           <div className="offering-container">
             {innovationOfferings.map(({ image, title, paragraph }) => (
@@ -138,8 +143,7 @@ const page = () => {
         ))}
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default page
-
+export default page;

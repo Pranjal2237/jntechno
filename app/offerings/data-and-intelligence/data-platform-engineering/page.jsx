@@ -1,21 +1,24 @@
-import Banner from "@/components/banner"
-import Active from "@/components/cards/active"
-import { blog, innovationOfferings } from "@/constant"
-import { digital, dpeBanner, graphics41, terms } from "@/public"
-import Image from "next/image"
-
+import Banner from "@/components/banner";
+import Active from "@/components/cards/active";
+import { blog, innovationOfferings } from "@/constant";
+import { digital, dpeBanner, graphics41, terms } from "@/public";
+import Image from "next/image";
 
 const page = () => {
   return (
     <div>
-      <Banner image={dpeBanner} heading="Connected Enterprises – Radically Reforming Companies and Competition" height="560px" />
+      <Banner
+        image={dpeBanner}
+        heading="Connected Enterprises – Radically Reforming Companies and Competition"
+        height="560px"
+      />
       <div
         style={{
           padding: "1rem 0",
           boxShadow: "0px 3px 6px #00000029",
           background: "#fff",
           position: "sticky",
-          top:'0px'
+          top: "0px",
         }}
       >
         <div style={{ width: "1100px", marginInline: "auto" }}>
@@ -27,7 +30,7 @@ const page = () => {
               letterSpacing: "0.5px",
             }}
           >
-           Connected Enterprise
+            Data Platform Engineering
           </h2>
         </div>
       </div>
@@ -43,22 +46,24 @@ const page = () => {
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
-              Digital Experiences today define customers' engagement across
-              various channels with an organization's products, services, or
-              brand in both B2B and B2C industries. The customer is at the
-              center of these experiences, and personas and customer journeys
-              are driving purchase, adoption, and consumption, consequently
-              impacting business decisions. Hence, it is not enough for
-              organizations to just focus on creating products and services.
+              Every enterprise aspires for exponential growth and innovation.
+              Achieving this involves democratizing data, empowering exploration
+              for solutions and product development, and fostering trust through
+              robust Data Governance. By prioritizing these goals, businesses
+              can navigate complexities and seize new opportunities in the
+              data-driven landscape.
             </p>
             <p>
-              Businesses must capture customer needs, behaviors in real-time to
-              define and deliver great experiences across all touchpoints, and
-              transform internally with digital applications to help, reach, and
-              serve customers. Digital Marketing provides the reach to engage,
-              target and communicate the right messages through the right
-              channels to the intended audience segments and create brand
-              recognition, customer interests, leads, faster sales and loyalty.
+              ACL Digital's data modernization platform facilitates end-to-end
+              data management, encompassing acquisition, storage, preparation,
+              delivery, and governance, alongside robust security measures for
+              users and applications. Whether your data requirements are small
+              or large-scale, batch or stream processing, operational or
+              exploratory analytics, our comprehensive suite of services covers
+              everything from data quality to security. With leading data
+              products available across cloud, edge, or on-premises
+              environments, our experienced data evangelists tailor solutions to
+              address all your data challenges.
             </p>
           </div>
           <div
@@ -139,8 +144,7 @@ const page = () => {
         ))}
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default page
-
+export default page;

@@ -1,21 +1,24 @@
-import Banner from "@/components/banner"
-import Active from "@/components/cards/active"
-import { blog, innovationOfferings, productOfferings } from "@/constant"
-import { digital, graphics51, productEngineeringBanner, terms } from "@/public"
-import Image from "next/image"
-
+import Banner from "@/components/banner";
+import Active from "@/components/cards/active";
+import { blog, innovationOfferings, productOfferings } from "@/constant";
+import { digital, graphics51, productEngineeringBanner, terms } from "@/public";
+import Image from "next/image";
 
 const page = () => {
   return (
     <div>
-      <Banner image={productEngineeringBanner} heading="From Concept to Launch: Co-Creating Products, Accelerating Growth" height="560px" />
+      <Banner
+        image={productEngineeringBanner}
+        heading="From Concept to Launch: Co-Creating Products, Accelerating Growth"
+        height="560px"
+      />
       <div
         style={{
           padding: "1rem 0",
           boxShadow: "0px 3px 6px #00000029",
           background: "#fff",
           position: "sticky",
-          top:'0px'
+          top: "0px",
         }}
       >
         <div className="wrapper">
@@ -27,7 +30,7 @@ const page = () => {
               letterSpacing: "0.5px",
             }}
           >
-           Connected Enterprise
+            Product Engineering
           </h2>
         </div>
       </div>
@@ -42,22 +45,19 @@ const page = () => {
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
-              Digital Experiences today define customers' engagement across
-              various channels with an organization's products, services, or
-              brand in both B2B and B2C industries. The customer is at the
-              center of these experiences, and personas and customer journeys
-              are driving purchase, adoption, and consumption, consequently
-              impacting business decisions. Hence, it is not enough for
-              organizations to just focus on creating products and services.
+              In today's dynamic and competitive landscape, speed is critical.
+              Customer expectations are continually evolving, necessitating
+              organizations to challenge norms and lead in innovation,
+              digitization, and transformation to stay ahead.
             </p>
             <p>
-              Businesses must capture customer needs, behaviors in real-time to
-              define and deliver great experiences across all touchpoints, and
-              transform internally with digital applications to help, reach, and
-              serve customers. Digital Marketing provides the reach to engage,
-              target and communicate the right messages through the right
-              channels to the intended audience segments and create brand
-              recognition, customer interests, leads, faster sales and loyalty.
+              At ACL Digital, our partnership principles focus on Innovation,
+              Digitization, and Transformation. Through collaborative efforts,
+              we assist clients in staying ahead by utilizing cutting-edge
+              technologies and methodologies. Together, we navigate the evolving
+              landscape, ensuring sustained success and a competitive edge. Join
+              us as we pave the way for innovation and transformation in the
+              digital realm.
             </p>
           </div>
           <div
@@ -92,11 +92,19 @@ const page = () => {
             include:
           </p>
           <div className="offering-container">
-            {productOfferings.map(({ image, title, paragraph,haveLink,link }) => (
-              <div>
-                <Active image={image} title={title} paragraph={paragraph} haveLink={haveLink} link={link} />
-              </div>
-            ))}
+            {productOfferings.map(
+              ({ image, title, paragraph, haveLink, link }) => (
+                <div>
+                  <Active
+                    image={image}
+                    title={title}
+                    paragraph={paragraph}
+                    haveLink={haveLink}
+                    link={link}
+                  />
+                </div>
+              )
+            )}
           </div>
         </div>
       </div>
@@ -138,8 +146,7 @@ const page = () => {
         ))}
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default page
-
+export default page;

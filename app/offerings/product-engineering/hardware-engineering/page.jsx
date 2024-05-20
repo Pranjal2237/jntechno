@@ -1,21 +1,25 @@
-import Banner from "@/components/banner"
-import Active from "@/components/cards/active"
-import { blog, innovationOfferings } from "@/constant"
-import { digital, graphics56, hardwareBanner, terms } from "@/public"
-import Image from "next/image"
-
+import Banner from "@/components/banner";
+import Active from "@/components/cards/active";
+import Dynamic from "@/components/cards/dynamic";
+import { blog, innovationOfferings, medicalOfferings } from "@/constant";
+import { digital, graphics56, hardwareBanner, terms } from "@/public";
+import Image from "next/image";
 
 const page = () => {
   return (
     <div>
-      <Banner image={hardwareBanner} heading="Connected Enterprises – Radically Reforming Companies and Competition" height="560px" />
+      <Banner
+        image={hardwareBanner}
+        heading="Connected Enterprises – Radically Reforming Companies and Competition"
+        height="560px"
+      />
       <div
         style={{
           padding: "1rem 0",
           boxShadow: "0px 3px 6px #00000029",
           background: "#fff",
           position: "sticky",
-          top:'0px'
+          top: "0px",
         }}
       >
         <div style={{ width: "1100px", marginInline: "auto" }}>
@@ -27,7 +31,7 @@ const page = () => {
               letterSpacing: "0.5px",
             }}
           >
-           Connected Enterprise
+            Hardware Engineering
           </h2>
         </div>
       </div>
@@ -43,22 +47,23 @@ const page = () => {
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
-              Digital Experiences today define customers' engagement across
-              various channels with an organization's products, services, or
-              brand in both B2B and B2C industries. The customer is at the
-              center of these experiences, and personas and customer journeys
-              are driving purchase, adoption, and consumption, consequently
-              impacting business decisions. Hence, it is not enough for
-              organizations to just focus on creating products and services.
+              Remaining at the forefront of technology requires proactive
+              decision-making and adaptability to evolving market needs.
+              Anticipating customer preferences is crucial for maintaining a
+              competitive edge. Hardware engineering extends beyond board design
+              and connectivity to include integration of modules into
+              cost-effective platforms, ensuring unified interoperability of the
+              entire system/product through systematic methodologies, thereby
+              staying ahead in the dynamic market landscape.
             </p>
             <p>
-              Businesses must capture customer needs, behaviors in real-time to
-              define and deliver great experiences across all touchpoints, and
-              transform internally with digital applications to help, reach, and
-              serve customers. Digital Marketing provides the reach to engage,
-              target and communicate the right messages through the right
-              channels to the intended audience segments and create brand
-              recognition, customer interests, leads, faster sales and loyalty.
+              ACL Digital offers end-to-end hardware design and development
+              services, from conceptualization to production, ensuring
+              future-ready products and managing complex software/hardware/cloud
+              systems. Whether you require technology resources or expertise for
+              smart connected products, our services cater to your needs,
+              providing comprehensive solutions for your product development
+              journey.
             </p>
           </div>
           <div
@@ -73,32 +78,16 @@ const page = () => {
           </div>
         </div>
       </div>
-      <div style={{ marginBlock: "3rem" }}>
-        <div style={{ width: "1100px", marginInline: "auto" }}>
-          <h1
-            style={{
-              fontSize: "32px",
-              fontWeight: "600",
-              marginBottom: "0.2rem",
-            }}
-          >
-            Our connected enterprise offerings
-          </h1>
-          <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
-            ACL Digital’s enterprise-grade Digital Experience platforms help
-            enterprises achieve holistic digital transformations. The companies
-            demand innovative and customized solutions with intuitive and
-            meaningful digital experiences and a seamless end-to-end customer
-            journey. Our range of Digital Experience & Innovation offerings
-            include:
-          </p>
-          <div className="offering-container">
-            {innovationOfferings.map(({ image, title, paragraph }) => (
-              <div>
-                <Active image={image} title={title} paragraph={paragraph} />
-              </div>
-            ))}
-          </div>
+      <div className="wrapper qinsight-benifits-container" style={{ paddingBlock: "4rem" }}>
+        <h1>Hardware Engineering Expertise</h1>
+        <div style={{display:'grid',gridTemplateColumns:'repeat(3,1fr)',gap:'2rem',marginTop:'2rem'}}>
+          {
+            medicalOfferings.map(({heading,content,haveLogo,logo})=>(
+              <>
+                <Dynamic heading={heading} content={content} haveLogo={haveLogo} logo={logo} />
+              </>
+            ))
+          }
         </div>
       </div>
       <div
@@ -139,8 +128,7 @@ const page = () => {
         ))}
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default page
-
+export default page;

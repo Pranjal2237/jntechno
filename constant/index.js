@@ -888,10 +888,12 @@ export const navigation = [
   {
     nav: "About",
     navLink: "about",
+    haveLink:true
   },
   {
     nav: "Careers",
     navLink: "careers",
+    haveLink:true
   },
 ];
 
@@ -1003,7 +1005,7 @@ export const customerOfferings=[
   {
     image:offerings5,
     title:"Enhance Customer Delight",
-    paragraph:"At ACL Digital, we prioritize customers and users, uncovering key opportunities for digital transformation. We help businesses clearly understand the needs and goals of those central to their products or services."
+    paragraph:"At Jonaren Technology, we prioritize customers and users, uncovering key opportunities for digital transformation. We help businesses clearly understand the needs and goals of those central to their products or services."
   },
   {
     haveLink:true,
@@ -1015,7 +1017,7 @@ export const customerOfferings=[
   {
     image:offerings16,
     title:"Innovate Seamless Solutions",
-    paragraph:"ACL Digital defines and implements interactions across all touchpoints in the customer journey, integrating people, infrastructure, technology, and processes. Effective service design enables the desired customer experience, ensuring efficiency and satisfaction throughout the entire journey."
+    paragraph:"Jonaren Technology defines and implements interactions across all touchpoints in the customer journey, integrating people, infrastructure, technology, and processes. Effective service design enables the desired customer experience, ensuring efficiency and satisfaction throughout the entire journey."
   }
 ]
 
@@ -1137,7 +1139,7 @@ export const enterpriseModOfferings=[
     link:'/offerings/enterprise-modernization/cloud-transformation',
     image:offerings24,
     title:"Cloud Transformation",
-    paragraph:"ACL Digital's cloud transformation experts handle everything from straightforward application migrations to complex infrastructure shifts. We safeguard your company's objectives while delivering viable solutions at every migration stage."
+    paragraph:"Jonaren Technology's cloud transformation experts handle everything from straightforward application migrations to complex infrastructure shifts. We safeguard your company's objectives while delivering viable solutions at every migration stage."
   },
   {
     haveLink:true,
@@ -1151,21 +1153,21 @@ export const enterpriseModOfferings=[
     link:'/offerings/enterprise-modernization/connected-enterprise',
     image:offerings27,
     title:"Connected Enterprise",
-    paragraph:"ACL Digital's connected enterprise solutions seamlessly integrate digital transformation across all business sectors, fostering active collaboration and providing access to real-time data for informed decision-making."
+    paragraph:"Jonaren Technology's connected enterprise solutions seamlessly integrate digital transformation across all business sectors, fostering active collaboration and providing access to real-time data for informed decision-making."
   },
   {
     haveLink:true,
     link:'/offerings/enterprise-modernization/platform-engineering',
     image:offerings30,
     title:"Platform Engineering",
-    paragraph:"ACL Digital's platform engineering team adeptly navigates the cloud-native landscape, delivering innovative software solutions with self-service capabilities. Their expertise lies in crafting cutting-edge workflow and toolchain designs for optimal performance."
+    paragraph:"Jonaren Technology's platform engineering team adeptly navigates the cloud-native landscape, delivering innovative software solutions with self-service capabilities. Their expertise lies in crafting cutting-edge workflow and toolchain designs for optimal performance."
   },
   {
     haveLink:true,
     link:'/offerings/enterprise-modernization/enterprise-agility',
     image:offerings31,
     title:"Enterprise Agility",
-    paragraph:"ACL Digital's enterprise agility solution empowers companies to adapt swiftly in dynamic industries, ensuring efficient service delivery to business units and end customers, fostering success in today's rapidly evolving ecosystem."
+    paragraph:"Jonaren Technology's enterprise agility solution empowers companies to adapt swiftly in dynamic industries, ensuring efficient service delivery to business units and end customers, fostering success in today's rapidly evolving ecosystem."
   }
 ]
 
@@ -1173,22 +1175,22 @@ export const cloudOfferings=[
   {
     image:offerings19,
     title:"Cloud Strategy Consulting",
-    paragraph:"At ACL Digital, our tech-savvy team is dedicated to maximizing cloud benefits for organizations of all sizes. From web development to machine learning, DevOps, AI, and beyond, rely on our diverse expertise."
+    paragraph:"At Jonaren Technology, our tech-savvy team is dedicated to maximizing cloud benefits for organizations of all sizes. From web development to machine learning, DevOps, AI, and beyond, rely on our diverse expertise."
   },
   {
     image:offerings22,
     title:"Cloud Transition Solutions",
-    paragraph:"Enhance agility, boost productivity, and reduce costs with ACL Digital's seamless transition to cloud ecosystems, leveraging digital tools like automation, AI, and connected devices for optimal modernization strategies."
+    paragraph:"Enhance agility, boost productivity, and reduce costs with Jonaren Technology's seamless transition to cloud ecosystems, leveraging digital tools like automation, AI, and connected devices for optimal modernization strategies."
   },
   {
     image:offerings30,
     title:"Operational Oversight Solutions",
-    paragraph:"ACL Digital aids businesses in establishing robust cloud foundations and streamlining workflows to reduce resource consumption. Our experts assist in building, configuring, and optimizing IT infrastructure with tailored cloud solutions."
+    paragraph:"Jonaren Technology aids businesses in establishing robust cloud foundations and streamlining workflows to reduce resource consumption. Our experts assist in building, configuring, and optimizing IT infrastructure with tailored cloud solutions."
   },
   {
     image:offerings31,
     title:"Custom Software Crafting",
-    paragraph:"Accelerate product development, testing, and deployment with ACL Digital’s cloud app development services. We help select the ideal tech stack, design strategic architectures, and implement CI/CD pipelines for seamless innovation."
+    paragraph:"Accelerate product development, testing, and deployment with Jonaren Technology’s cloud app development services. We help select the ideal tech stack, design strategic architectures, and implement CI/CD pipelines for seamless innovation."
   }
 ]
 
@@ -1201,7 +1203,7 @@ export const enterpriseAutOfferings=[
   {
     image:offerings27,
     title:"Automation Solutions",
-    paragraph:"ACL Digital’s robotic automation services cut costs and mitigate obstacles. Recognizing automation's significance in digital transformation, we leverage advanced RPA tools to automate diverse data processes, ensuring seamless progress."
+    paragraph:"Jonaren Technology’s robotic automation services cut costs and mitigate obstacles. Recognizing automation's significance in digital transformation, we leverage advanced RPA tools to automate diverse data processes, ensuring seamless progress."
   },
   {
     image:offerings26,
@@ -1219,22 +1221,22 @@ export const connectedOfferings=[
   {
     image:offerings14,
     title:"IoT Innovation Services",
-    paragraph:"ACL Digital revolutionizes enterprise asset management with seamless connectivity, robust security, and enhanced user experiences. Our comprehensive IoT solutions cater to diverse industry needs, ensuring smart, end-to-end connectivity for all."
+    paragraph:"Jonaren Technology revolutionizes enterprise asset management with seamless connectivity, robust security, and enhanced user experiences. Our comprehensive IoT solutions cater to diverse industry needs, ensuring smart, end-to-end connectivity for all."
   },
   {
     image:offerings19,
     title:"Cloud-Based IoT Solutions",
-    paragraph:"Harnessing IoT and cloud technologies, ACL Digital fuels business growth opportunities. Our experts provide vital insights to optimize operations and foster innovation. Leverage our IoT solutions for actionable data analytics from connected devices."
+    paragraph:"Harnessing IoT and cloud technologies, Jonaren Technology fuels business growth opportunities. Our experts provide vital insights to optimize operations and foster innovation. Leverage our IoT solutions for actionable data analytics from connected devices."
   },
   {
     image:offerings21,
     title:"Data-Driven IoT Insights",
-    paragraph:"In today's business landscape, data streams from various smart devices are omnipresent. For a robust IoT analysis system, choose ACL Digital. We unlock IoT data potential, enabling efficient operations, enhancing human-machine interactions, and leveraging AI-driven analytics for enriched insights."
+    paragraph:"In today's business landscape, data streams from various smart devices are omnipresent. For a robust IoT analysis system, choose Jonaren Technology. We unlock IoT data potential, enabling efficient operations, enhancing human-machine interactions, and leveraging AI-driven analytics for enriched insights."
   },
   {
     image:offerings22,
     title:"IIoT Industry Solutions",
-    paragraph:"ACL Digital, the leading IoT 4.0 solutions provider, assists OEMs in simplifying IIoT application development. Our industrial IoT solution engineering includes IIoT device connectivity, real-time remote monitoring, HMI system development, cloud integrations, and predictive maintenance solutions."
+    paragraph:"Jonaren Technology, the leading IoT 4.0 solutions provider, assists OEMs in simplifying IIoT application development. Our industrial IoT solution engineering includes IIoT device connectivity, real-time remote monitoring, HMI system development, cloud integrations, and predictive maintenance solutions."
   }
 ]
 
@@ -1252,7 +1254,7 @@ export const platformOfferings=[
   {
     image:offerings30,
     title:"Integrated Hybrid Solutions",
-    paragraph:"ACL Digital delivers versatile platforms linking cloud and on-premise data and applications. Our solutions empower businesses to create hybrid integration platforms, seamlessly integrating data and applications across multi-cloud environments and on-premises infrastructure."
+    paragraph:"Jonaren Technology delivers versatile platforms linking cloud and on-premise data and applications. Our solutions empower businesses to create hybrid integration platforms, seamlessly integrating data and applications across multi-cloud environments and on-premises infrastructure."
   }
 ]
 
@@ -1343,14 +1345,14 @@ export const productOfferings=[
     link:'/offerings/product-engineering/embedded-engineering',
     image:offerings21,
     title:"Embedded Engineering",
-    paragraph:"Empower your product innovation with ACL Digital's Embedded Engineering solutions. From platform development to system optimization, rely on us for advanced, world-class services and solutions designed to accelerate time to market in a competitive landscape."
+    paragraph:"Empower your product innovation with Jonaren Technology's Embedded Engineering solutions. From platform development to system optimization, rely on us for advanced, world-class services and solutions designed to accelerate time to market in a competitive landscape."
   },
   {
     haveLink:true,
     link:'/offerings/product-engineering/cybersecurity-assurance',
     image:offerings22,
     title:"Cybersecurity Assurance",
-    paragraph:"Enhance your cybersecurity defenses with ACL Digital. Our advanced cybersecurity assurance and testing services ensure data integrity, confidentiality, and availability. Partner with us to proactively identify vulnerabilities, fortify your security posture, and stay ahead of cyber threats."
+    paragraph:"Enhance your cybersecurity defenses with Jonaren Technology. Our advanced cybersecurity assurance and testing services ensure data integrity, confidentiality, and availability. Partner with us to proactively identify vulnerabilities, fortify your security posture, and stay ahead of cyber threats."
   }
 ]
 
@@ -1424,7 +1426,7 @@ export const pssOfferings=[
   {
     image:offerings10,
     title:"App Dependability",
-    paragraph:"ACL Digital's Application Reliability guarantees uninterrupted product operation across all environments, proactively addressing potential issues to prevent downtime, ensuring seamless performance and user satisfaction."
+    paragraph:"Jonaren Technology's Application Reliability guarantees uninterrupted product operation across all environments, proactively addressing potential issues to prevent downtime, ensuring seamless performance and user satisfaction."
   },
   {
     image:offerings12,
@@ -1444,21 +1446,21 @@ export const dataOfferings=[
     link:'/offerings/data-and-intelligence/data-platform-engineering',
     image:offerings8,
     title:"Data Platform Engineering",
-    paragraph:"With data as the core, regardless of scale, ACL Digital's data platform engineering spans from modernization to monetization. Our data strategy specialists assist in defining your data transformation journey. Through our data monetization framework, we identify, nurture, and evolve data products, expanding your product offerings with data-driven services."
+    paragraph:"With data as the core, regardless of scale, Jonaren Technology's data platform engineering spans from modernization to monetization. Our data strategy specialists assist in defining your data transformation journey. Through our data monetization framework, we identify, nurture, and evolve data products, expanding your product offerings with data-driven services."
   },
   {
     haveLink:true,
     link:'/offerings/data-and-intelligence/analytics-and-business-intelligence',
     image:offerings30,
     title:"Analytics & Business Intelligence",
-    paragraph:"ACL Digital's Analytics & Insights solutions unveil emerging trends and data patterns, consolidating insights from extensive enterprise data sources. We convert data intelligence into easily interpretable, actionable insights through efficient visualization solutions such as embedded BI, conversational interfaces, Q&A, and augmented intelligence, ensuring swift decision-making and strategic advantage."
+    paragraph:"Jonaren Technology's Analytics & Insights solutions unveil emerging trends and data patterns, consolidating insights from extensive enterprise data sources. We convert data intelligence into easily interpretable, actionable insights through efficient visualization solutions such as embedded BI, conversational interfaces, Q&A, and augmented intelligence, ensuring swift decision-making and strategic advantage."
   },
   {
     haveLink:true,
     link:'/offerings/data-and-intelligence/artificial-intelligence-and-machine-learning',
     image:offerings14,
     title:"Artificial Intelligence & Machine Learning",
-    paragraph:"ACL Digital's AI, ML, and RPA solutions empower intelligent automation, facilitating informed decision-making with precise outcomes. Our ethos revolves around discovery, innovation, augmentation, and amplification of your application suite. By interconnecting and automating diverse processes, we unearth new business insights, enhancing your operational efficiency and strategic agility."
+    paragraph:"Jonaren Technology's AI, ML, and RPA solutions empower intelligent automation, facilitating informed decision-making with precise outcomes. Our ethos revolves around discovery, innovation, augmentation, and amplification of your application suite. By interconnecting and automating diverse processes, we unearth new business insights, enhancing your operational efficiency and strategic agility."
   }
 ]
 
@@ -1468,21 +1470,21 @@ export const telcoOfferings=[
     link:'/offerings/telco-cloud-networking/5g-networks',
     image:offerings19,
     title:"5G",
-    paragraph:"ACL Digital employs open development methodologies and cutting-edge programming tools to provide comprehensive 5G solutions, empowering networks of the future with unparalleled speed and excellence in the 5G deployment process."
+    paragraph:"Jonaren Technology employs open development methodologies and cutting-edge programming tools to provide comprehensive 5G solutions, empowering networks of the future with unparalleled speed and excellence in the 5G deployment process."
   },
   {
     haveLink:true,
     link:'/offerings/telco-cloud-networking/security',
     image:offerings22,
     title:"Security",
-    paragraph:"Accelerate product development, market delivery, and adaptive responses to business dynamics with ACL Digital's premier network security solutions, ensuring robust protection in an ever-evolving competitive landscape while minimizing time-to-market for new offerings."
+    paragraph:"Accelerate product development, market delivery, and adaptive responses to business dynamics with Jonaren Technology's premier network security solutions, ensuring robust protection in an ever-evolving competitive landscape while minimizing time-to-market for new offerings."
   },
   {
     haveLink:true,
     link:'/offerings/telco-cloud-networking/edge-cloud',
     image:offerings25,
     title:"Edge Cloud",
-    paragraph:"Crafting a holistic edge cloud infrastructure, ACL Digital streamlines workload, application, and service provisioning across private and public cloud settings and data centers. Elevate service responsiveness, ensuring seamless, ultra-responsive experiences for your clientele."
+    paragraph:"Crafting a holistic edge cloud infrastructure, Jonaren Technology streamlines workload, application, and service provisioning across private and public cloud settings and data centers. Elevate service responsiveness, ensuring seamless, ultra-responsive experiences for your clientele."
   },
   {
     haveLink:true,
@@ -1503,7 +1505,7 @@ export const telcoOfferings=[
     link:'/offerings/telco-cloudworking/system-integration',
     image:offerings30,
     title:"System Integration",
-    paragraph:"Leveraging extensive industry expertise, ACL Digital enhances networks through comprehensive system integration services. Our consultants and architects collaborate closely with you to design, implement, and manage tailored digital transformation solutions aligned with your unique business requirements."
+    paragraph:"Leveraging extensive industry expertise, Jonaren Technology enhances networks through comprehensive system integration services. Our consultants and architects collaborate closely with you to design, implement, and manage tailored digital transformation solutions aligned with your unique business requirements."
   }
 ]
 
@@ -1511,17 +1513,17 @@ export const fiveGOfferings=[
   {
     image:offerings11,
     title:"Advanced Mobile Network Core",
-    paragraph:"Empower service providers with agile, cloud-native networks tailored to diverse traffic and user needs. Trust ACL Digital for dynamic, innovative solutions driving network evolution."
+    paragraph:"Empower service providers with agile, cloud-native networks tailored to diverse traffic and user needs. Trust Jonaren Technology for dynamic, innovative solutions driving network evolution."
   },
   {
     image:offerings31,
     title:"Cutting-Edge Cloud Framework",
-    paragraph:"ACL Digital's edge cloud deployment framework optimizes distributed telco cloud deployment, elevating the Telco customer experience. We architect the cloud infrastructure, bringing services closer to your customers for enhanced performance and connectivity."
+    paragraph:"Jonaren Technology's edge cloud deployment framework optimizes distributed telco cloud deployment, elevating the Telco customer experience. We architect the cloud infrastructure, bringing services closer to your customers for enhanced performance and connectivity."
   },
   {
     image:offerings12,
     title:"Efficient Mobile Network Management",
-    paragraph:"Our solutions empower Telco firms to integrate private LTE networks seamlessly. ACL Digital expands coverage with Wi-Fi and CBRS, broadening the customer base and enhancing connectivity for a robust network infrastructure."
+    paragraph:"Our solutions empower Telco firms to integrate private LTE networks seamlessly. Jonaren Technology expands coverage with Wi-Fi and CBRS, broadening the customer base and enhancing connectivity for a robust network infrastructure."
   }
 ]
 
@@ -1531,19 +1533,19 @@ export const infraOfferings=[
     link:'/offerings/infrastructure-managed-services/strategic-it-consulting',
     title:"Strategic IT Consulting",
     image:offerings4,
-    paragraph:"If you need top-tier strategic IT consulting, look no further. ACL Digital’s virtual CIO and consulting services automate operations, optimize portfolios, and enhance processes and governance models, driving digital transformation effectively."
+    paragraph:"If you need top-tier strategic IT consulting, look no further. Jonaren Technology’s virtual CIO and consulting services automate operations, optimize portfolios, and enhance processes and governance models, driving digital transformation effectively."
   },
   {
     haveLink:true,
     link:'/offerings/infrastructure-managed-services/it-managed-services',
     title:"IT Managed Services",
     image:offerings7,
-    paragraph:"Seeking a trusted managed IT service provider? ACL Digital delivers comprehensive IT program and project management, including network, application, infrastructure, and security services. Experience reliable, end-to-end IT solutions with us."
+    paragraph:"Seeking a trusted managed IT service provider? Jonaren Technology delivers comprehensive IT program and project management, including network, application, infrastructure, and security services. Experience reliable, end-to-end IT solutions with us."
   },
   {
     title:"Workplace Transformation",
     image:offerings9,
-    paragraph:"ACL Digital delivers value by assisting customers in setting goals, developing strategies, and planning roadmaps for adaptable technology solutions. We envision a future-ready workplace with apps and data accessible anytime, anywhere, on any device. Our unique proposition includes comprehensive accountability for every aspect of the workplace journey: advisory, transformation, and management, ensuring a seamless transition to modern, flexible technology solutions."
+    paragraph:"Jonaren Technology delivers value by assisting customers in setting goals, developing strategies, and planning roadmaps for adaptable technology solutions. We envision a future-ready workplace with apps and data accessible anytime, anywhere, on any device. Our unique proposition includes comprehensive accountability for every aspect of the workplace journey: advisory, transformation, and management, ensuring a seamless transition to modern, flexible technology solutions."
   },
 ]
 

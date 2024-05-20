@@ -1,21 +1,29 @@
-import Banner from "@/components/banner"
-import Active from "@/components/cards/active"
-import { blog, enterpriseModOfferings, innovationOfferings } from "@/constant"
-import { digital, enterpriseModernizationBanner, graphics23, graphics27 } from "@/public"
-import Image from "next/image"
-
+import Banner from "@/components/banner";
+import Active from "@/components/cards/active";
+import { blog, enterpriseModOfferings, innovationOfferings } from "@/constant";
+import {
+  digital,
+  enterpriseModernizationBanner,
+  graphics23,
+  graphics27,
+} from "@/public";
+import Image from "next/image";
 
 const page = () => {
   return (
     <div>
-      <Banner image={enterpriseModernizationBanner} heading="Driving Enterprise Evolution: Modernize for Success" height="560px" />
+      <Banner
+        image={enterpriseModernizationBanner}
+        heading="Driving Enterprise Evolution: Modernize for Success"
+        height="560px"
+      />
       <div
         style={{
           padding: "1rem 0",
           boxShadow: "0px 3px 6px #00000029",
           background: "#fff",
           position: "sticky",
-          top:'0px'
+          top: "0px",
         }}
       >
         <div className="wrapper">
@@ -27,7 +35,7 @@ const page = () => {
               letterSpacing: "0.5px",
             }}
           >
-           Enterprise Modernization
+            Enterprise Modernization
           </h2>
         </div>
       </div>
@@ -42,22 +50,21 @@ const page = () => {
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
-              Digital Experiences today define customers' engagement across
-              various channels with an organization's products, services, or
-              brand in both B2B and B2C industries. The customer is at the
-              center of these experiences, and personas and customer journeys
-              are driving purchase, adoption, and consumption, consequently
-              impacting business decisions. Hence, it is not enough for
-              organizations to just focus on creating products and services.
+              Enterprise modernization is imperative for businesses to integrate
+              new digital technologies and stay competitive in today's
+              ever-evolving landscape. Prioritizing digital transformation
+              ensures adaptability and scalability, yet technical limitations
+              and infrastructure constraints can hinder progress. A
+              forward-thinking, value-adding plan is essential for a seamless
+              transition. Let us guide your enterprise through this journey,
+              overcoming obstacles and unlocking new opportunities for growth
+              and innovation.
             </p>
             <p>
-              Businesses must capture customer needs, behaviors in real-time to
-              define and deliver great experiences across all touchpoints, and
-              transform internally with digital applications to help, reach, and
-              serve customers. Digital Marketing provides the reach to engage,
-              target and communicate the right messages through the right
-              channels to the intended audience segments and create brand
-              recognition, customer interests, leads, faster sales and loyalty.
+              Rely on ACL Digital's enterprise modernization experts for
+              comprehensive expertise in cloud transformation, connected
+              enterprise solutions, platform engineering, agility, automation,
+              and beyond. Elevate your business with our tailored approach.
             </p>
           </div>
           <div
@@ -92,11 +99,19 @@ const page = () => {
             include:
           </p>
           <div className="offering-container">
-            {enterpriseModOfferings.map(({ image, title, paragraph,haveLink,link }) => (
-              <div>
-                <Active image={image} title={title} paragraph={paragraph} haveLink={haveLink} link={link} />
-              </div>
-            ))}
+            {enterpriseModOfferings.map(
+              ({ image, title, paragraph, haveLink, link }) => (
+                <div>
+                  <Active
+                    image={image}
+                    title={title}
+                    paragraph={paragraph}
+                    haveLink={haveLink}
+                    link={link}
+                  />
+                </div>
+              )
+            )}
           </div>
         </div>
       </div>
@@ -138,8 +153,7 @@ const page = () => {
         ))}
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default page
-
+export default page;

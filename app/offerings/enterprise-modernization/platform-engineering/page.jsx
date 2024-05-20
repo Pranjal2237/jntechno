@@ -1,21 +1,24 @@
-import Banner from "@/components/banner"
-import Active from "@/components/cards/active"
-import { blog, innovationOfferings, platformOfferings } from "@/constant"
-import { digital, graphics34, platformBanner, terms } from "@/public"
-import Image from "next/image"
-
+import Banner from "@/components/banner";
+import Active from "@/components/cards/active";
+import { blog, innovationOfferings, platformOfferings } from "@/constant";
+import { digital, graphics34, platformBanner, terms } from "@/public";
+import Image from "next/image";
 
 const page = () => {
   return (
     <div>
-      <Banner image={platformBanner} heading="Driving Superior Digital Transformation: Platform Engineering Excellence" height="560px" />
+      <Banner
+        image={platformBanner}
+        heading="Driving Superior Digital Transformation: Platform Engineering Excellence"
+        height="560px"
+      />
       <div
         style={{
           padding: "1rem 0",
           boxShadow: "0px 3px 6px #00000029",
           background: "#fff",
           position: "sticky",
-          top:'0px'
+          top: "0px",
         }}
       >
         <div className="wrapper">
@@ -27,7 +30,7 @@ const page = () => {
               letterSpacing: "0.5px",
             }}
           >
-           Connected Enterprise
+            Connected Enterprise
           </h2>
         </div>
       </div>
@@ -42,22 +45,23 @@ const page = () => {
         >
           <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
             <p>
-              Digital Experiences today define customers' engagement across
-              various channels with an organization's products, services, or
-              brand in both B2B and B2C industries. The customer is at the
-              center of these experiences, and personas and customer journeys
-              are driving purchase, adoption, and consumption, consequently
-              impacting business decisions. Hence, it is not enough for
-              organizations to just focus on creating products and services.
+              In today's dynamic market, businesses must invest in
+              cloud-enabled, cutting-edge technology platforms to enhance
+              engagement with stakeholders. As the platform industry reshapes
+              other sectors, modernization and innovative engineering are
+              imperative. Premium digital platforms leverage analytics, data
+              science, and cloud technology, adhering to rigorous security
+              standards. They facilitate accelerated time to market and
+              future-proofing, ensuring adaptability to evolving company needs.
             </p>
             <p>
-              Businesses must capture customer needs, behaviors in real-time to
-              define and deliver great experiences across all touchpoints, and
-              transform internally with digital applications to help, reach, and
-              serve customers. Digital Marketing provides the reach to engage,
-              target and communicate the right messages through the right
-              channels to the intended audience segments and create brand
-              recognition, customer interests, leads, faster sales and loyalty.
+              ACL Digital provides comprehensive platform engineering services
+              throughout your organization's transformation journey. From
+              planning and development to migration, deployment, and ongoing
+              support, we ensure high-performance, scalable, and secure
+              platforms. Leveraging AI and ML, we harness data to drive
+              substantial growth for your business enterprise. Trust us to
+              manage and maintain your platform effectively.
             </p>
           </div>
           <div
@@ -138,8 +142,7 @@ const page = () => {
         ))}
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default page
-
+export default page;
