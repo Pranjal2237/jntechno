@@ -1,0 +1,13 @@
+.container{
+    flex: 0 1 31%;
+    padding-inline: 1rem;
+    padding-block: 3rem;
+    background-color: #f7f7f6;
+    box-shadow: 0 3px 6px #00000029;
+}
+
+.cardHeading{
+    font-weight: var(--fw-semi_bold);
+    margin-bottom: 7px;
+    color: #333333;
+}

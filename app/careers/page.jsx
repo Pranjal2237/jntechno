@@ -1,40 +1,22 @@
 import Banner from "@/components/banner";
 import Active from "@/components/cards/active";
 import Carousel from "@/components/carousel";
-import { HomBannerCarousel, about, careerBannerCarousel, careerEnvironmentArr, careerOfferings, innovationOfferings } from "@/constant";
-import { careerBanner1, careerBanner2, careerBanner4, homeBanner9 } from "@/public";
+import {  about, careerBannerCarousel, careerEnvironmentArr, careerOfferings, innovationOfferings } from "@/constant";
+import { careerBanner1, careerBanner4, homeBanner9 } from "@/public";
 import Image from "next/image";
-import "@/styles/global.css";
-import CareerCarousel from "@/components/careerCarousel";
+import styles from './styles.module.css'
 
 const page = () => {
   return (
     <div>
       <Carousel autoplay={true} BannerCarousel={careerBannerCarousel} />
-      <div
-        style={{
-          padding: "1rem 0",
-          boxShadow: "0px 3px 6px #00000029",
-          background: "#fff",
-          position: "sticky",
-          top: "0px",
-        }}
-      >
-        <div style={{ width: "1100px", marginInline: "auto" }}>
-          <h2
-            style={{
-              fontSize: "28px",
-              color: "#333",
-              fontWeight: "600",
-              letterSpacing: "0.5px",
-            }}
-          >
+        <div className="wrapper page-heading">
+          <p>
             Careers
-          </h2>
+          </p>
         </div>
-      </div>
-      <div className="career-about-container">
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+      <div className={styles.container}>
+        <div className="wrapper">
           <h1
             style={{
               fontSize: "34px",
@@ -45,7 +27,7 @@ const page = () => {
           >
             Why Jonaren Technology?
           </h1>
-          <div className="career-about">
+          <div className={styles.about}>
             <div style={{ color: "#333", fontSize: "16px" }}>
               <p>
                 Jonaren Technology believes in the knowledge, dedication, and
@@ -120,8 +102,8 @@ const page = () => {
         buttonText="READ MORE"
         height="420px"
       />
-      <div style={{ marginBlock: "3rem" }}>
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+      <div className="wrapper-block">
+        <div className="wrapper">
           <h1
             style={{
               fontSize: "32px",
@@ -142,8 +124,8 @@ const page = () => {
         </div>
       </div>
       {/* <CareerCarousel /> */}
-      <div style={{ marginBlock: "3rem" }}>
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+      <div className="wrapper-block">
+        <div className="wrapper">
           <h1
             style={{
               fontSize: "32px",

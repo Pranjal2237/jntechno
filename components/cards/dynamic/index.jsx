@@ -1,17 +1,11 @@
-import { qinsightBenifits1 } from "@/public";
+import styles from './styles.module.css'
 import Image from "next/image";
 import React from "react";
 
 const Dynamic = ({heading,content,haveLogo=false,logo,haveContent=true,list,haveList=false}) => {
   return (
     <div
-      style={{
-        flex: "0 1 31%",
-        paddingInline: "1rem",
-        paddingBlock: "3rem",
-        background: "#f7f7f6",
-        boxShadow: "0 3px 6px #00000029",
-      }}
+    className={styles.container}
     >
       {
         haveLogo && <div style={{marginBottom:'20px'}}>
@@ -19,12 +13,7 @@ const Dynamic = ({heading,content,haveLogo=false,logo,haveContent=true,list,have
       </div>
       }
       <h3
-        style={{
-          fontSize: "20px",
-          fontWeight: "600",
-          marginBottom: "7px",
-          color:'#333333'
-        }}
+        className={styles.cardHeading}
       >
         {heading}
       </h3>

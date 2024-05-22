@@ -7,60 +7,7 @@
   grid-column: 3/5;
 }
 
-.enquiry-form{
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1.5rem;
-}
 
-.input-block>input,.input-block>textarea{
-  width: 100%;
-  margin-top: 0.5rem;
-  outline: none;
-  border: none;
-  border-bottom: 1px solid #666666;
-  background: transparent;
-  padding: 5px 0px;
-}
-
-.input-block>textarea{
-  height: 70px;
-}
-
-.input-block label{
-  color: #666666;
-}
-
-.input-block span{
-  color: red;
-}
-
-.input-block:nth-child(5){
-  grid-column: 1/3;
-  
-}
-
-.btn{
-  padding: 0.75rem 4.2rem;
-  font-weight: 600;
-  font-size: 18px;
-  color: #fff;
-}
-
-.enquiry-form>div:last-child{
-  grid-column: 2/3;
-  display: flex;
-  justify-content: space-between;
-  margin-top: 1.5rem;
-}
-
-.gray{
-  background-color: var(--gray);
-}
-
-.orange{
-  background-color: var(--orange);
-}
 
 .absolute{
   position: absolute;
@@ -140,10 +87,6 @@
 
 .nav_items>div:hover .after{
   display: block;
-}
-
-.contact-btn{
-  padding: 0.5rem 1.25rem;
 }
 
 
@@ -253,101 +196,6 @@
 
 .offering-container>*{
   flex: 0 0 31%;
-}
-
-.card{
-  position: relative;
-  overflow: hidden;
-  box-shadow: 0 3px 6px #00000029;
-}
-
-.card_detail{
-  position: absolute;
-  top: 60%;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  color: #fff;
-  background:linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 100%);
-  opacity: 0.9;
-  padding: 1rem;
-  transition: top 0.5s ease;
-}
-
-.card_detail>h3{
-  font-size: 20px;
-  font-weight: 600;
-  margin-bottom: 1rem;
-}
-
-.card_detail>p{
-  font-size: 16px;
-  display: none;
-}
-
-.card:hover .card_detail>p{
-  display: block;
-}
-
-.card:hover .card_detail{
-  top: 0;
-  background:rgba(0, 0, 0, 0.9);
-}
-
-.card_link{
-  position: absolute;
-  bottom: 16px;
-  left: 16px;
-  background:url('../public/assets/arrow.svg') ;
-  background-repeat: no-repeat;
-  color: #FF6600;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  background-position-y: center;
-}
-
-.card_link>span{
-  margin-left: 25px;
-  /* display: none; */
-}
-
-.card_link:hover span{
-  display: block;
-}
-
-.career-about-container{
-  padding-block: 3rem;
-  background: url('../public/assets/Career-background.jpg');
-  background-position: center;
-}
-
-.career-about{
-  display: grid;
-  grid-template-columns: repeat(3,1fr);
-  gap: 1.5rem;
-  padding: 1rem;
-  background-color: #fff;
-  box-shadow: 0 3px 6px #00000029;
-  margin-top: 2rem;
-}
-
-.career-about>div{
-  grid-column: 1/3;
-}
-
-.career-carousel-item{
-  display: flex;
-  justify-content: space-between;
-  width: 1100px;
-  margin-inline: auto;
-  align-items: center;
-  gap: 2rem;
-}
-
-.career-carousel-container{
-  background: #000000 url('../public/assets/career-carousel-banner.png');
-  padding-block: 2rem;
 }
 
 .qinsight-benifits-container{

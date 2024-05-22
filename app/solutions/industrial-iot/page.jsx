@@ -1,6 +1,6 @@
 import Banner from "@/components/banner";
 import Dynamic from "@/components/cards/dynamic";
-import { blog, medicalOfferings } from "@/constant";
+import { blog, iotService } from "@/constant";
 import {
   digital,
   terms,
@@ -95,7 +95,7 @@ const page = () => {
         <h1>Offerings</h1>
         <div style={{display:'grid',gridTemplateColumns:'repeat(3,1fr)',gap:'2rem',marginTop:'2rem'}}>
           {
-            medicalOfferings.map(({heading,content,haveLogo,logo})=>(
+            iotService.map(({heading,content,haveLogo,logo})=>(
               <>
                 <Dynamic heading={heading} content={content} haveLogo={haveLogo} logo={logo} />
               </>

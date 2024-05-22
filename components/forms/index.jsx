@@ -4,7 +4,7 @@ import React, { useState, useRef } from "react";
 import { useFormik } from "formik";
 import emailjs from "@emailjs/browser";
 import { FormSchema } from "./schema";
-import "../../styles/global.css";
+import styles from './styles.module.css'
 
 const initialValues = {
   name: "",
@@ -51,8 +51,8 @@ const Form = () => {
     });
 
   return (
-    <form id="enquiry" className="enquiry-form" onSubmit={handleSubmit} ref={form}>
-      <div className="input-block">
+    <form id="enquiry" className={styles.enquiryForm } onSubmit={handleSubmit} ref={form}>
+      <div className={styles.inputBlock}>
         <label htmlFor="name">
           Name <span>*</span>
         </label>
@@ -66,7 +66,7 @@ const Form = () => {
         />
         {errors.name && touched.name ? <p>{errors.name}</p> : null}
       </div>
-      <div className="input-block">
+      <div className={styles.inputBlock}>
         <label htmlFor="name">
           Phone Number <span>*</span>
         </label>
@@ -80,7 +80,7 @@ const Form = () => {
         />
         {errors.phone && touched.phone ? <p>{errors.phone}</p> : null}
       </div>
-      <div className="input-block">
+      <div className={styles.inputBlock}>
         <label htmlFor="name">
           Company Name <span>*</span>
         </label>
@@ -94,7 +94,7 @@ const Form = () => {
         />
         {errors.company && touched.company ? <p>{errors.company}</p> : null}
       </div>
-      <div className="input-block">
+      <div className={styles.inputBlock}>
         <label htmlFor="name">
           Work Email <span>*</span>
         </label>
@@ -108,7 +108,7 @@ const Form = () => {
         />
         {errors.email && touched.email ? <p>{errors.email}</p> : null}
       </div>
-      <div className="input-block">
+      <div className={styles.inputBlock}>
         <label htmlFor="name">
           Message <span>*</span>
         </label>
@@ -129,8 +129,8 @@ const Form = () => {
         </div>
       </div>
       <div>
-        <button className="btn gray">RESET</button>
-        <button className="btn orange">SUBMIT</button>
+        <button className={styles.btn} style={{background:'var(--gray)'}}>RESET</button>
+        <button className={styles.btn} style={{background:'var(--orange)'}}>SUBMIT</button>
       </div>
     </form>
   );

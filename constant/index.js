@@ -1633,6 +1633,78 @@ export const homeOfferings=[
   },
 ]
 
+export const iotService=[
+  {
+    haveLogo:true,
+    logo:qinsightBenifits1,
+    heading:"Interface Innovation",
+    content:"Advanced HMI Systems, Real-Time Remote Monitoring, and Predictive Maintenance Solutions for Optimal Performance and Efficiency."
+  },
+  {
+    haveLogo:true,
+    logo:qinsightBenifits1,
+    heading:"Production Solutions",
+    content:"Innovative Engineering Solutions: Cost-Effective Manufacturing Support for Sustainable and Efficient Production."
+  },
+  {
+    haveLogo:true,
+    logo:qinsightBenifits1,
+    heading:"Seamless Wireless Integration",
+    content:"Multi-Protocol Connectivity: BLE, Zigbee, LoRaWAN, Wi-Fi, LTE/5G, and More, Ensuring Seamless Integration for Diverse Applications."
+  },
+  {
+    haveLogo:true,
+    logo:qinsightBenifits1,
+    heading:"Benchmark Systems",
+    content:"Seamless Sensor Integration, Gateway Solutions, and Cutting-Edge System on Modules for Enhanced Industrial Connectivity."
+  },
+  {
+    haveLogo:true,
+    logo:qinsightBenifits1,
+    heading:"Comprehensive Lifecycle Assistance",
+    content:"Innovating Industrial IoT: Conceptualizing, Designing, and Prototyping Cutting-Edge Solutions."
+  },
+  {
+    haveLogo:true,
+    logo:qinsightBenifits1,
+    heading:"Quality Benchmarks",
+    content:"Interoperable IoT Ecosystem: OPENIoT, HomeKit, Thread, Nest, AllJoyn, Brillo, and Weave"
+  },
+  {
+    haveLogo:true,
+    logo:qinsightBenifits1,
+    heading:"Interconnected Systems",
+    content:"Seamless M2M Interface and Network Management Solutions for Efficiency."
+  },
+  {
+    haveLogo:true,
+    logo:qinsightBenifits1,
+    heading:"Smart Automation",
+    content:"AI/ML-Driven Process Automation and Control for Enhanced Efficiency and Productivity."
+  }
+]
+
+export const workforceBenifits=[
+  {
+    haveLogo:true,
+    logo:qinsightBenifits1,
+    heading:"Maximized Efficiency",
+    content:"Advance 90-day rosters for strategic workforce planning to minimize last-minute changes. Enhance stability, cost efficiency, and work-life balance, ensuring a productive and satisfied workforce."
+  },
+  {
+    haveLogo:true,
+    logo:qinsightBenifits1,
+    heading:"Constraint-Driven Strategy",
+    content:"Boost efficiency, accuracy, and compliance by tailoring the scheduling process to your business's unique constraints and needs. This approach ensures optimized workforce management, aligning staff schedules with operational demands for improved performance and satisfaction, ultimately driving business success."
+  },
+  {
+    haveLogo:true,
+    logo:qinsightBenifits1,
+    heading:"Smart Adaptive Learning",
+    content:"Self-learning algorithms draw insights from past rosters, analyzing historical data, preferences, and performance metrics to generate new schedules tailored to your unique workforce dynamics autonomously."
+  },
+]
+
 export const careerOfferings = [
   {
     image: offerings20,
@@ -1686,6 +1758,49 @@ export const careerEnvironmentArr = [
       "At Jonaren Technology, women hold key positions and make up a substantial part of our team. We foster a culture where women can thrive and contribute diverse perspectives. Our commitment? Providing ample career growth for all women in tech. Join our empowering community!",
   },
 ];
+
+export const workforceFeatures=[
+  {
+    image:qinsightBenifits1,
+    heading:"Automate rosters efficiently with OptaPlanner",
+    content:"OptaPlanner optimizes shift assignments using sophisticated algorithms, factoring in preferences, skills, and availability for efficient scheduling."
+  },
+  {
+    image:qinsightBenifits1,
+    heading:"Adaptability",
+    content:"Create balanced, employee-friendly schedules by integrating preferences, time-off requests, and constraints for optimal workforce management."
+  },
+  {
+    image:qinsightBenifits1,
+    heading:"Clarity",
+    content:"Enhance roster optimization with comprehensive reports, offering insights into resource allocation, cost-effectiveness, and scheduling efficiency."
+  },
+  {
+    image:qinsightBenifits1,
+    heading:"Agile Planning",
+    content:"Enable real-time roster adjustments based on evolving business needs with dynamic workforce scheduling software, ensuring adaptability."
+  },
+  {
+    image:qinsightBenifits1,
+    heading:"Regulatory Oversight",
+    content:"Ensure compliance with labor laws and company policies, preventing scheduling conflicts and legal issues with Workforce Scheduler."
+  },
+  {
+    image:qinsightBenifits1,
+    heading:"Seamless Calendar Integration",
+    content:"Achieve real-time updates and efficient communication with seamless calendar integration. The software sends shift detail emails, synchronizing schedules across platforms effortlessly."
+  },
+  {
+    image:qinsightBenifits1,
+    heading:"Efficiency Analytics",
+    content:"Gain insights into resource allocation, cost-effectiveness, and scheduling efficiency with our workforce scheduling tool. Easily generate and export roster reports for analysis and documentation in Excel files."
+  },
+  {
+    image:qinsightBenifits1,
+    heading:"Expansion",
+    content:"Our employee-centric scheduling solution adeptly manages workforce scheduling for organizations of all sizes, catering to small businesses and large enterprises alike."
+  },
+]
 
 export const telecomOfferings = [
   {

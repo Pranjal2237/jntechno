@@ -1,6 +1,6 @@
 import Banner from "@/components/banner";
 import Dynamic from "@/components/cards/dynamic";
-import { homeBridgeOfferings, homeOfferings } from "@/constant";
+import { homeBridgeOfferings, homeOfferings, workforceBenifits, workforceFeatures } from "@/constant";
 import { digital, graphics13, qinsightBenifits1, terms } from "@/public";
 import Image from "next/image";
 
@@ -78,14 +78,14 @@ const page = () => {
         <div className="wrapper">
             <h1 style={{fontSize:'32px',fontWeight:'600',marginBottom:'30px'}}>Features</h1>
             {
-                [1,2,3,4,5,6,7,8,9].map(()=>(
+                workforceFeatures.map(({image,heading,content})=>(
                     <div style={{display:'flex',gap:'2rem',marginTop:'1rem'}}>
                         <div>
-                            <Image src={qinsightBenifits1} />
+                            <Image src={image} />
                         </div>
                         <div style={{}}>
-                            <h1 style={{fontSize:'22px',fontWeight:'600'}}>Transparency</h1>
-                            <p>The workforce planning software provides detailed reports and analytics for better roster optimization, allowing for insights into resource allocation, cost-effectiveness, and overall scheduling efficiency.</p>
+                            <h1 style={{fontSize:'22px',fontWeight:'600'}}>{heading}</h1>
+                            <p>{content}</p>
                         </div>
                     </div>
                 ))
@@ -99,7 +99,7 @@ const page = () => {
           </h1>
           <div style={{display:'grid',gridTemplateColumns:'repeat(3,1fr)',gap:'2rem',marginTop:'2rem'}}>
           {
-            homeOfferings.map(({heading,content,haveLogo,logo})=>(
+            workforceBenifits.map(({heading,content,haveLogo,logo})=>(
               <>
                 <Dynamic heading={heading} content={content} haveLogo={haveLogo} logo={logo} />
               </>

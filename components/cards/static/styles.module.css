@@ -1,0 +1,15 @@
+.container{
+    padding: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgba(0, 0, 0, .125);
+    cursor: pointer;
+    height: 100%;
+}
+
+.card-heading{
+    font-size: 17px;
+    font-weight: var(--fw-semi_bold);
+    margin: 5px 0px;
+}

@@ -11,91 +11,66 @@ const page = () => {
   return (
     <div>
       <Carousel autoplay={true} BannerCarousel={digitalBannerCarousel} />
-      <div
-        style={{
-          padding: "1rem 0",
-          boxShadow: "0px 3px 6px #00000029",
-          background: "#fff",
-          position: "sticky",
-          top: "0px",
-        }}
-      >
-        <div className="wrapper">
-          <h2
-            style={{
-              fontSize: "23px",
-              color: "#333",
-              fontWeight: "var(--fw-bold)",
-            }}
-          >
-            Digital Experience & Innovations
-          </h2>
-        </div>
-      </div>
-      <div style={{ marginBlock: "2rem" }}>
-        <div
+      <div className="wrapper page-heading">
+        <h2
           style={{
-            display: "flex",
-            alignItems: "center",
-            gap: "2.5rem",
+            fontSize: "23px",
+            color: "#333",
+            fontWeight: "var(--fw-bold)",
           }}
-          className="wrapper"
         >
-          <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
-            <p>
+          Digital Experience & Innovations
+        </h2>
+      </div>
+      <div className="wrapper about-container wrapper-block">
+        <div className="about-container">
+          <div className="about-content-container">
+            <h5>
               Today, digital experiences shape how customers interact with
               organizations' offerings in both B2B and B2C sectors. Customers,
               central to these experiences, influence decisions through personas
               and journeys. Thus, organizations must prioritize beyond product
               creation, emphasizing seamless experiences across channels to
               drive engagement, adoption, and business success.
-            </p>
-            <p>
+            </h5>
+            <h5>
               To excel, businesses must grasp customer needs, adapting swiftly
               to offer top-notch experiences across all interactions.
               Internally, digital tools aid in customer outreach and service.
               Digital Marketing amplifies reach, tailoring messages for targeted
               audience segments, nurturing brand recognition, customer interest,
               leads, and loyalty.
-            </p>
+            </h5>
           </div>
-          <div
-            style={{
-              flexBasis: "100%",
-              display: "flex",
-              justifyContent: "center",
-              alignItems: "center",
-            }}
-          >
-            <Image src={graphics10} style={{ width: "80%" }} />
+          <div className="about-image-container">
+            <Image src={graphics10} />
           </div>
         </div>
       </div>
-      <div style={{ marginBlock: "3rem" }}>
-        <div className="wrapper">
-          <h1
-            style={{
-              color:"#333333",
-              fontWeight: "var(--fw-bold)",
-              marginBottom: "0.2rem",
-            }}
-          >
-            Offerings
-          </h1>
-          <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
-            Jonaren Technology's robust Digital Experience platforms empower
-            enterprises in comprehensive digital transformations. Firms seek
-            tailored solutions that deliver intuitive, impactful digital
-            experiences and streamline customer journeys seamlessly. Our suite
-            of Digital Experience & Innovation services encompasses:
-          </p>
-          <div className="offering-container">
-            {innovationOfferings.map(({ image, title, paragraph, haveLink, link }) => (
+      <div className="wrapper wrapper-block">
+        <h1 className="offerings-heading">Offerings</h1>
+        <h4 className="offerings-content">
+          Jonaren Technology's robust Digital Experience platforms empower
+          enterprises in comprehensive digital transformations. Firms seek
+          tailored solutions that deliver intuitive, impactful digital
+          experiences and streamline customer journeys seamlessly. Our suite of
+          Digital Experience & Innovation services encompasses:
+        </h4>
+        <div className="offering-container">
+          {innovationOfferings.map(
+            ({ image, title, paragraph, haveLink, link }) => (
               <div>
-                <Active image={image} title={title} haveLink={haveLink} link={link} paragraph={paragraph} />
+                <Active
+                  im
+                  age={image}
+                  title={title}
+                  haveLink={haveLink}
+                  link={link}
+                  paragraph={paragraph}
+                />
               </div>
-            ))}
-          </div>
+            )
+          )}
         </div>
       </div>
       <Banner
@@ -130,20 +105,25 @@ const page = () => {
             </p>
             <div style={{ flexBasis: "100%" }}>
               <p>
-              Jonaren Technology offers comprehensive digital expertise across various capabilities.
+                Jonaren Technology offers comprehensive digital expertise across
+                various capabilities.
               </p>
               <ul style={{ marginTop: "10px" }}>
                 <li>
-                Digital, Business, Customer, and Product Strategy Expertise Combined.
+                  Digital, Business, Customer, and Product Strategy Expertise
+                  Combined.
                 </li>
                 <li>
-                Crafting Digital Interactives: UX Design, Mobile Apps, Portals, Chatbots, and More, Seamlessly Engineered for Impact.
+                  Crafting Digital Interactives: UX Design, Mobile Apps,
+                  Portals, Chatbots, and More, Seamlessly Engineered for Impact.
                 </li>
                 <li>
-                End-to-End Digital Marketing and CX Consulting with Seamless Platform Implementation for Your Success.
+                  End-to-End Digital Marketing and CX Consulting with Seamless
+                  Platform Implementation for Your Success.
                 </li>
                 <li>
-                Complete Managed Services for Your Digital Experience Ecosystem.
+                  Complete Managed Services for Your Digital Experience
+                  Ecosystem.
                 </li>
               </ul>
             </div>
@@ -157,29 +137,15 @@ const page = () => {
         {blog.map(({ category, heading, background }) => (
           <div
             style={{
-              height: "348px",
               background: background,
               backgroundSize: "cover",
               backgroundPosition: "center",
-              padding: "1rem 1.5rem",
-              color: "#fff",
-              display: "flex",
-              flexDirection: "column",
-              justifyContent: "space-between",
             }}
+            className="blog-item-container"
           >
             <div>
-              <h4 style={{ fontSize: "14px" }}>{category}</h4>
-              <h2
-                style={{
-                  fontSize: "20px",
-                  fontWeight: "600",
-                  marginTop: "20px",
-                  width: "65%",
-                }}
-              >
-                {heading}
-              </h2>
+              <h4 className="blog-item-category">{category}</h4>
+              <h3 className="blog-item-heading">{heading}</h3>
             </div>
             <button style={{ width: "max-content" }}>
               <p style={{ fontWeight: "600", fontSize: "16px" }}>READ MORE</p>

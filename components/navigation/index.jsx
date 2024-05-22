@@ -3,7 +3,7 @@
 import React, { useState, useEffect } from "react";
 import "../../styles/global.css";
 import Image from "next/image";
-import { logo } from "@/public";
+import { logo, logodark } from "@/public";
 import { navigation } from "@/constant";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
@@ -30,9 +30,13 @@ const Navigation = () => {
     <div className={isscroll === true ? "navigation scroll" : "navigation"}>
       <div className="nav_box wrapper">
         <div className="nav_logo">
-          <Link href="/">
+          {
+            isscroll===false ? <Link href="/">
             <Image src={logo} />
+          </Link> :<Link href="/">
+            <Image src={logodark} />
           </Link>
+          }
         </div>
         <ul className="nav_items">
           {navigation.map(({ nav, subnav, navLink, haveLink = false }) => (
