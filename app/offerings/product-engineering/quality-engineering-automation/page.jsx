@@ -13,48 +13,26 @@ const page = () => {
         heading="Connected Enterprises – Radically Reforming Companies and Competition"
         height="560px"
       />
-      <div
-        style={{
-          padding: "1rem 0",
-          boxShadow: "0px 3px 6px #00000029",
-          background: "#fff",
-          position: "sticky",
-          top: "0px",
-        }}
-      >
-        <div style={{ width: "1100px", marginInline: "auto" }}>
-          <h2
-            style={{
-              fontSize: "28px",
-              color: "#333",
-              fontWeight: "600",
-              letterSpacing: "0.5px",
-            }}
+        <div className="wrapper page-heading">
+          <p
           >
             Quality Engineering & Automation
-          </h2>
+          </p>
         </div>
-      </div>
-      <div style={{ marginBlock: "2rem" }}>
+      <div className="wrapper about-container wrapper-block">
         <div
-          style={{
-            width: "1100px",
-            marginInline: "auto",
-            display: "flex",
-            alignItems: "center",
-            gap: "2.5rem",
-          }}
+          className="about-container"
         >
-          <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
-            <p>
+          <div className="about-content-container">
+            <h5>
               In today's digital era, software plays a pivotal role in business
               success, underscoring the significance of Quality Assurance (QA)
               testing services. QA testing is essential throughout the software
               development lifecycle, ensuring applications adhere to stringent
               quality, reliability, and performance benchmarks.
-            </p>
-            <p>
-              ACL Digital adopts a comprehensive approach to quality assurance,
+            </h5>
+            <h5>
+              Jonaren Technology adopts a comprehensive approach to quality assurance,
               integrating industry best practices with our domain expertise.
               Through our Test Automation Centre of Excellence, we provide
               tailored test automation solutions with custom-built frameworks.
@@ -62,33 +40,23 @@ const page = () => {
               expedite market readiness, and deliver flawless, agile software
               products for both ISVs and Enterprises, ensuring uncompromised
               quality and efficiency.
-            </p>
+            </h5>
           </div>
           <div
-            style={{
-              flexBasis: "100%",
-              display: "flex",
-              justifyContent: "center",
-              alignItems: "center",
-            }}
+            className="about-image-container"
           >
-            <Image src={graphics28} style={{ width: "80%" }} />
+            <Image src={graphics28} />
           </div>
         </div>
       </div>
-      <div style={{ marginBlock: "3rem" }}>
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper wrapper-block">
           <h1
-            style={{
-              fontSize: "32px",
-              fontWeight: "600",
-              marginBottom: "0.2rem",
-            }}
+            className="offerings-heading"
           >
             Our connected enterprise offerings
           </h1>
-          <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
-            ACL Digital’s enterprise-grade Digital Experience platforms help
+          <p className="offerings-content">
+            Jonaren Technology’s enterprise-grade Digital Experience platforms help
             enterprises achieve holistic digital transformations. The companies
             demand innovative and customized solutions with intuitive and
             meaningful digital experiences and a seamless end-to-end customer
@@ -103,9 +71,8 @@ const page = () => {
             ))}
           </div>
         </div>
-      </div>
       <div className="wrapper qinsight-benifits-container" style={{ paddingBlock: "4rem" }}>
-        <h1>Choose ACL Digital for superior QA testing solutions and reliability</h1>
+        <h1>Choose Jonaren Technology for superior QA testing solutions and reliability</h1>
         <div style={{display:'grid',gridTemplateColumns:'repeat(3,1fr)',gap:'2rem',marginTop:'2rem'}}>
           {
             homeOfferings.map(({heading,content,haveLogo,logo})=>(
@@ -123,29 +90,19 @@ const page = () => {
         {blog.map(({ category, heading, background }) => (
           <div
             style={{
-              height: "348px",
               background: background,
               backgroundSize: "cover",
               backgroundPosition: "center",
-              padding: "1rem 1.5rem",
-              color: "#fff",
-              display: "flex",
-              flexDirection: "column",
-              justifyContent: "space-between",
             }}
+            className="blog-item-container"
           >
             <div>
-              <h4 style={{ fontSize: "14px" }}>{category}</h4>
-              <h2
-                style={{
-                  fontSize: "20px",
-                  fontWeight: "600",
-                  marginTop: "20px",
-                  width: "65%",
-                }}
+              <h4 className="blog-item-category">{category}</h4>
+              <h3
+                className="blog-item-heading"
               >
                 {heading}
-              </h2>
+              </h3>
             </div>
             <button style={{ width: "max-content" }}>
               <p style={{ fontWeight: "600", fontSize: "16px" }}>READ MORE</p>

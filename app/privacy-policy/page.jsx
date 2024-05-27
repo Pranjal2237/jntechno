@@ -33,7 +33,7 @@ const page = () => {
           <h2
             style={{ marginTop: "4rem", fontSize: "20px", fontWeight: "600" }}
           >
-            ACL Digital is committed to protecting and respecting your privacy.
+            Jonaren Technology is committed to protecting and respecting your privacy.
           </h2>
           <p style={{ fontSize: "17px", color: "#333", marginTop: "10px" }}>
             This policy, together with any other documents referred to in it,
@@ -69,7 +69,7 @@ const page = () => {
                 >
                   <b>Information you give us-</b> This is information about you
                   that you give us by filling in forms on the website
-                  (www.acldigital.com), interacting with the Site or by
+                  , interacting with the Site or by
                   corresponding with us by phone, e-mail or otherwise. It
                   includes information you provide when you sign up to our
                   newsletter service, make an enquiry about our products and

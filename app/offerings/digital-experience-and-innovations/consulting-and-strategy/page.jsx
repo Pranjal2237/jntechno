@@ -7,39 +7,18 @@ const page = () => {
   return (
     <div>
       <Banner image={consultingBanner} heading="Join the Collaborative, Connected Digital World Today." height="560px" />
-      <div
-        style={{
-          padding: "1rem 0",
-          boxShadow: "0px 3px 6px #00000029",
-          background: "#fff",
-          position: "sticky",
-          top: "0px",
-        }}
-      >
-        <div className="wrapper">
-          <h2
-            style={{
-              fontSize: "28px",
-              color: "#333",
-              fontWeight: "600",
-              letterSpacing: "0.5px",
-            }}
+        <div className="wrapper page-heading">
+          <p
           >
             Consulting & Strategy
-          </h2>
+          </p>
         </div>
-      </div>
-      <div style={{ marginBlock: "2rem" }}>
+      <div className="wrapper about-container wrapper-block">
         <div
-          style={{
-            display: "flex",
-            alignItems: "center",
-            gap: "2.5rem",
-          }}
-          className="wrapper"
+          className="about-container"
         >
-          <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
-            <p>
+          <div className="about-content-container">
+            <h5>
               In today’s digital age, organizations are increasingly utilizing
               information technology for digital transformation. Navigating the
               challenges of identifying, assessing, and deploying the right
@@ -48,8 +27,8 @@ const page = () => {
               effective solutions. Let us help you drive your business forward
               with precision and innovation, ensuring a seamless digital
               transformation.
-            </p>
-            <p>
+            </h5>
+            <h5>
               Our strategic IT consulting team is dedicated to helping you adapt
               and automate digital experiences, SaaS platforms, product
               engineering, and IT-led transformation services. Through our
@@ -57,17 +36,12 @@ const page = () => {
               co-innovate and co-create solutions. Enhance resilience and forge
               stronger connections with your customers, driving your business
               forward with tailored, cutting-edge technology.
-            </p>
+            </h5>
           </div>
           <div
-            style={{
-              flexBasis: "100%",
-              display: "flex",
-              justifyContent: "center",
-              alignItems: "center",
-            }}
+          className="about-image-container"
           >
-            <Image src={graphics8} style={{ width: "80%" }} />
+            <Image src={graphics8}  />
           </div>
         </div>
       </div>
@@ -78,29 +52,19 @@ const page = () => {
         {blog.map(({ category, heading, background }) => (
           <div
             style={{
-              height: "348px",
               background: background,
               backgroundSize: "cover",
               backgroundPosition: "center",
-              padding: "1rem 1.5rem",
-              color: "#fff",
-              display: "flex",
-              flexDirection: "column",
-              justifyContent: "space-between",
             }}
+            className="blog-item-container"
           >
             <div>
-              <h4 style={{ fontSize: "14px" }}>{category}</h4>
-              <h2
-                style={{
-                  fontSize: "20px",
-                  fontWeight: "600",
-                  marginTop: "20px",
-                  width: "65%",
-                }}
+              <h4 className="blog-item-category">{category}</h4>
+              <h3
+              className="blog-item-heading"
               >
                 {heading}
-              </h2>
+              </h3>
             </div>
             <button style={{ width: "max-content" }}>
               <p style={{ fontWeight: "600", fontSize: "16px" }}>READ MORE</p>

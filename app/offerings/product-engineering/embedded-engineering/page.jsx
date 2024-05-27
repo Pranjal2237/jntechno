@@ -12,83 +12,51 @@ const page = () => {
         heading="Connected Enterprises – Radically Reforming Companies and Competition"
         height="560px"
       />
-      <div
-        style={{
-          padding: "1rem 0",
-          boxShadow: "0px 3px 6px #00000029",
-          background: "#fff",
-          position: "sticky",
-          top: "0px",
-        }}
-      >
-        <div style={{ width: "1100px", marginInline: "auto" }}>
-          <h2
-            style={{
-              fontSize: "28px",
-              color: "#333",
-              fontWeight: "600",
-              letterSpacing: "0.5px",
-            }}
+        <div className="wrapper page-heading">
+          <p
           >
             Embedded Engineering
-          </h2>
+          </p>
         </div>
-      </div>
-      <div style={{ marginBlock: "2rem" }}>
+      <div className="wrapper about-container wrapper-block">
         <div
-          style={{
-            width: "1100px",
-            marginInline: "auto",
-            display: "flex",
-            alignItems: "center",
-            gap: "2.5rem",
-          }}
+          className="about-container"
         >
-          <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
-            <p>
+          <div className="about-content-container">
+            <h5>
               As product companies navigate technological advancements and
               economic fluctuations, streamlining process innovation becomes
-              imperative. ACL Digital provides cutting-edge embedded software
+              imperative. Jonaren Technology provides cutting-edge embedded software
               and systems engineering solutions to address these challenges. Our
               next-generation offerings empower businesses to minimize costs,
               size, and complexities, enabling them to adapt and thrive in
               dynamic market environments, while staying ahead of the
               competition.
-            </p>
-            <p>
-              Rely on ACL Digital for cost-effective embedded engineering
+            </h5>
+            <h5>
+              Rely on Jonaren Technology for cost-effective embedded engineering
               services, covering platform development, OS/application porting,
               and wired/wireless connectivity. With expertise in firmware
               development, we collaborate with industry leaders to deliver
               advanced solutions. Our tailored end-to-end offerings across
               multiple platforms ensure swift time to market for our clients.
-            </p>
+            </h5>
           </div>
           <div
-            style={{
-              flexBasis: "100%",
-              display: "flex",
-              justifyContent: "center",
-              alignItems: "center",
-            }}
+            className="about-image-container"
           >
-            <Image src={graphics44} style={{ width: "80%" }} />
+            <Image src={graphics44} />
           </div>
         </div>
       </div>
-      <div style={{ marginBlock: "3rem" }}>
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper wrapper-block">
           <h1
-            style={{
-              fontSize: "32px",
-              fontWeight: "600",
-              marginBottom: "0.2rem",
-            }}
+            className="offerings-heading"
           >
             Our connected enterprise offerings
           </h1>
-          <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
-            ACL Digital’s enterprise-grade Digital Experience platforms help
+          <p className="offerings-content">
+            Jonaren Technology’s enterprise-grade Digital Experience platforms help
             enterprises achieve holistic digital transformations. The companies
             demand innovative and customized solutions with intuitive and
             meaningful digital experiences and a seamless end-to-end customer
@@ -103,7 +71,6 @@ const page = () => {
             ))}
           </div>
         </div>
-      </div>
       <div
         className="child"
         style={{ display: "grid", gridTemplateColumns: "repeat(4,1fr)" }}
@@ -111,29 +78,19 @@ const page = () => {
         {blog.map(({ category, heading, background }) => (
           <div
             style={{
-              height: "348px",
               background: background,
               backgroundSize: "cover",
               backgroundPosition: "center",
-              padding: "1rem 1.5rem",
-              color: "#fff",
-              display: "flex",
-              flexDirection: "column",
-              justifyContent: "space-between",
             }}
+            className="blog-item-container"
           >
             <div>
-              <h4 style={{ fontSize: "14px" }}>{category}</h4>
-              <h2
-                style={{
-                  fontSize: "20px",
-                  fontWeight: "600",
-                  marginTop: "20px",
-                  width: "65%",
-                }}
+              <h4 className="blog-item-category">{category}</h4>
+              <h3
+                className="blog-item-heading"
               >
                 {heading}
-              </h2>
+              </h3>
             </div>
             <button style={{ width: "max-content" }}>
               <p style={{ fontWeight: "600", fontSize: "16px" }}>READ MORE</p>

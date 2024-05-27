@@ -12,40 +12,18 @@ const page = () => {
         heading="Connected Enterprises – Radically Reforming Companies and Competition"
         height="560px"
       />
-      <div
-        style={{
-          padding: "1rem 0",
-          boxShadow: "0px 3px 6px #00000029",
-          background: "#fff",
-          position: "sticky",
-          top: "0px",
-        }}
-      >
-        <div style={{ width: "1100px", marginInline: "auto" }}>
-          <h2
-            style={{
-              fontSize: "28px",
-              color: "#333",
-              fontWeight: "600",
-              letterSpacing: "0.5px",
-            }}
+        <div className="wrapper page-heading">
+          <p
           >
             Edge Cloud
-          </h2>
+          </p>
         </div>
-      </div>
-      <div style={{ marginBlock: "2rem" }}>
+      <div className="wrapper about-container wrapper-block">
         <div
-          style={{
-            width: "1100px",
-            marginInline: "auto",
-            display: "flex",
-            alignItems: "center",
-            gap: "2.5rem",
-          }}
+          className="about-container"
         >
-          <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
-            <p>
+          <div className="about-content-container" >
+            <h5>
               Amidst the buzz surrounding edge cloud, a notable trend emerges to
               complement traditional cloud infrastructure for emerging workloads
               and applications. Edge clouds, comprising small data centers
@@ -53,31 +31,25 @@ const page = () => {
               between processing and consumption points. This enables premium
               cloud services tailored to specific customers at competitive
               rates.
-            </p>
-            <p>
-              ACL Digital's edge cloud services empower telecom service
+            </h5>
+            <h5>
+              Jonaren Technology's edge cloud services empower telecom service
               providers to establish edge computing infrastructure within the
               access network, proximate to end-users and connected devices. Our
               open architecture framework facilitates comprehensive edge cloud
               infrastructure development, while our edge cloud orchestrator
               automates workload, application, and service provisioning across
               private/public cloud and data center environments.
-            </p>
+            </h5>
           </div>
           <div
-            style={{
-              flexBasis: "100%",
-              display: "flex",
-              justifyContent: "center",
-              alignItems: "center",
-            }}
+            className="about-image-container"
           >
-            <Image src={graphics49} style={{ width: "80%" }} />
+            <Image src={graphics49} />
           </div>
         </div>
       </div>
-      <div style={{ marginBlock: "3rem" }}>
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper wrapper-block">
           <h1
             style={{
               fontSize: "32px",
@@ -95,7 +67,6 @@ const page = () => {
             ))}
           </div>
         </div>
-      </div>
       <div
         className="child"
         style={{ display: "grid", gridTemplateColumns: "repeat(4,1fr)" }}

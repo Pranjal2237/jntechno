@@ -61,8 +61,7 @@ const page = () => {
             ({ image, title, paragraph, haveLink, link }) => (
               <div>
                 <Active
-                  im
-                  age={image}
+                  image={image}
                   title={title}
                   haveLink={haveLink}
                   link={link}
@@ -82,10 +81,9 @@ const page = () => {
         height="420px"
       />
       <div style={{ background: "#f8f8f8", padding: "2rem 0 4rem 0" }}>
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper">
           <h1
             style={{
-              fontSize: "32px",
               fontWeight: "600",
               marginBottom: "2rem",
             }}

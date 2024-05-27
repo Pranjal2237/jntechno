@@ -135,7 +135,7 @@ const page = () => {
             Cookie Audit
           </h2>
           <p style={{ fontSize: "17px", color: "#333", marginTop: "10px" }}>
-            We will perform a cookie audit on a regular basis, which will
+           We will perform a cookie audit on a regular basis, which will
             identify all cookies that our website installs, who owns those
             cookies, and their purpose, whether or not they fall within the
             definition “Strictly Necessary” for the service requested by the
@@ -263,7 +263,7 @@ const page = () => {
           </h2>
           <p style={{ fontSize: "17px", color: "#333", marginTop: "10px" }}>
             <b>Google :</b> Analytics, show targeted, relevant advertisements
-            and re-targeted advertisements to visitors of ACL Digital website
+            and re-targeted advertisements to visitors of Jonaren Technology website
           </p>
           <p style={{ fontSize: "17px", color: "#333", marginTop: "10px" }}>
             Privacy Policy: https://policies.google.com/privacy
@@ -273,7 +273,7 @@ const page = () => {
           </p>
           <p style={{ fontSize: "17px", color: "#333", marginTop: "10px" }}>
             <b>Youtube :</b> Show targeted, relevant advertisements. Show
-            embedded videos on ACL Digital website
+            embedded videos on Jonaren Technology website
           </p>
           <p style={{ fontSize: "17px", color: "#333", marginTop: "10px" }}>
             Privacy Policy: https://policies.google.com/privacy
@@ -283,7 +283,7 @@ const page = () => {
           </p>
           <p style={{ fontSize: "17px", color: "#333", marginTop: "10px" }}>
             <b>Twitter :</b> Show targeted, relevant advertisements and
-            re-targeted advertisements to visitors of ACL Digital website
+            re-targeted advertisements to visitors of Jonaren Technology website
           </p>
           <p style={{ fontSize: "17px", color: "#333", marginTop: "10px" }}>
             Privacy Policy: https://twitter.com/en/privacy
@@ -293,7 +293,7 @@ const page = () => {
           </p>
           <p style={{ fontSize: "17px", color: "#333", marginTop: "10px" }}>
             <b>LinkedIn :</b> Show targeted, relevant advertisements and
-            re-targeted advertisements to visitors of ACL Digital website
+            re-targeted advertisements to visitors of Jonaren Technology website
           </p>
           <p style={{ fontSize: "17px", color: "#333", marginTop: "10px" }}>
             Privacy Policy: https://www.linkedin.com/legal/privacy-policy
@@ -303,7 +303,7 @@ const page = () => {
             https://www.linkedin.com/help/linkedin/answer/62931/manage-advertising-preferences
           </p>
           <p style={{ fontSize: "17px", color: "#333", marginTop: "10px" }}>
-            <b>ACL Digital :</b> To share content from ACL Digital website on
+            <b>Jonaren Technology :</b> To share content from Jonaren Technology website on
             social media
           </p>
           <p style={{ fontSize: "17px", color: "#333", marginTop: "10px" }}>

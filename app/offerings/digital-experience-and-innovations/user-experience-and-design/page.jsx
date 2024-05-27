@@ -19,47 +19,26 @@ const page = () => {
         heading="Bring Ideas to Life with Premier Human-Centric Designs."
         height="560px"
       />
-      <div
-        style={{
-          padding: "1rem 0",
-          boxShadow: "0px 3px 6px #00000029",
-          background: "#fff",
-          position: "sticky",
-          top: "0px",
-        }}
-      >
-        <div className="wrapper">
+        <div className="wrapper page-heading">
           <h2
-            style={{
-              fontSize: "23px",
-              color: "#333",
-              fontWeight: "600",
-              letterSpacing: "0.5px",
-            }}
           >
             User Experience & Design
           </h2>
         </div>
-      </div>
-      <div style={{ marginBlock: "2rem" }}>
+      <div className="wrapper about-container wrapper-block">
         <div
-          style={{
-            display: "flex",
-            alignItems: "center",
-            gap: "2.5rem",
-          }}
-          className="wrapper"
+          className="about-container"
         >
-          <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
+          <div className="about-content-container">
             <p>
-              ACL Digital partners with industries, from start-ups to Fortune
+              Jonaren Technology partners with industries, from start-ups to Fortune
               500s, to prioritize customer experience and accelerate
               organizational transformation.
             </p>
             <p>
               User Experience Design is pivotal for superior Customer and
               Employee Experience (CX & EX), capturing key aspects of brand
-              usability, desirability, and functionality. At ACL Digital, our
+              usability, desirability, and functionality. At Jonaren Technology, our
               design process integrates these elements, focusing on overall
               product usability. We place the user persona—both business and
               consumer—at the core, ensuring functionality and an exceptional
@@ -68,36 +47,26 @@ const page = () => {
             </p>
           </div>
           <div
-            style={{
-              flexBasis: "100%",
-              display: "flex",
-              justifyContent: "center",
-              alignItems: "center",
-            }}
+            className="about-image-container"
           >
-            <Image src={graphics22} style={{ width: "80%" }} />
+            <Image src={graphics22} />
           </div>
         </div>
       </div>
-      <div style={{ marginBlock: "3rem" }}>
-        <div className="wrapper">
+      <div className="wrapper wrapper-block">
           <h1
-            style={{
-              fontSize: "32px",
-              fontWeight: "600",
-              marginBottom: "0.2rem",
-            }}
+            className="offerings-heading"
           >
             Offerings
           </h1>
-          <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
+          <h4 className="offerings-content">
             Jonaren Technology’s enterprise-grade Digital Experience platforms
             help enterprises achieve holistic digital transformations. The
             companies demand innovative and customized solutions with intuitive
             and meaningful digital experiences and a seamless end-to-end
             customer journey. Our range of Digital Experience & Innovation
             offerings include:
-          </p>
+          </h4>
           <div className="offering-container">
             {userOfferings.map(({ image, title, paragraph }) => (
               <div>
@@ -105,12 +74,11 @@ const page = () => {
               </div>
             ))}
           </div>
-        </div>
       </div>
       <Banner
         image={careerBanner4}
         heading="Experience 360"
-        description="ACL Digital’s Total Experience Strategy and innovative process deliver a comprehensive 360° experience, enhancing customer, user, employee, and multi-experience interactions. Let us help you bring every aspect of your experience strategy to the forefront."
+        description="Jonaren Technology’s Total Experience Strategy and innovative process deliver a comprehensive 360° experience, enhancing customer, user, employee, and multi-experience interactions. Let us help you bring every aspect of your experience strategy to the forefront."
         haveButton={true}
         buttonText="TALK TO OUR CONSULTANT"
         height="420px"
@@ -122,29 +90,19 @@ const page = () => {
         {blog.map(({ category, heading, background }) => (
           <div
             style={{
-              height: "348px",
               background: background,
               backgroundSize: "cover",
               backgroundPosition: "center",
-              padding: "1rem 1.5rem",
-              color: "#fff",
-              display: "flex",
-              flexDirection: "column",
-              justifyContent: "space-between",
             }}
+            className="blog-item-container"
           >
             <div>
-              <h4 style={{ fontSize: "14px" }}>{category}</h4>
-              <h2
-                style={{
-                  fontSize: "20px",
-                  fontWeight: "600",
-                  marginTop: "20px",
-                  width: "65%",
-                }}
+              <h4 className="blog-item-category">{category}</h4>
+              <h3
+                className="blog-item-heading"
               >
                 {heading}
-              </h2>
+              </h3>
             </div>
             <button style={{ width: "max-content" }}>
               <p style={{ fontWeight: "600", fontSize: "16px" }}>READ MORE</p>

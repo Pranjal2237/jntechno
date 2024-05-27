@@ -28,21 +28,21 @@ const page = () => {
             Why Jonaren Technology?
           </h1>
           <div className={styles.about}>
-            <div style={{ color: "#333", fontSize: "16px" }}>
-              <p>
+            <div>
+              <h5>
                 Jonaren Technology believes in the knowledge, dedication, and
                 innovative spirit our team. We are in a pursuit to provide a
                 platform for our people to grow and excel. Our team members are
                 the torchbearers of the company’s determination to redefine the
                 boundaries of technology and make a difference to the people and
                 the world around us.
-              </p>
-              <p>
+              </h5>
+              <h5>
                 Are you an IT whiz with a thirst for challenge? Look no further!
                 Jonaren Technology is constantly seeking passionate individuals to join
                 our team. We offer more than just a career; we offer the chance
                 to push your skills and make a real difference.
-              </p>
+              </h5>
             </div>
             <Image src={homeBanner9} />
             <Image src={homeBanner9} />
@@ -54,13 +54,12 @@ const page = () => {
       <div style={{ padding: "1rem 0" }}>
         <div
           style={{
-            width: "1100px",
-            marginInline: "auto",
             display: "grid",
             gridTemplateColumns: "repeat(3,1fr)",
             gap: "0.3rem",
             rowGap: "0.3rem",
           }}
+          className="wrapper"
         >
           <div
             style={{
@@ -81,7 +80,7 @@ const page = () => {
               Who we are
             </h1>
             <h2 style={{ fontSize: "20px", fontWeight: "600" }}>
-              Jonaren Technology + ALTEN{" "}
+              Jonaren Technology
             </h2>
             <p style={{ fontWeight: "16px", marginTop: "10px" }}>
               Digital Product Innovation and Engineering Leader helping clients

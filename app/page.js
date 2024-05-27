@@ -14,7 +14,7 @@ import { abiBanner } from "@/public";
 import "../styles/global.css";
 import Image from "next/image";
 
-const Home = () => {
+const Home = () => {     
   return (
     <div>
       <Carousel autoplay={true} BannerCarousel={HomBannerCarousel} />

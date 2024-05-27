@@ -12,39 +12,18 @@ const page = () => {
         heading="Driving Superior Digital Transformation: Platform Engineering Excellence"
         height="560px"
       />
-      <div
-        style={{
-          padding: "1rem 0",
-          boxShadow: "0px 3px 6px #00000029",
-          background: "#fff",
-          position: "sticky",
-          top: "0px",
-        }}
-      >
-        <div className="wrapper">
-          <h2
-            style={{
-              fontSize: "28px",
-              color: "#333",
-              fontWeight: "600",
-              letterSpacing: "0.5px",
-            }}
+        <div className="wrapper page-heading">
+          <p
           >
-            Connected Enterprise
-          </h2>
+            Platform Engineering
+          </p>
         </div>
-      </div>
-      <div style={{ marginBlock: "2rem" }}>
+      <div className="wrapper about-container wrapper-block">
         <div
-          style={{
-            display: "flex",
-            alignItems: "center",
-            gap: "2.5rem",
-          }}
-          className="wrapper"
+          className="about-container"
         >
-          <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
-            <p>
+          <div className="about-content-container">
+            <h5>
               In today's dynamic market, businesses must invest in
               cloud-enabled, cutting-edge technology platforms to enhance
               engagement with stakeholders. As the platform industry reshapes
@@ -53,42 +32,32 @@ const page = () => {
               science, and cloud technology, adhering to rigorous security
               standards. They facilitate accelerated time to market and
               future-proofing, ensuring adaptability to evolving company needs.
-            </p>
-            <p>
-              ACL Digital provides comprehensive platform engineering services
+            </h5>
+            <h5>
+              Jonaren Technology provides comprehensive platform engineering services
               throughout your organization's transformation journey. From
               planning and development to migration, deployment, and ongoing
               support, we ensure high-performance, scalable, and secure
               platforms. Leveraging AI and ML, we harness data to drive
               substantial growth for your business enterprise. Trust us to
               manage and maintain your platform effectively.
-            </p>
+            </h5>
           </div>
           <div
-            style={{
-              flexBasis: "100%",
-              display: "flex",
-              justifyContent: "center",
-              alignItems: "center",
-            }}
+            className="about-image-container"
           >
-            <Image src={graphics34} style={{ width: "80%" }} />
+            <Image src={graphics34} />
           </div>
         </div>
       </div>
-      <div style={{ marginBlock: "3rem" }}>
-        <div className="wrapper">
+        <div className="wrapper wrapper-block">
           <h1
-            style={{
-              fontSize: "32px",
-              fontWeight: "600",
-              marginBottom: "0.2rem",
-            }}
+            className="offerings-heading"
           >
             Our connected enterprise offerings
           </h1>
-          <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
-            ACL Digital’s enterprise-grade Digital Experience platforms help
+          <p className="offerings-content">
+            Jonaren Technology’s enterprise-grade Digital Experience platforms help
             enterprises achieve holistic digital transformations. The companies
             demand innovative and customized solutions with intuitive and
             meaningful digital experiences and a seamless end-to-end customer
@@ -103,7 +72,6 @@ const page = () => {
             ))}
           </div>
         </div>
-      </div>
       <div
         className="child"
         style={{ display: "grid", gridTemplateColumns: "repeat(4,1fr)" }}
@@ -111,29 +79,19 @@ const page = () => {
         {blog.map(({ category, heading, background }) => (
           <div
             style={{
-              height: "348px",
               background: background,
               backgroundSize: "cover",
               backgroundPosition: "center",
-              padding: "1rem 1.5rem",
-              color: "#fff",
-              display: "flex",
-              flexDirection: "column",
-              justifyContent: "space-between",
             }}
+            className="blog-item-container"
           >
             <div>
-              <h4 style={{ fontSize: "14px" }}>{category}</h4>
-              <h2
-                style={{
-                  fontSize: "20px",
-                  fontWeight: "600",
-                  marginTop: "20px",
-                  width: "65%",
-                }}
+              <h4 className="blog-item-category">{category}</h4>
+              <h3
+                className="blog-item-heading"
               >
                 {heading}
-              </h2>
+              </h3>
             </div>
             <button style={{ width: "max-content" }}>
               <p style={{ fontWeight: "600", fontSize: "16px" }}>READ MORE</p>

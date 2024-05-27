@@ -9,38 +9,18 @@ const page = () => {
   return (
     <div>
       <Banner image={esBanner} heading="Connected Enterprises – Radically Reforming Companies and Competition" height="560px" />
-      <div
-        style={{
-          padding: "1rem 0",
-          boxShadow: "0px 3px 6px #00000029",
-          background: "#fff",
-          position: "sticky",
-          top:'0px'
-        }}
-      >
-        <div className="wrapper">
-          <h2
-            style={{
-              fontSize: "23px",
-              color: "#333",
-              fontWeight: "var(--fw-bold)",
-            }}
+        <div className="wrapper page-heading">
+          <p
           >
-           Connected Enterprise
-          </h2>
+           Embedded and Semiconductor
+          </p>
         </div>
-      </div>
-      <div style={{ marginBlock: "2rem" }}>
+      <div className="wrapper about-container wrapper-block">
         <div
-          style={{
-            display: "flex",
-            alignItems: "center",
-            gap: "2.5rem",
-          }}
-          className="wrapper"
+          className="about-container"
         >
-          <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
-            <p>
+          <div className="about-content-container">
+            <h5>
               Digital Experiences today define customers' engagement across
               various channels with an organization's products, services, or
               brand in both B2B and B2C industries. The customer is at the
@@ -48,8 +28,8 @@ const page = () => {
               are driving purchase, adoption, and consumption, consequently
               impacting business decisions. Hence, it is not enough for
               organizations to just focus on creating products and services.
-            </p>
-            <p>
+            </h5>
+            <h5>
               Businesses must capture customer needs, behaviors in real-time to
               define and deliver great experiences across all touchpoints, and
               transform internally with digital applications to help, reach, and
@@ -57,32 +37,22 @@ const page = () => {
               target and communicate the right messages through the right
               channels to the intended audience segments and create brand
               recognition, customer interests, leads, faster sales and loyalty.
-            </p>
+            </h5>
           </div>
           <div
-            style={{
-              flexBasis: "100%",
-              display: "flex",
-              justifyContent: "center",
-              alignItems: "center",
-            }}
+            className="about-image-container"
           >
-            <Image src={graphics55} style={{ width: "80%" }} />
+            <Image src={graphics55} />
           </div>
         </div>
       </div>
-      <div style={{ marginBlock: "3rem" }}>
-        <div className="wrapper">
+        <div className="wrapper wrapper-block">
           <h1
-            style={{
-              fontSize: "32px",
-              fontWeight: "600",
-              marginBottom: "0.2rem",
-            }}
+            className="offerings-heading"
           >
             Our connected enterprise offerings
           </h1>
-          <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
+          <p className="offerings-content">
             Jonaren Technology’s enterprise-grade Digital Experience platforms help
             enterprises achieve holistic digital transformations. The companies
             demand innovative and customized solutions with intuitive and
@@ -98,7 +68,6 @@ const page = () => {
             ))}
           </div>
         </div>
-      </div>
       <div
         className="child"
         style={{ display: "grid", gridTemplateColumns: "repeat(4,1fr)" }}
@@ -106,29 +75,19 @@ const page = () => {
         {blog.map(({ category, heading, background }) => (
           <div
             style={{
-              height: "348px",
               background: background,
               backgroundSize: "cover",
               backgroundPosition: "center",
-              padding: "1rem 1.5rem",
-              color: "#fff",
-              display: "flex",
-              flexDirection: "column",
-              justifyContent: "space-between",
             }}
+            className="blog-item-container"
           >
             <div>
-              <h4 style={{ fontSize: "14px" }}>{category}</h4>
-              <h2
-                style={{
-                  fontSize: "20px",
-                  fontWeight: "600",
-                  marginTop: "20px",
-                  width: "65%",
-                }}
+              <h4 className="blog-item-category">{category}</h4>
+              <h3
+                className="blog-item-heading"
               >
                 {heading}
-              </h2>
+              </h3>
             </div>
             <button style={{ width: "max-content" }}>
               <p style={{ fontWeight: "600", fontSize: "16px" }}>READ MORE</p>

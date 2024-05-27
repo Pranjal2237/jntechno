@@ -17,80 +17,49 @@ const page = () => {
         heading="Empowering Enterprise Evolution: Automation at the Forefront of Digital Transformation"
         height="560px"
       />
-      <div
-        style={{
-          padding: "1rem 0",
-          boxShadow: "0px 3px 6px #00000029",
-          background: "#fff",
-          position: "sticky",
-          top: "0px",
-        }}
-      >
-        <div className="wrapper">
-          <h2
-            style={{
-              fontSize: "28px",
-              color: "#333",
-              fontWeight: "600",
-              letterSpacing: "0.5px",
-            }}
+        <div className="wrapper page-heading">
+          <p
           >
             Enterprise Automation
-          </h2>
+          </p>
         </div>
-      </div>
-      <div style={{ marginBlock: "2rem" }}>
+      <div className="wrapper about-container wrapper-block">
         <div
-          style={{
-            display: "flex",
-            alignItems: "center",
-            gap: "2.5rem",
-          }}
-          className="wrapper"
+          className="about-container"
         >
-          <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
-            <p>
+          <div className="about-content-container">
+            <h5>
               As your business expands, so does the workload. Automating
               repetitive tasks boosts productivity, efficiency, accuracy, and
               accountability, while reducing approval cycle times. Let us
-              streamline your operations, allowing you to focus on what truly
+              streamline your operations, allowing you to focus on what truly 
               matters for your business's success.
-            </p>
-            <p>
+            </h5>
+            <h5>
               Automated technology solutions have revolutionized industries and
-              everyday routines. At ACL Digital, we integrate artificial
+              everyday routines. At Jonaren Technology, we integrate artificial
               intelligence (AI) and machine learning (ML) into business
               operations for decision-making, workflow optimization, and
               analysis. From streamlining workforce operations to redefining
               business models, intelligent enterprise automation powered by AI
               and ML is essential for success, offering efficiency and agility
               without compromising on reliability.
-            </p>
+            </h5>
           </div>
           <div
-            style={{
-              flexBasis: "100%",
-              display: "flex",
-              justifyContent: "center",
-              alignItems: "center",
-            }}
+            className="about-image-container"
           >
-            <Image src={graphics18} style={{ width: "80%" }} />
+            <Image src={graphics18} />
           </div>
         </div>
       </div>
-      <div style={{ marginBlock: "3rem" }}>
-        <div className="wrapper">
+        <div className="wrapper wrapper-block">
           <h1
-            style={{
-              fontSize: "32px",
-              fontWeight: "600",
-              marginBottom: "0.2rem",
-            }}
+            className="offerings-heading"
           >
             Our connected enterprise offerings
           </h1>
-          <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
+          <p className="offerings-content">
             Jonaren Technology’s enterprise-grade Digital Experience platforms
             help enterprises achieve holistic digital transformations. The
             companies demand innovative and customized solutions with intuitive
@@ -106,7 +75,6 @@ const page = () => {
             ))}
           </div>
         </div>
-      </div>
       <div
         className="child"
         style={{ display: "grid", gridTemplateColumns: "repeat(4,1fr)" }}
@@ -114,29 +82,19 @@ const page = () => {
         {blog.map(({ category, heading, background }) => (
           <div
             style={{
-              height: "348px",
               background: background,
               backgroundSize: "cover",
               backgroundPosition: "center",
-              padding: "1rem 1.5rem",
-              color: "#fff",
-              display: "flex",
-              flexDirection: "column",
-              justifyContent: "space-between",
             }}
+            className="blog-item-container"
           >
             <div>
-              <h4 style={{ fontSize: "14px" }}>{category}</h4>
-              <h2
-                style={{
-                  fontSize: "20px",
-                  fontWeight: "600",
-                  marginTop: "20px",
-                  width: "65%",
-                }}
+              <h4 className="blog-item-category">{category}</h4>
+              <h3
+                className="blog-item-heading"
               >
                 {heading}
-              </h2>
+              </h3>
             </div>
             <button style={{ width: "max-content" }}>
               <p style={{ fontWeight: "600", fontSize: "16px" }}>READ MORE</p>

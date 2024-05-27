@@ -305,7 +305,7 @@ const page = () => {
                   color: "#000000",
                 }}
               >
-                Enhanced Security System
+                  Enhanced Security System
               </h2>
               <p style={{ fontSize: "18px", marginTop: "12px" }}>
                 Role-based access, password-protected downloads, and control

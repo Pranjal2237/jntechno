@@ -12,52 +12,31 @@ const page = () => {
         heading="Revitalize Your Product for Enhanced Customer Experience and Engagement"
         height="560px"
       />
-      <div
-        style={{
-          padding: "1rem 0",
-          boxShadow: "0px 3px 6px #00000029",
-          background: "#fff",
-          position: "sticky",
-          top: "0px",
-        }}
-      >
-        <div className="wrapper">
-          <h2
-            style={{
-              fontSize: "28px",
-              color: "#333",
-              fontWeight: "600",
-              letterSpacing: "0.5px",
-            }}
+        <div className="wrapper page-heading">
+          <p
           >
             Product Sustenance & Support
-          </h2>
+          </p>
         </div>
-      </div>
-      <div style={{ marginBlock: "2rem" }}>
+      <div className="wrapper about-container wrapper-block">
         <div
-          style={{
-            display: "flex",
-            alignItems: "center",
-            gap: "2.5rem",
-          }}
-          className="wrapper"
+          className="about-container"
         >
-          <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
-            <p>
+          <div className="about-content-container">
+            <h5>
               Amidst evolving technologies, product companies face challenges in
               sustaining product relevance and market position. Adapting to
               changing customer needs and employing modern engineering
               techniques is vital for ensuring the continued functionality and
               performance of software products.
-            </p>
-            <p>
+            </h5>
+            <h5>
               Product sustenance and support services are essential for
               preserving mature product lines, encompassing monitoring,
               analytics, maintenance, and updates. These efforts ensure the
               continued functionality and effectiveness of product features,
               maintaining customer satisfaction and market competitiveness.
-            </p>
+            </h5>
           </div>
           <div
             style={{
@@ -83,7 +62,7 @@ const page = () => {
             Our connected enterprise offerings
           </h1>
           <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
-            ACL Digital’s enterprise-grade Digital Experience platforms help
+            Jonaren Technology’s enterprise-grade Digital Experience platforms help
             enterprises achieve holistic digital transformations. The companies
             demand innovative and customized solutions with intuitive and
             meaningful digital experiences and a seamless end-to-end customer

@@ -129,7 +129,7 @@ const page = () => {
             latency, high throughput, and low jitter. It addresses the need to
             improve facility design and safety in hospital patient rooms, large
             data rooms and warehouses. It is a low cost, highly scalable and
-            reliable software solution for various emerging uses across several
+            reliable software solution for various emerging uses across several 
             industry segments.
           </p>
         </div>

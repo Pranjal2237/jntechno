@@ -1,5 +1,5 @@
 import {
-  ACL,
+  Jonaren,
   HomeBanner6,
   assurance,
   automation,
@@ -76,6 +76,7 @@ import {
   offerings26,
   qinsightBenifits1,
   offerings15,
+  ACL,
 } from "@/public";
 
 export const HomBannerCarousel = [
@@ -167,7 +168,7 @@ export const digitalBannerCarousel = [
 export const innovation = [
   {
     image: ACL,
-    heading: "ACL Learn",
+    heading: "Jonaren Learn",
     description: "Learning Experience Platform",
   },
   {
@@ -264,7 +265,7 @@ export const transformation = [
   {
     heading: "Digital Solutions & Engineering",
     points: [
-      "Oracle CX",
+      "OrJonarene CX",
       "SAP",
       "Order Management",
       "CRM Platforms",
@@ -329,7 +330,7 @@ export const blog = [
     heading:
       "Impact of CyberSecurity in shaping the Heathcare EcoSystem in 2024",
     background:
-      "url(https://www.acldigital.com/sites/default/files/2024-01/Cybersecurity-in-Healthcare-2024-Thumbnail.jpg) no-repeat",
+      "url(https://www.ACLdigital.com/sites/default/files/2024-01/Cybersecurity-in-Healthcare-2024-Thumbnail.jpg) no-repeat",
   },
   {
     category: "Brochure",
@@ -356,7 +357,7 @@ export const blog = [
     category: "Blog",
     heading: "Data-Driven Healthcare solutions:Benefits,Challenges and Storage",
     background:
-      "url(https://www.acldigital.com/sites/default/files/2024-02/Data-Driven-Healthcare-Solutions-Benefits%2C-Challenges-and-Storage-Thumbnail_0.jpg) no-repeat",
+      "url(https://www.ACLdigital.com/sites/default/files/2024-02/Data-Driven-Healthcare-Solutions-Benefits%2C-Challenges-and-Storage-Thumbnail_0.jpg) no-repeat",
   },
 ];
 
@@ -437,7 +438,7 @@ export const footer = [
       },
       {
         headingLink: "",
-        heading: "ACL Learn",
+        heading: "Jonaren Learn",
       },
     ],
   },
@@ -697,8 +698,8 @@ export const navigation = [
         headingLink: "enterprise-applications",
         options: [
           {
-            option: "Oracle",
-            optionLink: "oracle",
+            option: "OrJonarene",
+            optionLink: "orJonarene",
           },
           {
             option: "Microsoft",
@@ -906,7 +907,7 @@ export const contact = [
       secondary: "San Jose, CA - 95134",
     },
     phone: "+1 (408) 755 3000",
-    email: "business@acldigital.com",
+    email: "business@Jonarendigital.com",
   },
   {
     country: "USA - Dallas, TX",
@@ -916,7 +917,7 @@ export const contact = [
       secondary: "TX - 75244",
     },
     phone: "+1 214 699 9850",
-    email: "business@acldigital.com",
+    email: "business@Jonarendigital.com",
   },
   {
     country: "USA - Philadelphia",
@@ -926,7 +927,7 @@ export const contact = [
       secondary: "King of Prussia, PA -19406",
     },
     phone: "+1 (610) 337 1935",
-    email: "business@acldigital.com",
+    email: "business@Jonarendigital.com",
   },
   {
     country: "USA - Atlanta",
@@ -936,7 +937,7 @@ export const contact = [
       secondary: "Alpharetta GA  - 30005",
     },
     phone: "+1 (408) 755 3000",
-    email: "business@acldigital.com",
+    email: "business@Jonarendigital.com",
   },
   {
     country: "USA - Seattle",
@@ -946,7 +947,7 @@ export const contact = [
       secondary: "Redmond, WA - 98052",
     },
     phone: " +1 (408) 755 3000",
-    email: "business@acldigital.com",
+    email: "business@Jonarendigital.com",
   },
 ];
 
@@ -1203,7 +1204,7 @@ export const enterpriseAutOfferings=[
   {
     image:offerings27,
     title:"Automation Solutions",
-    paragraph:"Jonaren Technology’s robotic automation services cut costs and mitigate obstacles. Recognizing automation's significance in digital transformation, we leverage advanced RPA tools to automate diverse data processes, ensuring seamless progress."
+    paragraph:"Jonaren Technology’s robotic automation services cut costs and mitigate obstJonarenes. Recognizing automation's significance in digital transformation, we leverage advanced RPA tools to automate diverse data processes, ensuring seamless progress."
   },
   {
     image:offerings26,
@@ -1743,7 +1744,7 @@ export const careerEnvironmentArr = [
     image: offerings12,
     title: "Staff Perks",
     paragraph:
-      "As you flourish, so do we. ACL's benefits exceed expectations, prioritizing your physical, emotional, financial, and social wellness. We're dedicated to crafting an inviting, enriching, and caring workplace. With perks like remote work, flexible hours, rewards, and career advancement, we foster a lasting, empathetic bond with our team. Join us!",
+      "As you flourish, so do we. Jonaren's benefits exceed expectations, prioritizing your physical, emotional, financial, and social wellness. We're dedicated to crafting an inviting, enriching, and caring workplace. With perks like remote work, flexible hours, rewards, and career advancement, we foster a lasting, empathetic bond with our team. Join us!",
   },
   {
     image: offerings13,
@@ -1872,7 +1873,7 @@ export const trevelOfferings = [
   },
   {
     image: offerings31,
-    title: "Oracle CX",
+    title: "OrJonarene CX",
     paragraph:
       "Craft the future of passenger CRM with our innovative solutions, tailored to elevate customer experiences and satisfaction.",
   },
@@ -1916,7 +1917,7 @@ export const healthSegments = [
     image: offerings25,
     title: "Health Alliance Solutions",
     paragraph:
-      "Rooted in a consumer-centric approach, Jonaren Technology offers value-driven care solutions for payers and providers. Our pioneering services enable seamless, top-tier care delivery while enhancing financial viability. Engage with our tech and specialists to explore tailored solutions that surmount obstacles and realize your objectives with precision.",
+      "Rooted in a consumer-centric approach, Jonaren Technology offers value-driven care solutions for payers and providers. Our pioneering services enable seamless, top-tier care delivery while enhancing financial viability. Engage with our tech and specialists to explore tailored solutions that surmount obstJonarenes and realize your objectives with precision.",
   },
   {
     image: offerings27,
@@ -1931,7 +1932,7 @@ export const healthOfferings = [
     image: offerings1,
     title: "Digital Access Gateway",
     paragraph:
-      "ACL's Digital Gateway is a robust, flexible platform facilitating seamless patient engagement across channels. With an omnichannel approach, it ensures unified, intuitive interactions, empowering organizations to enhance patient experiences securely and at scale.",
+      "Jonaren Technology's Gateway is a robust, flexible platform facilitating seamless patient engagement across channels. With an omnichannel approach, it ensures unified, intuitive interactions, empowering organizations to enhance patient experiences securely and at scale.",
   },
   {
     image: offerings2,

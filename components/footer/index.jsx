@@ -38,7 +38,7 @@ const Footer = () => {
           }
         </div>
         <h2>
-        business@acldigital.com
+        info@jntechno.com
         </h2>
         <h2>1234567890</h2>
     </div>
@@ -46,7 +46,7 @@ const Footer = () => {
     <div className={styles.policies}>
       <div className='wrapper'>
         <div>
-        <p>© 2024 ACL Digital. All Rights Reserved.</p>
+        <p>© 2024 Jonaren Technology. All Rights Reserved.</p>
         </div>
         <div style={{display:'flex'}}>
         <Link href='/terms-of-use' >Terms of Use</Link>

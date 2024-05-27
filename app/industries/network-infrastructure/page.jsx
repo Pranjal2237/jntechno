@@ -49,14 +49,14 @@ const page = () => {
               As the IT landscape evolves, network infrastructure undergoes
               significant transformation to meet shifting demands. Network
               Equipment Manufacturers (NEM) and Original Equipment Manufacturers
-              (OEM) adapt their portfolios to embrace digital disruptions. ACL
-              Digital's infrastructure services empower NEMs and OEMs to
+              (OEM) adapt their portfolios to embrace digital disruptions. Jonaren Technology's 
+              infrastructure services empower NEMs and OEMs to
               transition legacy infrastructure into agile, IP-based services,
               boosting market competitiveness. Leveraging market-proven solution
               accelerators and frameworks, we expedite time-to-market and enrich
               product features swiftly, enhancing scalability, performance, and
-              revenue potential. Stay ahead in the digital age with ACL
-              Digital's innovative solutions for network evolution.
+              revenue potential. Stay ahead in the digital age with Jonaren Technology's 
+              innovative solutions for network evolution.
             </p>
             <p>
               Harnessing industry-leading open-source tools, we adopt a
