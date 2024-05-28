@@ -10,7 +10,8 @@ const Banner = ({
   haveButton = false,
   buttonText,
   height = "auto",
-  justify="flex-start"
+  justify="flex-start",
+  link="#enquiry"
 }) => {
   return (
     <div style={{position: "relative" }}>
@@ -59,7 +60,7 @@ const Banner = ({
                 fontSize: "18px",
               }}
             >
-              <Link href='#enquiry'>{buttonText}</Link>
+              <Link href={link}>{buttonText}</Link>
             </button>
           )}
         </div>

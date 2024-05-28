@@ -40,7 +40,7 @@ const Footer = () => {
         <h2>
         info@jntechno.com
         </h2>
-        <h2>1234567890</h2>
+        <h2>+91 120 423 8139</h2>
     </div>
     </div>
     <div className={styles.policies}>

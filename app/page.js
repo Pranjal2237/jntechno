@@ -75,6 +75,7 @@ const Home = () => {
         buttonText="READ MORE"
         haveButton={true}
         height="420px"
+        link="/industries/tmt"
       />
       <div style={{ background: "#545454", padding: "3.5rem 0" }}>
         <div className="wrapper">

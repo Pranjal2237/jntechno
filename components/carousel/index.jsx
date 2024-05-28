@@ -59,10 +59,10 @@ const Carousel = ({autoplay=false,BannerCarousel}) => {
   return (
     <div >
       <Slider {...settings}>
-        {BannerCarousel?.map(({image,heading,description})=>{
+        {BannerCarousel?.map(({image,heading,description,link,haveButton=false,buttonText=""})=>{
             return(
             <>
-            <Banner image={image} heading={heading} height='560px' description={description} haveButton={true} buttonText='LEARN MORE' />
+            <Banner image={image} heading={heading} link={link} height='560px' description={description} haveButton={haveButton} buttonText={buttonText} />
             </>
             )
         })}

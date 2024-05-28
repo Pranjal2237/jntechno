@@ -18,10 +18,10 @@ const page = () => {
         height="560px"
       />
         <div className="wrapper page-heading">
-          <h2
+          <p
           >
             Enterprise Modernization
-          </h2>
+          </p>
         </div>
       <div className="wrapper about-container wrapper-block">
         <div

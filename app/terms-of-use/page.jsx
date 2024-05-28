@@ -217,7 +217,7 @@ const page = () => {
           </h2>
           <p style={{ color: "#333", fontSize: "17px", marginBottom: "2rem" }}>
             In case of any queries relating to the use of the Website or any
-            issues thereto, please write to us at <b>business@acldigital.com</b>
+            issues thereto, please write to us at <b>info@jntechno.com</b>
           </p>
         </div>
       </div>

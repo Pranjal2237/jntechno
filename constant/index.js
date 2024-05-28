@@ -81,48 +81,72 @@ import {
 
 export const HomBannerCarousel = [
   {
+    haveButton:true,
+    buttonText:"LEARN MORE",
+    link:"/about",
     image: homeBanner1,
     heading: "Jonaren Technology: Your Innovation Partner",
     description:
       "Your reliable partner for global digital engineering and transformation, empowering enterprises to thrive in the digital age.",
   },
   {
+    haveButton:true,
+    buttonText:"LEARN MORE",
+    link:"",
     image: homeBanner2,
     heading:
       "Jonaren Technology earns Great Place to Work® certification for second consecutive year.",
     description: "",
   },
   {
+    haveButton:true,
+    buttonText:"LEARN MORE",
+    link:"",
     image: homeBanner3,
     heading: "AWS Partner Tier Attainment",
     description:
       "Jonaren Technology rises to AWS Advanced Tier Partner Status within the Amazon Web Services Partner Network.",
   },
   {
+    haveButton:true,
+    buttonText:"LEARN MORE",
+    link:"/offerings/product-engineering",
     image: homeBanner4,
     heading: "Product Engineering Services for Connectivity",
     description:
       "Harness our engineering prowess to craft groundbreaking solutions tailored to your business needs.",
   },
   {
+    haveButton:true,
+    buttonText:"LEARN MORE",
+    link:"",
     image: homeBanner5,
     heading:
       "Webinar: Secureline - Boosting DevSecOps Security with Empowerment",
     description: "April 25th, 2024 - 8:30 am PST / 9:00 pm IST",
   },
   {
+    haveButton:true,
+    buttonText:"LEARN MORE",
+    link:"",
     image: HomeBanner6,
     heading:
       "Webinar: Exploring Generative AI - Advancing Enterprise AI Beyond LLMs to New Frontiers.",
     description: "April 18th, 2024 - 8:30 am PST",
   },
   {
+    haveButton:true,
+    buttonText:"LEARN MORE",
+    link:"/offerings/product-engineering/cybersecurity-assurance",
     image: homeBanner7,
     heading:
       "Discover a Revolutionary Transformation in Cybersecurity Assurance and Testing, Elevating Your Protection to New Heights.",
     description: "",
   },
   {
+    haveButton:true,
+    buttonText:"LEARN MORE",
+    link:"",
     image: homeBanner8,
     heading:
       "Sustaining Code Health: Securing Code Quality in Test Automation Efforts.",

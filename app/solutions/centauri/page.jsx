@@ -1,7 +1,6 @@
 import Banner from "@/components/banner";
 import { blog, homeBridgeOfferings } from "@/constant";
-import {
-  digital,
+import { 
   graphics13,
   homeBanner9,
   qinsightBenifits1,
@@ -18,40 +17,18 @@ const page = () => {
         heading="IoT Gateway Platform for Industrial and Enterprise Applications"
         height="560px"
       />
-      <div
-        style={{
-          padding: "1rem 0",
-          boxShadow: "0px 3px 6px #00000029",
-          background: "#fff",
-          position: "sticky",
-          top: "0px",
-        }}
-      >
-        <div style={{ width: "1100px", marginInline: "auto" }}>
-          <h2
-            style={{
-              fontSize: "28px",
-              color: "#333",
-              fontWeight: "600",
-              letterSpacing: "0.5px",
-            }}
+        <div className="wrapper page-heading">
+          <p
           >
             CENTAURI 200
-          </h2>
+          </p>
         </div>
-      </div>
-      <div style={{ marginBlock: "2rem" }}>
+      <div className="wrapper about-container wrapper-block">
         <div
-          style={{
-            width: "1100px",
-            marginInline: "auto",
-            display: "flex",
-            alignItems: "center",
-            gap: "2.5rem",
-          }}
+          className="about-container"
         >
-          <div style={{ flexBasis: "100%", color: "#333", fontSize: "16px" }}>
-            <p>
+          <div className="about-content-container">
+            <h5>
               Jonaren Technology CENTAURI 200 IoT Gateway platform is exclusively
               designed to suit all the requirements of the enterprise/industrial
               IoT Gateway Solution. Gateway is developed on power-efficient,
@@ -59,8 +36,8 @@ const page = () => {
               SoC. This facilitates a greater amount of flexibility in
               delivering various RF connectivity and peripherals to make a
               customized solution according to the end-user requirements.
-            </p>
-            <p>
+            </h5>
+            <h5>
               Jonaren Technology also offers a CENTAURI Software Framework for all OEMs
               to rapidly develop applications. CENTAURI Gateway platform is
               pre-integrated with well-known cloud & application platform
@@ -71,20 +48,15 @@ const page = () => {
               OEM offerings to reduce time to market so that you can focus more
               on creating value in end-user applications. CENTAURI 200 is AWS
               Greengrass certified and listed on the AWS device catalog.
-            </p>
+            </h5>
           </div>
           <div
-            style={{
-              flexBasis: "100%",
-              display: "flex",
-              justifyContent: "center",
-              alignItems: "center",
-            }}
+            className="about-image-container"
           >
-            <Image src={graphics13} style={{ width: "60%" }} />
+            <Image src={graphics13} />
+          </div>
           </div>
         </div>
-      </div>
       <div style={{ paddingBlock: "3rem", color: "#333" }}>
         <div style={{ width: "1100px", marginInline: "auto" }}>
           <h1 style={{ fontSize: "32px", fontWeight: "600" }}>
