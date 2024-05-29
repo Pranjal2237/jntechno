@@ -36,7 +36,7 @@ const page = () => {
               mobile core network re-architecture, end-to-end orchestration,
               edge cloud deployment, and more. Our profound domain expertise and
               keen insights into 5G technology trends enable us to deliver
-              distinguished offerings tailored to the networks of the future.
+              distinguished offerings tailored to the networks of the future. 
             </h5>
           </div>
           <div

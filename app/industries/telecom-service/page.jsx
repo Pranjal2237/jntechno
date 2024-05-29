@@ -58,7 +58,7 @@ const page = () => {
               transitioning to next-gen networks. From 5G to AI, our expertise
               in Edge Computing, IoT, and more drives efficiency, reducing
               time-to-market and costs. Join us in shaping the future of telecom
-              with agile solutions!
+              with agile solutions! 
             </p>
           </div>
           <div

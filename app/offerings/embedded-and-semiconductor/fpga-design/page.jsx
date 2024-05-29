@@ -21,7 +21,7 @@ const page = () => {
         >
           <div className="about-content-container">
             <h5>
-              Digital Experiences today define customers' engagement across
+              Digital Experiences today define customers' engagement across 
               various channels with an organization's products, services, or
               brand in both B2B and B2C industries. The customer is at the
               center of these experiences, and personas and customer journeys

@@ -90,7 +90,7 @@ const page = () => {
               </h3>
             </div>
             <button style={{ width: "max-content" }}>
-              <p style={{ fontWeight: "600", fontSize: "16px" }}>READ MORE</p>
+              <p style={{ fontWeight: "600", fontSize: "16px" }}>READ MOR</p>
             </button>
           </div>
         ))}

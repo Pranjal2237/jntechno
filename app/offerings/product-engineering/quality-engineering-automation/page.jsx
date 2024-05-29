@@ -16,7 +16,7 @@ const page = () => {
         <div className="wrapper page-heading">
           <p
           >
-            Quality Engineering & Automation
+            Quality Engineering & Automation 
           </p>
         </div>
       <div className="wrapper about-container wrapper-block">

@@ -42,7 +42,7 @@ const page = () => {
               Management, WAF, Cloud-delivered FwaaS, and zero-trust network
               access. This enables telecommunication service providers and
               enterprises to expedite product development, market delivery, and
-              adapt swiftly to evolving business conditions and security
+              adapt swiftly to evolving business conditions and security 
               challenges.
             </h5>
           </div>

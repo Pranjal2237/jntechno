@@ -39,7 +39,7 @@ const page = () => {
               translating business requirements into innovative designs and
               technology, we've crafted business and customer-centric portals
               for over 100 clients, enhancing their digital presence and
-              operational efficiency.
+              operational efficiency. 
             </h5>
           </div>
           <div

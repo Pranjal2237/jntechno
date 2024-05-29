@@ -13,45 +13,24 @@ const page = () => {
         heading="Building the Future, Together: Digital Engineering & Transformation Expertise."
         height="560px"
       />
-      <div
-        style={{
-          padding: "1rem 0",
-          boxShadow: "0px 3px 6px #00000029",
-          background: "#fff",
-          position: "sticky",
-          top: "0px",
-        }}
-      >
-        <div className="wrapper">
-          <h2
-            style={{
-              fontSize: "28px",
-              color: "#333",
-              fontWeight: "600",
-              letterSpacing: "0.5px",
-            }}
+        <div className="wrapper page-heading">
+          <p
           >
-            Jonaren Technology
-          </h2>
+            Jonaren Technology Pvt Ltd.
+          </p>
         </div>
-      </div>
-      <div style={{ marginBlock: "2rem" }}>
+      <div className="wrapper about-container wrapper-block">
         <div
-          style={{
-            display: "flex",
-            alignItems: "center",
-            gap: "2.5rem",
-          }}
-          className="wrapper"
+          className="about-container"
         >
-          <div style={{ flexBasis: "100%", color: "#333", fontSize: "16px" }}>
-            <p>
+          <div className="about-content-container">
+            <h5>
               Save valuable time by eliminating the need to spend countless
               hours crafting schedules for your team or staff. Master efficiency
               and empower your business with our revolutionary workforce
               scheduling solutions.
-            </p>
-            <p>
+            </h5>
+            <h5>
               Jonaren Technology’s Workforce Scheduling Software utilizes innovative
               artificial intelligence to optimize your scheduling process. Our
               Workforce Scheduler generates optimal schedules in a fraction of
@@ -60,51 +39,31 @@ const page = () => {
               tasks, and create schedules that meet operational needs while
               considering factors such as employee availability, labor
               regulations, and budget constraints.
-            </p>
+            </h5>
           </div>
           <div
-            style={{
-              flexBasis: "100%",
-              display: "flex",
-              justifyContent: "center",
-              alignItems: "center",
-            }}
+            className="about-image-container"
           >
-            <Image src={graphics35} style={{ width: "60%" }} />
+            <Image src={graphics35} />
           </div>
         </div>
       </div>
-      <div
-        style={{ paddingBlock: "3rem", background: "#202834", color: "#fff" }}
-      >
-        <div className="wrapper">
+        <div className="wrapper about-skills-container">
           <div
-            style={{
-              display: "flex",
-              flexWrap: "wrap",
-              gap: "2.5rem",
-              marginTop: "30px",
-            }}
+            className="about-skills-content-container"
           >
             {aboutDescriptionArr.map(({image,heading,description}) => (
-              <div style={{ flex: "0 0 30%" }}>
-                <div style={{ display: "flex", justifyContent: "center" }}>
+              <div className="offerings_static-card">
+                <div className="offerings_static-card-image">
                   <Image src={image} />
                 </div>
                 <h5
-                  style={{
-                    fontWeight: "600",
-                    marginTop: "20px",
-                    textAlign: "center",
-                  }}
+                  className="offerings_static-card-heading"
                 >
                   {heading}
                 </h5>
                 <h5
-                  style={{
-                    marginTop: "12px",
-                    textAlign: "center",
-                  }}
+                  className="offerings_static-card-content"
                 >
                   {description}
                 </h5>
@@ -112,7 +71,6 @@ const page = () => {
             ))}
           </div>
         </div>
-      </div>
       <div style={{ paddingBlock: "3rem" }}>
         <div className="wrapper">
           <h1 style={{ fontSize: "32px", fontWeight: "600" }}>Vision</h1>

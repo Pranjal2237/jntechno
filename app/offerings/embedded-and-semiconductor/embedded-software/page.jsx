@@ -27,7 +27,7 @@ const page = () => {
               center of these experiences, and personas and customer journeys
               are driving purchase, adoption, and consumption, consequently
               impacting business decisions. Hence, it is not enough for
-              organizations to just focus on creating products and services.
+              organizations to just focus on creating products and services. 
             </h5>
             <h5>
               Businesses must capture customer needs, behaviors in real-time to

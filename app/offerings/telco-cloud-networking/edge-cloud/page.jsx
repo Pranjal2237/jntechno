@@ -29,7 +29,7 @@ const page = () => {
               and applications. Edge clouds, comprising small data centers
               nearer to users, minimize latency by shortening the distance
               between processing and consumption points. This enables premium
-              cloud services tailored to specific customers at competitive
+              cloud services tailored to specific customers at competitive 
               rates.
             </h5>
             <h5>

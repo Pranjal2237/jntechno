@@ -40,7 +40,7 @@ const page = () => {
               future-ready products and managing complex software/hardware/cloud
               systems. Whether you require technology resources or expertise for
               smart connected products, our services cater to your needs,
-              providing comprehensive solutions for your product development
+              providing comprehensive solutions for your product development 
               journey.
             </h5>
           </div>

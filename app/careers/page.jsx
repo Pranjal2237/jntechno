@@ -2,7 +2,7 @@ import Banner from "@/components/banner";
 import Active from "@/components/cards/active";
 import Carousel from "@/components/carousel";
 import {  about, careerBannerCarousel, careerEnvironmentArr, careerOfferings, innovationOfferings } from "@/constant";
-import { careerBanner1, careerBanner4, homeBanner9 } from "@/public";
+import { career1, career2, career3, career4, careerBanner1, careerBanner4, homeBanner9 } from "@/public";
 import Image from "next/image";
 import styles from './styles.module.css'
 
@@ -44,10 +44,10 @@ const page = () => {
                 to push your skills and make a real difference.
               </h5>
             </div>
-            <Image src={homeBanner9} />
-            <Image src={homeBanner9} />
-            <Image src={homeBanner9} />
-            <Image src={homeBanner9} />
+            <Image src={career1} />
+            <Image src={career2} />
+            <Image src={career3} />
+            <Image src={career4} />
           </div>
         </div>
       </div>

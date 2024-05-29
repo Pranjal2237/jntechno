@@ -143,6 +143,53 @@ h5{
   width: 65%;
 }
 
+.offerings_static-container{
+  padding-block: 3rem;
+  background: #ffffff url('../public/assets/backgroundImage.png');
+  color: #333333;
+}
+
+.offerings_static_cards-container{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.offerings_static-card{
+  flex: 0 0 30%;
+}
+
+.offerings_static-card-image{
+  display: flex;
+  justify-content: center;
+}
+
+.offerings_static-card-heading{
+  font-weight: var(--fw-semi_bold);
+  margin-top: 1.25rem;
+  text-align: center;
+}
+
+.offerings_static-card-content{
+  margin-top: 0.75rem;
+  text-align: center;
+}
+
+.about-skills-container{
+  padding-block: 3rem;
+  background-color: #202834;
+  color: #fff;
+}
+
+.about-skills-content-container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2.5rem;
+  margin-top: 2.25rem;
+}
+
+
 @media screen and (max-width:var(--breakpoint-xl)) {
   .wrapper{
     padding: 0 6rem;

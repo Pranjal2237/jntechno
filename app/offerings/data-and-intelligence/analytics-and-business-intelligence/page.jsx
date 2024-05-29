@@ -34,8 +34,8 @@ const page = () => {
               strategies for success.
             </h5>
             <h5>
-              With over two decades of expertise in Analytics and BI, ACL
-              Digital offers tailored data intelligence solutions across
+              With over two decades of expertise in Analytics and BI, Jpnaren Technology 
+              offers tailored data intelligence solutions across
               industries. Our team ensures real-time insights and precise
               reporting, empowering informed strategic decisions on diverse
               platforms.
@@ -92,7 +92,7 @@ const page = () => {
               </h3>
             </div>
             <button style={{ width: "max-content" }}>
-              <p style={{ fontWeight: "600", fontSize: "16px" }}>READ MORE</p>
+              <p style={{ fontWeight: "600", fontSize: "16px" }}>READ MORE ACL</p>
             </button>
           </div>
         ))}

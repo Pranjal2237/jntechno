@@ -1,7 +1,7 @@
 import Banner from "@/components/banner";
 import Active from "@/components/cards/active";
-import { blog, innovationOfferings, trevelOfferings } from "@/constant";
-import { digital, graphics5, terms, trevelBanner } from "@/public";
+import { blog,trevelOfferings } from "@/constant";
+import { graphics5,trevelBanner } from "@/public";
 import Image from "next/image";
 
 const page = () => {
@@ -13,76 +13,46 @@ const page = () => {
         description="Craft unforgettable encounters through our array of digital, design, and tech services. Elevate experiences with us!"
         height="560px"
       />
-      <div
-        style={{
-          padding: "1rem 0",
-          boxShadow: "0px 3px 6px #00000029",
-          background: "#fff",
-          position: "sticky",
-          top: "0px",
-        }}
-      >
-        <div className="wrapper">
-          <h2
-            style={{
-              fontSize:'23px',
-              color: "#333",
-              fontWeight: "var(--fw-bold)",
-            }}
+        <div className="wrapper page-heading">
+          <p
           >
             Travel and Hospitality
-          </h2>
+          </p>
         </div>
-      </div>
-      <div style={{ marginBlock: "2rem" }}>
+      <div className="wrapper about-container wrapper-block">
         <div
-          style={{
-            display: "flex",
-            alignItems: "center",
-            gap: "2.5rem",
-          }}
-          className="wrapper"
+          className="about-container"
         >
-          <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
-            <p>
+          <div className="about-content-container">
+            <h5>
               In the travel and hospitality sector, digital evolution is
               paramount. From reservations to tracking, Jonaren Technology elevates
               travel ease and streamlines operations for partners like Airlines,
               Hotels, and OTAs. Harnessing cutting-edge design and digital tech,
               we redefine travel experiences.
-            </p>
-            <p>
+            </h5>
+            <h5>
               From airlines to logistics, Jonaren Technology pioneers innovation in
               diverse sectors. Our solutions span product innovation, digital
               experiences, consulting, marketing, and IT services. Empowering
               global Travel & Hospitality leaders, we redefine industry
               standards.
-            </p>
+            </h5>
           </div>
           <div
-            style={{
-              flexBasis: "100%",
-              display: "flex",
-              justifyContent: "center",
-              alignItems: "center",
-            }}
+            className="about-image-container"
           >
-            <Image src={graphics5} style={{ width: "80%" }} />
+            <Image src={graphics5} />
           </div>
         </div>
       </div>
-      <div style={{ marginBlock: "3rem" }}>
-        <div className="wrapper">
+        <div className="wrapper wrapper-block">
           <h1
-            style={{
-              color:'#333333',
-              fontWeight: "var(--fw-bold)",
-              marginBottom: "0.2rem",
-            }}
+            className="offerings-heading"
           >
             Offerings
           </h1>
-          <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
+          <p className="offerings-content">
             Harnessing Internet, Mobility, Cloud, and Analytics, Jonaren Technology
             crafts tailored solutions. We streamline travel enterprise
             operations and elevate customer experiences seamlessly. Join us in
@@ -96,7 +66,6 @@ const page = () => {
             ))}
           </div>
         </div>
-      </div>
       <div
         className="child"
         style={{ display: "grid", gridTemplateColumns: "repeat(4,1fr)" }}
@@ -104,29 +73,19 @@ const page = () => {
         {blog.map(({ category, heading, background }) => (
           <div
             style={{
-              height: "348px",
               background: background,
               backgroundSize: "cover",
               backgroundPosition: "center",
-              padding: "1rem 1.5rem",
-              color: "#fff",
-              display: "flex",
-              flexDirection: "column",
-              justifyContent: "space-between",
             }}
+            className="blog-item-container"
           >
             <div>
-              <h4 style={{ fontSize: "14px" }}>{category}</h4>
-              <h2
-                style={{
-                  fontSize: "20px",
-                  fontWeight: "600",
-                  marginTop: "20px",
-                  width: "65%",
-                }}
+              <h4 className="blog-item-category">{category}</h4>
+              <h3
+                className="blog-item-heading"
               >
                 {heading}
-              </h2>
+              </h3>
             </div>
             <button style={{ width: "max-content" }}>
               <p style={{ fontWeight: "600", fontSize: "16px" }}>READ MORE</p>

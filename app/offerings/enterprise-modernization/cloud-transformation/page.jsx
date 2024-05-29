@@ -38,7 +38,7 @@ const page = () => {
               Leveraging the cloud enables holistic organizational reinvention
               through technology modernization, creation of new revenue streams,
               development of cloud-based applications, expedited product
-              releases, and enhanced cloud capabilities.
+              releases, and enhanced cloud capabilities. 
             </h5>
           </div>
           <div

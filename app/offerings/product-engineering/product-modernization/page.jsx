@@ -42,7 +42,7 @@ const page = () => {
               journeys and achieving successful digital transformations. Through
               a customer-centric innovation approach and cutting-edge
               technologies, we provide the scalability, agility, and efficiency
-              essential for tomorrow's enterprises to thrive in a dynamic market
+              essential for tomorrow's enterprises to thrive in a dynamic market 
               environment.
             </h5>
           </div>

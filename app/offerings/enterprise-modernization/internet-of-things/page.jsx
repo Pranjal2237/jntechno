@@ -39,7 +39,7 @@ const page = () => {
               end-to-end connectivity. Whether it's cloud or mobile app
               development, or integrating AI-driven intelligence, we cater to
               diverse industries, transforming IoT concepts into reality for
-              enhanced operational efficiency and innovation.
+              enhanced operational efficiency and innovation. 
             </h5>
           </div>
           <div

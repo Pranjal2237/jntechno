@@ -64,7 +64,7 @@ const page = () => {
             companies demand innovative and customized solutions with intuitive
             and meaningful digital experiences and a seamless end-to-end
             customer journey. Our range of Digital Experience & Innovation
-            offerings include:
+            offerings include: 
           </p>
           <div className="offering-container">
             {arOfferings.map(({ image, title, paragraph }) => (

@@ -424,48 +424,48 @@ export const footer = [
       },
     ],
   },
-  {
-    heading: "SOLUTIONS",
-    navLink: "/solutions",
-    subnav: [
-      {
-        headingLink: "/medical-automation",
-        heading: "Medical Automation",
-      },
-      {
-        headingLink: "/homebridge",
-        heading: "HomeBridge",
-      },
-      {
-        headingLink: "/home-automation",
-        heading: "Home Automation",
-      },
-      {
-        headingLink: "/centauri",
-        heading: "Centauri 200",
-      },
-      {
-        headingLink: "/industrial-iot",
-        heading: "Industrial IoT",
-      },
-      {
-        headingLink: "/workforce-scheduler",
-        heading: "Workforce Scheduler",
-      },
-      {
-        headingLink: "/wirezap",
-        heading: "Wirezap",
-      },
-      {
-        headingLink: "/qInsight",
-        heading: "QInsight",
-      },
-      {
-        headingLink: "",
-        heading: "Jonaren Learn",
-      },
-    ],
-  },
+  // {
+  //   heading: "SOLUTIONS",
+  //   navLink: "/solutions",
+  //   subnav: [
+  //     {
+  //       headingLink: "/medical-automation",
+  //       heading: "Medical Automation",
+  //     },
+  //     {
+  //       headingLink: "/homebridge",
+  //       heading: "HomeBridge",
+  //     },
+  //     {
+  //       headingLink: "/home-automation",
+  //       heading: "Home Automation",
+  //     },
+  //     {
+  //       headingLink: "/centauri",
+  //       heading: "Centauri 200",
+  //     },
+  //     {
+  //       headingLink: "/industrial-iot",
+  //       heading: "Industrial IoT",
+  //     },
+  //     {
+  //       headingLink: "/workforce-scheduler",
+  //       heading: "Workforce Scheduler",
+  //     },
+  //     {
+  //       headingLink: "/wirezap",
+  //       heading: "Wirezap",
+  //     },
+  //     {
+  //       headingLink: "/qInsight",
+  //       heading: "QInsight",
+  //     },
+  //     {
+  //       headingLink: "",
+  //       heading: "Jonaren Learn",
+  //     },
+  //   ],
+  // },
   {
     heading: "INDUSTRIES",
     navLink: "/industries",
@@ -763,92 +763,92 @@ export const navigation = [
       },
     ],
   },
-  {
-    nav: "Solutions",
-    navLink: "solutions",
-    subnav: [
-      {
-        headingLink: "medical-automation",
-        heading: "Medical Automation",
-        options: [
-          {
-            option: "Smart and medical-grade compliant solutions",
-            optionLink: "",
-          },
-        ],
-      },
-      {
-        headingLink: "homebridge",
-        heading: "HomeBridge",
-        options: [
-          {
-            option: "IoT Home Automation Gateway",
-            optionLink: "",
-          },
-        ],
-      },
-      {
-        headingLink: "home-automation",
-        heading: "Home Automation",
-        options: [
-          {
-            option: "Al and Automation driven Platform with unified view",
-            optionLink: "",
-          },
-        ],
-      },
-      {
-        headingLink: "centauri",
-        heading: "Centauri 200",
-        options: [
-          {
-            option: "Enterprise/Industrial IoT Gateway",
-            optionLink: "",
-          },
-        ],
-      },
-      {
-        headingLink: "industrial-iot",
-        heading: "Industrial IoT",
-        options: [
-          {
-            option: "Tailored, ready-to-use, and customizable platforms",
-            optionLink: "",
-          },
-        ],
-      },
-      {
-        headingLink: "workforce-scheduler",
-        heading: "Workforce Scheduler",
-        options: [
-          {
-            option: "AI powered roster planner to optimize scheduling process",
-            optionLink: "",
-          },
-        ],
-      },
-      {
-        headingLink: "wirezap",
-        heading: "Wirezap",
-        options: [
-          {
-            option: "Soft Micro Hub Solution",
-            optionLink: "",
-          },
-        ],
-      },
-      {
-        headingLink: "qInsight",
-        heading: "QInsight",
-        options: [
-          {
-            option: "Clinical Trial Data Visualization Solution",
-            optionLink: "",
-          },
-        ],
-      },
-    ],
-  },
+  // {
+  //   nav: "Solutions",
+  //   navLink: "solutions",
+  //   subnav: [
+  //     {
+  //       headingLink: "medical-automation",
+  //       heading: "Medical Automation",
+  //       options: [
+  //         {
+  //           option: "Smart and medical-grade compliant solutions",
+  //           optionLink: "",
+  //         },
+  //       ],
+  //     },
+  //     {
+  //       headingLink: "homebridge",
+  //       heading: "HomeBridge",
+  //       options: [
+  //         {
+  //           option: "IoT Home Automation Gateway",
+  //           optionLink: "",
+  //         },
+  //       ],
+  //     },
+  //     {
+  //       headingLink: "home-automation",
+  //       heading: "Home Automation",
+  //       options: [
+  //         {
+  //           option: "Al and Automation driven Platform with unified view",
+  //           optionLink: "",
+  //         },
+  //       ],
+  //     },
+  //     {
+  //       headingLink: "centauri",
+  //       heading: "Centauri 200",
+  //       options: [
+  //         {
+  //           option: "Enterprise/Industrial IoT Gateway",
+  //           optionLink: "",
+  //         },
+  //       ],
+  //     },
+  //     {
+  //       headingLink: "industrial-iot",
+  //       heading: "Industrial IoT",
+  //       options: [
+  //         {
+  //           option: "Tailored, ready-to-use, and customizable platforms",
+  //           optionLink: "",
+  //         },
+  //       ],
+  //     },
+  //     {
+  //       headingLink: "workforce-scheduler",
+  //       heading: "Workforce Scheduler",
+  //       options: [
+  //         {
+  //           option: "AI powered roster planner to optimize scheduling process",
+  //           optionLink: "",
+  //         },
+  //       ],
+  //     },
+  //     {
+  //       headingLink: "wirezap",
+  //       heading: "Wirezap",
+  //       options: [
+  //         {
+  //           option: "Soft Micro Hub Solution",
+  //           optionLink: "",
+  //         },
+  //       ],
+  //     },
+  //     {
+  //       headingLink: "qInsight",
+  //       heading: "QInsight",
+  //       options: [
+  //         {
+  //           option: "Clinical Trial Data Visualization Solution",
+  //           optionLink: "",
+  //         },
+  //       ],
+  //     },
+  //   ],
+  // },
   {
     nav: "Industries",
     navLink: "industries",

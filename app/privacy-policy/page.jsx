@@ -400,13 +400,13 @@ const page = () => {
               >
                 Changes to our privacy policy
               </h1>
-              <p style={{ fontSize: "17px", color: "#333", marginTop: "10px" }}>
+              <p style={{ fontSize: "17px", color: "#333", marginTop: "10px",marginBottom:'2rem' }}>
                 Any changes we make to our privacy policy in the future will be
                 posted on this page. Please check back frequently to see any
                 updates or changes to our privacy policy
               </p>
             </li>
-            <li>
+            {/* <li>
               <h1
                 style={{
                   marginTop: "4rem",
@@ -427,7 +427,7 @@ const page = () => {
                 Questions, comments and requests regarding this privacy policy
                 are welcomed and should be addressed to dpo@acldigital.com
               </p>
-            </li>
+            </li> */}
           </ol>
         </div>
       </div>

@@ -60,7 +60,7 @@ const page = () => {
             enterprises achieve holistic digital transformations. The companies
             demand innovative and customized solutions with intuitive and
             meaningful digital experiences and a seamless end-to-end customer
-            journey. Our range of Digital Experience & Innovation offerings
+            journey. Our range of Digital Experience & Innovation offerings 
             include:
           </p>
           <div className="offering-container">

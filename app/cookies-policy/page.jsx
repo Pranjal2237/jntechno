@@ -283,7 +283,7 @@ const page = () => {
           </p>
           <p style={{ fontSize: "17px", color: "#333", marginTop: "10px" }}>
             <b>Twitter :</b> Show targeted, relevant advertisements and
-            re-targeted advertisements to visitors of Jonaren Technology website
+            re-targeted advertisements to visitors of Jonaren Technology website 
           </p>
           <p style={{ fontSize: "17px", color: "#333", marginTop: "10px" }}>
             Privacy Policy: https://twitter.com/en/privacy
@@ -307,10 +307,10 @@ const page = () => {
             social media
           </p>
           <p style={{ fontSize: "17px", color: "#333", marginTop: "10px" }}>
-            Privacy Policy: https://www.acldigital.com/privacy-policy
+            Privacy Policy: https://www.jntechno.com/privacy-policy
           </p>
           <p style={{ fontSize: "17px", color: "#333", marginTop: "10px" }}>
-            Opt out: https://acldigital.com/opt-out/
+            Opt out: https://jntechno.com/opt-out/
           </p>
           <p style={{ fontSize: "17px", color: "#333", marginTop: "10px" }}>
             <b>Facebook :</b> Show targeted, relevant advertisements

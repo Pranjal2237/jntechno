@@ -1,8 +1,7 @@
 import Banner from "@/components/banner";
 import Dynamic from "@/components/cards/dynamic";
-import { blog, mediaOfferings, medicalOfferings } from "@/constant";
+import { blog,  medicalOfferings } from "@/constant";
 import {
-  digital,
   terms,
   qinsightBenifits1,
   qinsightBenifits2,
@@ -20,39 +19,18 @@ const page = () => {
         heading="Enhance Patient Care through Healthcare IoT and Automation."
         height="560px"
       />
-      <div
-        style={{
-          padding: "1rem 0",
-          boxShadow: "0px 3px 6px #00000029",
-          background: "#fff",
-          position: "sticky",
-          top: "0px",
-        }}
-      >
-        <div className="wrapper">
-          <h2
-            style={{
-              fontSize: "28px",
-              color: "#333",
-              fontWeight: "600",
-              letterSpacing: "0.5px",
-            }}
+        <div className="wrapper page-heading">
+          <p
           >
             Medical/Healthcare Automation
-          </h2>
+          </p>
         </div>
-      </div>
-      <div style={{ marginBlock: "2rem" }}>
+      <div className="wrapper about-container wrapper-block">
         <div
-          style={{
-            display: "flex",
-            alignItems: "center",
-            gap: "2.5rem",
-          }}
-          className="wrapper"
+          className="about-container"
         >
-          <div style={{ flexBasis: "100%", color: "#333", fontSize: "16px" }}>
-            <p>
+          <div className="about-content-container">
+            <h5>
               The digital revolution is vital in modern healthcare. Remote
               monitoring and connected devices enhance treatment efficiency and
               consistency. With AI, chatbots, IoT, and cloud solutions,
@@ -60,8 +38,8 @@ const page = () => {
               facilities with real-time data access. Drug delivery evolves with
               inhalers, auto-injectors, IoT pumps, and insideables for
               monitoring.
-            </p>
-            <p>
+            </h5>
+            <h5>
               Jonaren Technology stands as the top choice healthcare solution
               partner for prominent healthcare system providers and medical
               device manufacturers. Our seasoned engineers possess the expertise
@@ -73,21 +51,16 @@ const page = () => {
               and efficiency. Trust Jonaren Technology for innovative,
               sophisticated, and compliant healthcare solutions tailored to meet
               the evolving needs of the industry.
-            </p>
+            </h5>
           </div>
           <div
-            style={{
-              flexBasis: "100%",
-              display: "flex",
-              justifyContent: "center",
-              alignItems: "center",
-            }}
+            className="about-image-container"
           >
-            <Image src={graphics18} style={{ width: "60%" }} />
+            <Image src={graphics18} />
           </div>
         </div>
       </div>
-      <div className="wrapper qinsight-benifits-container" style={{ paddingBlock: "4rem" }}>
+      <div className="wrapper offerings_static-container" style={{ paddingBlock: "4rem" }}>
         <h1>Medical Automation Offerings</h1>
         <h5>
           Streamline patient monitoring and enhance diagnostics with ACL
@@ -96,7 +69,7 @@ const page = () => {
           and foster proactive healthcare management through real-time data
           analytics, ensuring smarter and more efficient medical practices.
         </h5>
-        <div style={{display:'grid',gridTemplateColumns:'repeat(3,1fr)',gap:'2rem',marginTop:'2rem'}}>
+        <div className="offerings_static_cards-container">
           {
             medicalOfferings.map(({heading,content,haveLogo,logo})=>(
               <>
@@ -182,7 +155,7 @@ const page = () => {
           </div>
         </div>
       </div>
-      <div className="qinsight-benifits-container">
+      <div className="offerings_static-container">
         <div className="wrapper">
           <h1 style={{ fontWeight: "700", fontSize: "32px" }}>
             Why Choose Jonaren Technology?
