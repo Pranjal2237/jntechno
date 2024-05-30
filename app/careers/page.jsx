@@ -149,7 +149,7 @@ const page = () => {
       </div>
       <Banner
         image={careerBanner1}
-        heading="LCA Posting"
+        heading="Job Posting"
         haveButton={true}
         buttonText="VIEW ALL JOB OPENINGS"
         height="420px"

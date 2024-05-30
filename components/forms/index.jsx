@@ -15,40 +15,38 @@ const initialValues = {
 };
 
 const Form = () => {
-  const [code, setCode] = useState();
-  const [codeinput, setCodeInput] = useState("");
-  const [check, setCheck] = useState();
-  const [canSubmit, setCanSubmit] = useState(false);
-  const [action, setAction] = useState("Submit");
   const form = useRef();
+  const[check,setCheck]=useState(false);
+  const[warning,setWarning]=useState(null)
 
-  const { values, handleBlur, handleChange, handleSubmit, touched, errors } =
+  let { values, handleBlur, handleChange, handleSubmit, touched, errors,resetForm } =
     useFormik({
       initialValues,
       validationSchema: FormSchema,
       onSubmit: (values, { resetForm }) => {
-        if (canSubmit === true) {
-          setAction("Submitting...");
-          emailjs
-            .sendForm("service_fjcmugf", "template_kfdqsha", form.current, {
-              publicKey: "COLQvudnCYH01N07-",
+        if(check===true)
+          {
+            emailjs
+            .sendForm("service_1loqh9x", "template_i3926w6", form.current, {
+              publicKey: "ltjL7aEP5LrX-18Wq",
             })
             .then(
               () => {
-                setAction("Submitted");
-                setTimeout(() => {
-                  setAction("Submit");
-                }, 1000);
-                setCodeInput(" ");
                 resetForm();
+                setCheck(false);
+                setWarning(null);
               },
               (error) => {
                 console.log("FAILED...", error.text);
               }
             );
-        }
+          }
+          else{
+            setWarning("please accept the terms and conditions")
+          }
       },
     });
+
 
   return (
     <form id="enquiry" className={styles.enquiryForm } onSubmit={handleSubmit} ref={form}>
@@ -120,17 +118,18 @@ const Form = () => {
           onBlur={handleBlur}
         />
         <div style={{display:'flex',alignItems:'center',gap:'1rem',marginTop:'0.5rem'}}>
-          <input type="checkbox" />
+          <input type="checkbox" checked={check} onChange={(e)=>{setCheck(e.target.checked)}} />
           <p>
             I confirm, I have read and agreed to Privacy Policy and consent to
             sharing my information. For more information, please review our
             Cookies Policy and Privacy Statement.
           </p>
         </div>
+        {(check!==true && warning!==null) && <p>{warning}</p>}
       </div>
       <div>
-        <button className={styles.btn} style={{background:'var(--gray)'}}>RESET</button>
-        <button className={styles.btn} style={{background:'var(--orange)'}}>SUBMIT</button>
+        <button onClick={resetForm} type="button" className={styles.btn} style={{background:'var(--gray)'}}>RESET</button>
+        <button type="submit" className={styles.btn} style={{background:'var(--orange)'}}>SUBMIT</button>
       </div>
     </form>
   );
