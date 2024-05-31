@@ -51,7 +51,7 @@ const page = () => {
               media boundaries blur, adapt to the converging landscape of
               telecom, media, and technology for sustained relevance.
             </p>
-            <p>
+            <p style={{marginTop:'10px'}}>
               Businesses must adeptly capture real-time customer needs and
               behaviors, transforming internally with digital tools to enhance
               outreach and service. Digital Marketing enables precise

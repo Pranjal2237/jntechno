@@ -39,7 +39,7 @@ const page = () => {
               overcoming obstacles and unlocking new opportunities for growth
               and innovation.
             </h5>
-            <h5
+            <h5 style={{marginTop:'10px'}}
             >
               Rely on Jonaren Technology's enterprise modernization experts for
               comprehensive expertise in cloud transformation, connected

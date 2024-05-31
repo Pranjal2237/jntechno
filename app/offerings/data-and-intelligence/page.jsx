@@ -29,7 +29,7 @@ const page = () => {
               optimizing operational efficiency, and attaining various business
               objectives.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               Data, analytics, and AI are pivotal in constructing an Intelligent
               Enterprise. However, challenges arise in managing data,
               integrating data sources, and selecting appropriate analytics or

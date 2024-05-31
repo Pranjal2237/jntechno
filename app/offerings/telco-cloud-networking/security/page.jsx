@@ -35,7 +35,7 @@ const page = () => {
               low-latency access to end users, devices, and cloud-hosted
               services anywhere.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               Jonaren Technology offers a comprehensive SASE framework featuring
               cloud-native security functions including secure SD-WAN, Secure
               Web Gateways, Cloud Access Security Brokerage, Identity and Access

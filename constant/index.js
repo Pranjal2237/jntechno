@@ -369,7 +369,7 @@ export const blog = [
   {
     category: "Newsroom",
     heading:
-      "Jonaren Technology and PhoenixAI.tech partner to take AI driven drone technology to new heights",
+      "Jonaren Technology partnering with verious companies to take AI driven technology to new heights",
     background: "#333333",
   },
   {
@@ -407,7 +407,7 @@ export const footer = [
         headingLink: "/data-and-intelligence",
       },
       {
-        heading: "Telco, Cloud & Networking",
+        heading: "Cloud & Networking",
         headingLink: "/telco-cloud-networking",
       },
       {
@@ -666,13 +666,13 @@ export const navigation = [
         ],
       },
       {
-        heading: "Telco, Cloud & Networking",
+        heading: "Cloud & Networking",
         headingLink: "telco-cloud-networking",
         options: [
-          {
-            option: "5G",
-            optionLink: "5g-networks",
-          },
+          // {
+          //   option: "5G",
+          //   optionLink: "5g-networks",
+          // },
           {
             option: "Security",
             optionLink: "security",
@@ -695,35 +695,35 @@ export const navigation = [
           },
         ],
       },
-      {
-        heading: "Embedded & Semiconductor",
-        headingLink: "embedded-and-semiconductor",
-        options: [
-          {
-            option: "FPGA Design",
-            optionLink: "fpga-design",
-          },
-          {
-            option: "Embedded Software",
-            optionLink: "embedded-software",
-          },
-          {
-            option: "PCB Design",
-            optionLink: "pcb-design",
-          },
-          {
-            option: "Silicon Validation",
-            optionLink: "silicon-validation",
-          },
-        ],
-      },
+      // {
+      //   heading: "Embedded & Semiconductor",
+      //   headingLink: "embedded-and-semiconductor",
+      //   options: [
+      //     {
+      //       option: "FPGA Design",
+      //       optionLink: "fpga-design",
+      //     },
+      //     {
+      //       option: "Embedded Software",
+      //       optionLink: "embedded-software",
+      //     },
+      //     {
+      //       option: "PCB Design",
+      //       optionLink: "pcb-design",
+      //     },
+      //     {
+      //       option: "Silicon Validation",
+      //       optionLink: "silicon-validation",
+      //     },
+      //   ],
+      // },
       {
         heading: "Enterprise Application",
         headingLink: "enterprise-applications",
         options: [
           {
-            option: "OrJonarene",
-            optionLink: "orJonarene",
+            option: "Oracle",
+            optionLink: "oracle",
           },
           {
             option: "Microsoft",
@@ -924,55 +924,45 @@ export const navigation = [
 
 export const contact = [
   {
-    country: "USA - Bay Area (Headquarters)",
-    company: "Jonaren Technology",
-    location: {
-      primary: "2890 Zanker Road, Suite 200,",
-      secondary: "San Jose, CA - 95134",
-    },
-    phone: "+1 (408) 755 3000",
-    email: "business@Jonarendigital.com",
+    country:"India",
+    locations:[
+      {
+        area: "Bangalore (HEAD OFFICE)",
+        company: "Jonaren Technology Pvt. Ltd.",
+        location: {
+          primary: "GROUND FLOOR,DOOR NO. 66,3RD CROSS,AKSHYA NAGAR",
+          secondary: "YELEHANKA,BANGALORE-560064",
+        },
+        phone: "+91 120 423 8139",
+        email: "info@jntechno.com",
+      },
+      {
+        area: "Noida (CORP. OFFICE)",
+        company: "Jonaren Technology Pvt. Ltd.",
+        location: {
+          primary: "#1210,Tower B,ITHUM,Plot A-40,",
+          secondary: "Sector 62,Noida-201309",
+        },
+        phone: "+91 120 423 8139",
+        email: "info@jntechno.com",
+      },
+    ]
   },
   {
-    country: "USA - Dallas, TX",
-    company: "Jonaren Technology",
-    location: {
-      primary: "14228 Midway Rd, Dallas,",
-      secondary: "TX - 75244",
-    },
-    phone: "+1 214 699 9850",
-    email: "business@Jonarendigital.com",
-  },
-  {
-    country: "USA - Philadelphia",
-    company: "Jonaren Technology",
-    location: {
-      primary: "501 Allendale Road, Suite 201,",
-      secondary: "King of Prussia, PA -19406",
-    },
-    phone: "+1 (610) 337 1935",
-    email: "business@Jonarendigital.com",
-  },
-  {
-    country: "USA - Atlanta",
-    company: "Jonaren Technology",
-    location: {
-      primary: "3655 North Point Parkway, Suite 650,",
-      secondary: "Alpharetta GA  - 30005",
-    },
-    phone: "+1 (408) 755 3000",
-    email: "business@Jonarendigital.com",
-  },
-  {
-    country: "USA - Seattle",
-    company: "Jonaren Technology",
-    location: {
-      primary: "8201 164th Ave NE Ste 200,",
-      secondary: "Redmond, WA - 98052",
-    },
-    phone: " +1 (408) 755 3000",
-    email: "business@Jonarendigital.com",
-  },
+    country:"Singapore",
+    locations:[
+      {
+        area: "Singapore",
+        company: "Jonaren Technology Pvt. Ltd.",
+        location: {
+          primary: "Doerscircle,10 Anson Rd,#21-07",
+          secondary: "International Plaza,Singapore-079903",
+        },
+        phone: "+91 120 423 8139",
+        email: "info@jntechno.com",
+      },
+    ]
+  }
 ];
 
 export const innovationOfferings = [

@@ -31,7 +31,7 @@ const page = () => {
               objects, promising significant efficiencies across enterprise
               operations.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               Businesses across sectors embrace IoT solutions to seize lucrative
               opportunities and sustain competitiveness. Jonaren Technology's IoT
               development services ensure seamless integrations between cloud

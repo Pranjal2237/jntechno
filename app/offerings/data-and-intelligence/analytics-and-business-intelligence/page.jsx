@@ -33,7 +33,7 @@ const page = () => {
               uncover business strengths and weaknesses, driving informed
               strategies for success.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               With over two decades of expertise in Analytics and BI, Jpnaren Technology 
               offers tailored data intelligence solutions across
               industries. Our team ensures real-time insights and precise

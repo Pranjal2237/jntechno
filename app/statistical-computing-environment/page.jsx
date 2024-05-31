@@ -51,7 +51,7 @@ const page = () => {
               impacting business decisions. Hence, it is not enough for
               organizations to just focus on creating products and services. 
             </p>
-            <p>
+            <p style={{marginTop:'10px'}}>
               Businesses must capture customer needs, behaviors in real-time to
               define and deliver great experiences across all touchpoints, and
               transform internally with digital applications to help, reach, and

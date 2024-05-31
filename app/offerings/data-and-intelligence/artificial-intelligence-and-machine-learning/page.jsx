@@ -31,7 +31,7 @@ const page = () => {
               personalized solutions for end customers, unlocking new
               possibilities for innovation and success.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               Jonaren Technology harnesses cutting-edge AI software development tools
               and techniques to craft precise applications that elevate human
               potential. Through advanced statistical and mathematical methods

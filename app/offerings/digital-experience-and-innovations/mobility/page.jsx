@@ -30,7 +30,7 @@ const page = () => {
               every step of the customer journey. Elevate your digital strategy
               with our dynamic and engaging mobile solutions.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               Harnessing expertise in iOS, Android, and Hybrid mobile
               frameworks, we blend industry-specific insights to empower
               organizations with a competitive digital advantage. Elevate your

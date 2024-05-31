@@ -32,7 +32,7 @@ const page = () => {
               products that offer a rich and exceptional user experience,
               setting new standards in usability and satisfaction.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               Jonaren Technology supports end-to-end product development to enhance
               your business agility. Overcome the complex development
               challenges, and build state-of-the-art web products and platforms

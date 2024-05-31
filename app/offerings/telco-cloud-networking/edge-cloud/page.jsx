@@ -32,7 +32,7 @@ const page = () => {
               cloud services tailored to specific customers at competitive 
               rates.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               Jonaren Technology's edge cloud services empower telecom service
               providers to establish edge computing infrastructure within the
               access network, proximate to end-users and connected devices. Our

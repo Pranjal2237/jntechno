@@ -52,7 +52,7 @@ const page = () => {
               market impact. Join us in shaping the future of telecom with
               transformative solutions!
             </p>
-            <p>
+            <p style={{marginTop:'10px'}}>
               Leveraging our proven framework and innovative tools, Jonaren Technology
               aids telecom operators and equipment manufacturers in swiftly
               transitioning to next-gen networks. From 5G to AI, our expertise

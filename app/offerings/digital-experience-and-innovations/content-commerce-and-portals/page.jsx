@@ -31,7 +31,7 @@ const page = () => {
               platforms, playing a crucial role in your overall digital strategy
               and evolution.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               Jonaren Technology excels in creating adaptive, responsive portals,
               websites, intranets, and enterprise solutions, including loyalty
               and order management systems. We specialize in developing and

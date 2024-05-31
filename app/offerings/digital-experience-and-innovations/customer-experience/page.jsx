@@ -38,7 +38,7 @@ const page = () => {
               customers and employees, leveraging emerging digital technologies
               to enhance and manage these experiences effectively.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               Jonaren Technology transforms and digitizes end-to-end business processes
               to elevate customer journeys. We craft solutions that create
               meaningful, lasting impressions by evaluating every customer

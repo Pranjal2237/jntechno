@@ -35,7 +35,7 @@ const page = () => {
               throughout the development life cycle by bringing together
               stakeholders from business, development, and operations teams.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               Jonaren Technology's DevOps solution establishes a seamless DevOps
               toolchain for comprehensive application release, ensuring
               dependable releases and expedited time to market. This efficiency

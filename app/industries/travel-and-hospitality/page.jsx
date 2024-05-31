@@ -31,7 +31,7 @@ const page = () => {
               Hotels, and OTAs. Harnessing cutting-edge design and digital tech,
               we redefine travel experiences.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               From airlines to logistics, Jonaren Technology pioneers innovation in
               diverse sectors. Our solutions span product innovation, digital
               experiences, consulting, marketing, and IT services. Empowering

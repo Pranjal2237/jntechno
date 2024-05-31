@@ -6,8 +6,8 @@
 .contactContainer{
     display: flex;
     flex-wrap: wrap;
-    gap: 2rem;
-    margin-block: 4rem;
+    gap: 3rem;
+    margin-block: 2rem;
   }
   
   .contactBox{

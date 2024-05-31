@@ -33,7 +33,7 @@ const page = () => {
               standards. They facilitate accelerated time to market and
               future-proofing, ensuring adaptability to evolving company needs.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               Jonaren Technology provides comprehensive platform engineering services
               throughout your organization's transformation journey. From
               planning and development to migration, deployment, and ongoing

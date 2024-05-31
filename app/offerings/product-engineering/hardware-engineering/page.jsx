@@ -34,7 +34,7 @@ const page = () => {
               entire system/product through systematic methodologies, thereby
               staying ahead in the dynamic market landscape.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               Jonaren Technology offers end-to-end hardware design and development
               services, from conceptualization to production, ensuring
               future-ready products and managing complex software/hardware/cloud

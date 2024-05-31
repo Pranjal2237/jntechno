@@ -31,7 +31,7 @@ const page = () => {
               development lifecycle, ensuring applications adhere to stringent
               quality, reliability, and performance benchmarks.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               Jonaren Technology adopts a comprehensive approach to quality assurance,
               integrating industry best practices with our domain expertise.
               Through our Test Automation Centre of Excellence, we provide

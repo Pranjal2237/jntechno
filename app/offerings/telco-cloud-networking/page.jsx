@@ -34,7 +34,7 @@ const page = () => {
               constraints. Staying ahead of the curve requires adept adaptation
               and agile strategies.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               Cloud computing serves as a sturdy base for digital
               transformation, but its effectiveness relies on pivotal choices
               concerning technology, vendors, and integration. Jonaren Technology

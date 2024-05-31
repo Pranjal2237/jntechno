@@ -53,7 +53,7 @@ const page = () => {
               tech-savvy shoppers with data-driven experiences for informed
               decision-making.
             </p>
-            <p>
+            <p style={{marginTop:'10px'}}>
               In today's retail landscape, social tools, smart mobile apps with
               AR & VR, shoppable ads, and digital signage & sensor technology
               are revolutionizing the shopping experience. Customers now

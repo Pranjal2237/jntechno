@@ -71,20 +71,19 @@ const page = () => {
             ))}
           </div>
         </div>
-      <div style={{ paddingBlock: "3rem" }}>
-        <div className="wrapper">
-          <h1 style={{ fontSize: "32px", fontWeight: "600" }}>Vision</h1>
+        <div className="wrapper padding-block">
+          <h1 style={{ fontWeight: "600" }}>Vision</h1>
           <p>
           Being the top choice for creative solutions in Product Innovation and Digital Transformation.
           </p>
           <h1
-            style={{ fontSize: "32px", fontWeight: "600", marginBlock: "30px" }}
+            style={{fontWeight: "600", marginBlock: "30px" }}
           >
             Values
           </h1>
-          <div style={{ display: "flex", flexWrap: "wrap", gap: "2.5rem" }}>
+          <div className="about-values-container">
             {aboutValuesArr.map(({image,heading,description}) => (
-              <div style={{ flex: "0 0 30%", display: "flex", gap: "1rem" }}>
+              <div className="about-values-item">
                 <div style={{ flexBasis: "60%" }}>
                   <Image src={image} />
                 </div>
@@ -105,7 +104,6 @@ const page = () => {
             ))}
           </div>
         </div>
-      </div>
     </div>
   );
 };

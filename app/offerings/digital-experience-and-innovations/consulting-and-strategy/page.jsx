@@ -28,7 +28,7 @@ const page = () => {
               with precision and innovation, ensuring a seamless digital
               transformation.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               Our strategic IT consulting team is dedicated to helping you adapt
               and automate digital experiences, SaaS platforms, product
               engineering, and IT-led transformation services. Through our

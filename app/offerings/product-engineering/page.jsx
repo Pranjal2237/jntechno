@@ -29,7 +29,7 @@ const page = () => {
               organizations to challenge norms and lead in innovation,
               digitization, and transformation to stay ahead.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               At Jonaren Technology, our partnership principles focus on Innovation,
               Digitization, and Transformation. Through collaborative efforts,
               we assist clients in staying ahead by utilizing cutting-edge

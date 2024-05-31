@@ -35,7 +35,7 @@ const page = () => {
               500s, to prioritize customer experience and accelerate
               organizational transformation.
             </p>
-            <p>
+            <p style={{marginTop:'10px'}}>
               User Experience Design is pivotal for superior Customer and
               Employee Experience (CX & EX), capturing key aspects of brand
               usability, desirability, and functionality. At Jonaren Technology, our

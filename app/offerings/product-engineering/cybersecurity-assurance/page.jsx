@@ -33,7 +33,7 @@ const page = () => {
               remediation support, bolstering attack surface efficiency and
               guiding clients through the vulnerability management lifecycle.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               Jonaren Technology assists customers in proactively identifying
               vulnerabilities, implementing robust security measures, and
               establishing secure cloud labs for information systems. Our

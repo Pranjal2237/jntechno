@@ -37,7 +37,7 @@ const page = () => {
               reduced build time, and heightened app performance, empowering
               enterprises to thrive in a dynamic market landscape.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               Jonaren Technology is dedicated to accelerating businesses' modernization
               journeys and achieving successful digital transformations. Through
               a customer-centric innovation approach and cutting-edge

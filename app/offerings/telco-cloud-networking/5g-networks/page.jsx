@@ -30,7 +30,7 @@ const page = () => {
               applications, offering exceptional user experiences and paving the
               way for cutting-edge advancements in mobile networking.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               Jonaren Technology leverages open development methodologies and
               programming tools to provide comprehensive 5G solutions, including
               mobile core network re-architecture, end-to-end orchestration,

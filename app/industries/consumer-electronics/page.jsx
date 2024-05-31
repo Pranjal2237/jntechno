@@ -56,7 +56,7 @@ const page = () => {
               across processes, engineering, design, and development, ensuring
               client triumph in an evolving market landscape.
             </p>
-            <p>
+            <p style={{marginTop:'10px'}}>
               Jonaren Technology empowers the creation of intelligent, connected
               consumer electronics devices by leveraging our adeptness in
               tailored connected solutions. With a rich portfolio spanning

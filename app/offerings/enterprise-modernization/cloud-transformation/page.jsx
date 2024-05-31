@@ -32,7 +32,7 @@ const page = () => {
               operational costs, fostering innovation, and overcoming legacy
               obstacles for sustained growth and competitiveness.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               At Jonaren Technology, we recognize the transformative power of the cloud
               in reshaping business operations and accelerating innovation.
               Leveraging the cloud enables holistic organizational reinvention

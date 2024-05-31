@@ -59,7 +59,7 @@ const page = () => {
               empower stakeholders to simplify and transform healthcare
               delivery.
             </p>
-            <p>
+            <p style={{marginTop:'10px'}}>
               We specialize in harnessing cutting-edge technologies to craft
               tailored solutions, offer expert consultation, and drive ongoing
               healthcare enhancements. Our focus on innovation ensures we remain

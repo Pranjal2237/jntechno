@@ -105,7 +105,6 @@ const page = () => {
         <div className="wrapper">
           <h1
             style={{
-              fontSize: "32px",
               fontWeight: "600",
               marginBottom: "0.2rem",
             }}
@@ -122,7 +121,6 @@ const page = () => {
           </div>
         </div>
       </div>
-      {/* <CareerCarousel /> */}
       <div className="wrapper-block">
         <div className="wrapper">
           <h1

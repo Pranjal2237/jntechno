@@ -33,7 +33,7 @@ const page = () => {
               creation, emphasizing seamless experiences across channels to
               drive engagement, adoption, and business success.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               To excel, businesses must grasp customer needs, adapting swiftly
               to offer top-notch experiences across all interactions.
               Internally, digital tools aid in customer outreach and service.

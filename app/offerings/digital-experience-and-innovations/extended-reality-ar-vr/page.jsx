@@ -34,7 +34,7 @@ const page = () => {
               immersive technologies to bridge gaps and unlock fresh
               opportunities in your organization's journey.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               Exploring the potential of AR, VR, and MR for your enterprise?
               Look no further than Jonaren Technology. Count on us for extended reality
               solutions that drive meaningful experiences, foster human

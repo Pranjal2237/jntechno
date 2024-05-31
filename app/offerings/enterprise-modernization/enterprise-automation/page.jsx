@@ -35,7 +35,7 @@ const page = () => {
               streamline your operations, allowing you to focus on what truly 
               matters for your business's success.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               Automated technology solutions have revolutionized industries and
               everyday routines. At Jonaren Technology, we integrate artificial
               intelligence (AI) and machine learning (ML) into business

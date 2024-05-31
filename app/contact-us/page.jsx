@@ -14,16 +14,25 @@ const page = () => {
         </div>
         <div className='wrapper'>
             <h1 className={styles.contactLocations}>Global Locations</h1>
-            <div className={styles.contactContainer}>
+            <div >
                 {
-                  contact.map(({country,company,location:{primary,secondary},phone,email})=>(
-                    <div className={styles.contactBox}>
-                      <h1>{country}</h1>
-                      <h2>{company}</h2>
-                      <p>{primary}</p>
-                      <p>{secondary}</p>
-                      <p>Tel: {phone}</p>
-                      <p>Email: {email}</p>
+                  contact.map(({country,locations})=>(
+                    <div style={{marginBlock:'2rem'}}>
+                      <h2 style={{fontWeight:"600"}}>{country}</h2>
+                      <div className={styles.contactContainer}>
+                        {
+                          locations.map(({area,company,location:{primary,secondary},phone,email})=>(
+                            <div className={styles.contactBox}>
+                              <h1>{area}</h1>
+                              <h2>{company}</h2>
+                              <p>{primary}</p>
+                              <p>{secondary}</p>
+                              <p>Tel: {phone}</p>
+                              <p>Email: {email}</p>
+                            </div>
+                          ))
+                        }
+                      </div>
                     </div>
                   ))
                 }

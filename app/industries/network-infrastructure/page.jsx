@@ -58,7 +58,7 @@ const page = () => {
               revenue potential. Stay ahead in the digital age with Jonaren Technology's 
               innovative solutions for network evolution.
             </p>
-            <p>
+            <p style={{marginTop:'10px'}}>
               Harnessing industry-leading open-source tools, we adopt a
               consultative approach to craft a seamlessly integrated Network
               Infrastructure that aligns perfectly with business objectives.

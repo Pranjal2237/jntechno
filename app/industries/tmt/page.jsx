@@ -54,7 +54,7 @@ const page = () => {
               hyper-personalized experiences. Adaptability is key in navigating
               this dynamic evolution and securing top-of-mind recognition.
             </p>
-            <p>
+            <p style={{marginTop:'10px'}}>
               Amid shifting customer needs, regulatory demands, and digital
               advancements, the banking landscape undergoes profound shifts.
               Banks face choices: visionary innovator, passive observer, or

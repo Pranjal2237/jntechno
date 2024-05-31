@@ -31,7 +31,7 @@ const page = () => {
               can navigate complexities and seize new opportunities in the
               data-driven landscape.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               Jonaren Technology's data modernization platform facilitates end-to-end
               data management, encompassing acquisition, storage, preparation,
               delivery, and governance, alongside robust security measures for

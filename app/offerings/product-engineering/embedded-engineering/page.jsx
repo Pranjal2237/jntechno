@@ -33,7 +33,7 @@ const page = () => {
               dynamic market environments, while staying ahead of the
               competition.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               Rely on Jonaren Technology for cost-effective embedded engineering
               services, covering platform development, OS/application porting,
               and wired/wireless connectivity. With expertise in firmware
