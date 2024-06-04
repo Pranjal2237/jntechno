@@ -13,80 +13,48 @@ const page = () => {
         description="Empower with Connected, Insightful Banking."
         height="560px"
       />
-      <div
-        style={{
-          padding: "1rem 0",
-          boxShadow: "0px 3px 6px #00000029",
-          background: "#fff",
-          position: "sticky",
-          top: "0px",
-        }}
-      >
-        <div style={{ width: "1100px", marginInline: "auto" }}>
-          <h2
-            style={{
-              fontSize: "28px",
-              color: "#333",
-              fontWeight: "600",
-              letterSpacing: "0.5px",
-            }}
+        <div className="wrapper page-heading">
+          <p
           >
             Banking, Financial Services and Insurance
-          </h2>
+          </p>
         </div>
-      </div>
-      <div style={{ marginBlock: "2rem" }}>
+      <div className="wrapper about-container wrapper-block">
         <div
-          style={{
-            width: "1100px",
-            marginInline: "auto",
-            display: "flex",
-            alignItems: "center",
-            gap: "2.5rem",
-          }}
+          className="about-container"
         >
-          <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
-            <p>
+          <div className="about-content-container">
+            <h5>
               As customer expectations shift, regulatory demands intensify, and
               Fintech disruptors emerge, the banking landscape transforms. Banks
               face the choice: visionary, observer, or explorer. To thrive, they
               must embrace a customer-centric approach, delivering
               hyper-personalized experiences. Adaptability is key in navigating
               this dynamic evolution and securing top-of-mind recognition.
-            </p>
-            <p style={{marginTop:'10px'}}>
+            </h5>
+            <h5 style={{marginTop:'10px'}}>
               Amid shifting customer needs, regulatory demands, and digital
               advancements, the banking landscape undergoes profound shifts.
               Banks face choices: visionary innovator, passive observer, or
               curious explorer. To thrive, they must embrace adaptability and
               strategic foresight, navigating this transformative journey with
               agility and customer-centricity at the forefront.
-            </p>
+            </h5>
           </div>
           <div
-            style={{
-              flexBasis: "100%",
-              display: "flex",
-              justifyContent: "center",
-              alignItems: "center",
-            }}
+            className="about-image-container"
           >
             <Image src={graphics64} style={{ width: "80%" }} />
           </div>
         </div>
       </div>
-      <div style={{ marginBlock: "3rem" }}>
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper wrapper-block">
           <h1
-            style={{
-              fontSize: "32px",
-              fontWeight: "600",
-              marginBottom: "0.2rem",
-            }}
+            className="offerings-heading"
           >
             Offerings
           </h1>
-          <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
+          <p className="offerings-content">
             Jonaren Technology drives global banking and financial services forward,
             enhancing customer experiences, reshaping business models, and
             optimizing operational efficiency. Our track record speaks volumes,
@@ -100,7 +68,6 @@ const page = () => {
             ))}
           </div>
         </div>
-      </div>
     </div>
   );
 };

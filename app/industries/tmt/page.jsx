@@ -13,39 +13,17 @@ const page = () => {
         description="Empower with Connected, Insightful Banking."
         height="560px"
       />
-      <div
-        style={{
-          padding: "1rem 0",
-          boxShadow: "0px 3px 6px #00000029",
-          background: "#fff",
-          position: "sticky",
-          top: "0px",
-        }}
-      >
-        <div style={{ width: "1100px", marginInline: "auto" }}>
-          <h2
-            style={{
-              fontSize: "28px",
-              color: "#333",
-              fontWeight: "600",
-              letterSpacing: "0.5px",
-            }}
+        <div className="wrapper page-heading">
+          <p
           >
             Banking, Financial Services and Insurance
-          </h2>
+          </p>
         </div>
-      </div>
-      <div style={{ marginBlock: "2rem" }}>
+      <div className="wrapper about-container wrapper-block">
         <div
-          style={{
-            width: "1100px",
-            marginInline: "auto",
-            display: "flex",
-            alignItems: "center",
-            gap: "2.5rem",
-          }}
+          className="about-container"
         >
-          <div style={{ flexBasis: "100%", color: "#333", fontSize: "18px" }}>
+          <div className="about-content-container">
             <p>
               As customer expectations shift, regulatory demands intensify, and
               Fintech disruptors emerge, the banking landscape transforms. Banks
@@ -64,29 +42,19 @@ const page = () => {
             </p>
           </div>
           <div
-            style={{
-              flexBasis: "100%",
-              display: "flex",
-              justifyContent: "center",
-              alignItems: "center",
-            }}
+            className="about-image-container"
           >
             <Image src={graphics64} style={{ width: "80%" }} />
           </div>
         </div>
       </div>
-      <div style={{ marginBlock: "3rem" }}>
-        <div style={{ width: "1100px", marginInline: "auto" }}>
+        <div className="wrapper wrapper-block">
           <h1
-            style={{
-              fontSize: "32px",
-              fontWeight: "600",
-              marginBottom: "0.2rem",
-            }}
+            className="offerings-heading"
           >
             Offerings
           </h1>
-          <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
+          <p className="offerings-content">
             Jonaren Technology drives global banking and financial services forward,
             enhancing customer experiences, reshaping business models, and
             optimizing operational efficiency. Our track record speaks volumes,
@@ -100,7 +68,6 @@ const page = () => {
             ))}
           </div>
         </div>
-      </div>
     </div>
   );
 };

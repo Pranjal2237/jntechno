@@ -79,35 +79,20 @@ const page = () => {
         </div>
       </div>
       <div
-        className="child"
-        style={{ display: "grid", gridTemplateColumns: "repeat(4,1fr)" }}
+        className="child blog-main-container"
       >
         {blog.map(({ category, heading, background }) => (
           <div
             style={{
-              height: "348px",
               background: background,
               backgroundSize: "cover",
               backgroundPosition: "center",
-              padding: "1rem 1.5rem",
-              color: "#fff",
-              display: "flex",
-              flexDirection: "column",
-              justifyContent: "space-between",
             }}
+            className="blog-item-container"
           >
             <div>
-              <h4 style={{ fontSize: "14px" }}>{category}</h4>
-              <h2
-                style={{
-                  fontSize: "20px",
-                  fontWeight: "600",
-                  marginTop: "20px",
-                  width: "65%",
-                }}
-              >
-                {heading}
-              </h2>
+              <h4 className="blog-item-category">{category}</h4>
+              <h3 className="blog-item-heading">{heading}</h3>
             </div>
             <button style={{ width: "max-content" }}>
               <p style={{ fontWeight: "600", fontSize: "16px" }}>READ MORE</p>

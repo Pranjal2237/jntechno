@@ -76,9 +76,8 @@ const page = () => {
             )}
           </div>
         </div>
-      <div
-        className="child"
-        style={{ display: "grid", gridTemplateColumns: "repeat(4,1fr)" }}
+        <div
+        className="child blog-main-container"
       >
         {blog.map(({ category, heading, background }) => (
           <div
@@ -91,11 +90,7 @@ const page = () => {
           >
             <div>
               <h4 className="blog-item-category">{category}</h4>
-              <h3
-                className="blog-item-heading"
-              >
-                {heading}
-              </h3>
+              <h3 className="blog-item-heading">{heading}</h3>
             </div>
             <button style={{ width: "max-content" }}>
               <p style={{ fontWeight: "600", fontSize: "16px" }}>READ MORE</p>
