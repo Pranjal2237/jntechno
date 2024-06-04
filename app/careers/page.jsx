@@ -51,41 +51,26 @@ const page = () => {
           </div>
         </div>
       </div>
-      <div style={{ padding: "1rem 0" }}>
-        <div
-          style={{
-            display: "grid",
-            gridTemplateColumns: "repeat(3,1fr)",
-            gap: "0.3rem",
-            rowGap: "0.3rem",
-          }}
-          className="wrapper"
+      <div
+          className="wrapper jonaren_analysis-box wrapper-block"
         >
           <div
-            style={{
-              gridRow: "1/3",
-              padding: "4rem 1rem",
-              background: "#545454",
-              color: "#fff",
-              textAlign: "center",
-            }}
           >
             <h1
               style={{
-                fontSize: "32px",
                 fontWeight: "600",
                 marginBottom: "2rem",
               }}
             >
               Who we are
             </h1>
-            <h2 style={{ fontSize: "20px", fontWeight: "600" }}>
+            <h3 style={{fontWeight: "600" }}>
               Jonaren Technology
-            </h2>
-            <p style={{ fontWeight: "16px", marginTop: "10px" }}>
+            </h3>
+            <h5 style={{ marginTop: "10px" }}>
               Digital Product Innovation and Engineering Leader helping clients
               design and build innovative products.
-            </p>
+            </h5>
           </div>
           {about.map(({ image, heading, description }) => (
             <>
@@ -93,7 +78,6 @@ const page = () => {
             </>
           ))}
         </div>
-      </div>
       <Banner
         image={careerBanner4}
         heading="Jonaren Technology Champions Tech Diversity Through Capella Partnership."

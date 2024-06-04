@@ -1,8 +1,10 @@
+
 import { Inter,Open_Sans } from "next/font/google";
 import "./globals.css";
 import Form from "@/components/forms";
 import Footer from "@/components/footer";
 import Navigation from "@/components/navigation";
+
 
 const inter = Inter({ subsets: ["latin"] });
 const openSans=Open_Sans({
@@ -15,33 +17,25 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
+  
   return (
     <html lang="en">
       <body className={openSans.className}>
         <Navigation />
         <main>{children}</main>
-        <div
-          style={{ background: "rgba(223, 223, 223, 1)", padding: "4rem 0" }}
-        >
           <div
-            style={{
-              display: "grid",
-              gridTemplateColumns: "0.75fr 3fr",
-            }}
-            className="wrapper"
+            className="wrapper form-container padding-block"
           >
-            <h2
+            <h1
               style={{
-                fontSize: "32px",
                 fontWeight: "600",
                 lineHeight: "35px",
               }}
             >
               Talk To Our Experts
-            </h2>
+            </h1>
             <Form />
           </div>
-        </div>
         <Footer />
       </body>
     </html>

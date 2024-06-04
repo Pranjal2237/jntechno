@@ -71,3 +71,9 @@
   .policies>div>div>a:where(:not(:nth-child(1))){
     border-left: 1px solid #707070;
   }
+
+  @media screen and (max-width:576px) {
+    .footerContent{
+      display: none;
+    }
+  }

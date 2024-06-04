@@ -14,7 +14,7 @@ const Banner = ({
   link="#enquiry"
 }) => {
   return (
-    <div style={{position: "relative" }}>
+    <div className="banner-container">
       <div>
         <Image
           src={image}
@@ -24,24 +24,15 @@ const Banner = ({
       </div>
       <div
         style={{
-          color: "#fff",
-          position: "absolute",
-          zIndex: "10",
-          inset: "0",
-          display: "flex",
-          alignItems: "center",
           justifyContent:justify
         }}
-        className="wrapper"
+        className="wrapper banner-content-container"
       >
         <div
           style={{
-            width: "55%",
-            display: "flex",
-            flexDirection: "column",
-            gap: "1.5rem",
             alignItems: justify,
           }}
+          className="banner-content-items-container"
         >
           <h2
             style={{
@@ -51,14 +42,10 @@ const Banner = ({
           >
             {heading}
           </h2>
-          <p style={{ fontSize: "20px", fontWeight: "500" }}>{description}</p>
+          <h3 style={{fontWeight: "500" }}>{description}</h3>
           {haveButton && (
             <button
-              style={{
-                border: "2px solid #fff",
-                padding: "0.75rem 2rem",
-                fontSize: "18px",
-              }}
+              className="banner-button"
             >
               <Link href={link}>{buttonText}</Link>
             </button>

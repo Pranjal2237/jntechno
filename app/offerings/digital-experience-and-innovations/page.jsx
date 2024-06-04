@@ -129,8 +129,7 @@ const page = () => {
         </div>
       </div>
       <div
-        className="child"
-        style={{ display: "grid", gridTemplateColumns: "repeat(4,1fr)" }}
+        className="child blog-main-container"
       >
         {blog.map(({ category, heading, background }) => (
           <div

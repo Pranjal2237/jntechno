@@ -10,6 +10,7 @@ import { usePathname } from "next/navigation";
 
 const Navigation = () => {
   const [isscroll, setIsScroll] = useState(false);
+  const [isOpen,setIsOpen]=useState(false);
   const pathname = usePathname();
   const [activePath, setActivePath] = useState();
   useEffect(() => {
@@ -40,7 +41,7 @@ const Navigation = () => {
         </div>
         <ul className="nav_items">
           {navigation.map(({ nav, subnav, navLink, haveLink = false }) => (
-            <div>
+            <div className="hide">
               <li>
                 {haveLink ? (
                   <Link
@@ -95,6 +96,83 @@ const Navigation = () => {
                                 <Link
                                   className="subnav-option"
                                   href={`/${navLink}/${headingLink}/${optionLink}`}
+                                >
+                                  {option}
+                                </Link>
+                              ))}
+                          </div>
+                        </div>
+                      ))}
+                  </div>
+                </div>
+              )}
+            </div>
+          ))}
+          <div className="sidebar-icon" onClick={()=>{setIsOpen(!isOpen)}} style={{height:"auto",padding:'5px'}}>
+            <div></div>
+            <div></div>
+            <div></div>
+          </div>
+        </ul>
+        <ul className="sidebar nav_items" style={{display:isOpen?'block':'none'}}>
+          {navigation.map(({ nav, subnav, navLink, haveLink = false }) => (
+            <div >
+              <li>
+                {haveLink ? (
+                  <Link
+                    href={`/${navLink}`}
+                    onClick={()=>{setIsOpen(false)}}
+                  >
+                    <h5
+                      style={
+                        nav.toLowerCase() === activePath
+                          ? { fontWeight: "600" }
+                          : {}
+                      }
+                    >
+                      {nav}
+                    </h5>
+                  </Link>
+                ) : (
+                  <div >
+                    <h5
+                      style={
+                        nav.toLowerCase() === activePath
+                          ? { fontWeight: "600" }
+                          : {}
+                      }
+                    >
+                      {nav}
+                    </h5>
+                  </div>
+                )}
+                <div
+                  className="after"
+                  style={
+                    nav.toLowerCase() === activePath ? { display: "block" } : {}
+                  }
+                ></div>
+              </li>
+              {subnav?.length > 0 && (
+                <div className="subnav">
+                  <div>
+                    {subnav?.length > 0 &&
+                      subnav.map(({ heading, headingLink, options }) => (
+                        <div>
+                          <Link
+                            className="subnav-heading"
+                            href={`/${navLink}/${headingLink}`}
+                            onClick={()=>{setIsOpen(false)}}
+                          >
+                            {heading}
+                          </Link>
+                          <div>
+                            {options?.length > 0 &&
+                              options.map(({ option, optionLink }) => (
+                                <Link
+                                  className="subnav-option"
+                                  href={`/${navLink}/${headingLink}/${optionLink}`}
+                                  onClick={()=>{setIsOpen(false)}}
                                 >
                                   {option}
                                 </Link>
