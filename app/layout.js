@@ -22,7 +22,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={openSans.className}>
         <Navigation />
-        <main>{children}</main>
+        <main >{children}</main>
           <div
             className="wrapper form-container padding-block"
           >

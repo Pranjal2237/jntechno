@@ -152,9 +152,10 @@
   background-color: #E6E7E8;
 }
 
-@media screen and (max-width:576px) {
+@media screen and (max-width:768px) {
    .nav_items{
     display: block;
+    position: absolute;
    }
 
    .hide{

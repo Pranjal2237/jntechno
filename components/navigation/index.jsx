@@ -28,7 +28,7 @@ const Navigation = () => {
     setActivePath(paths);
   }, [pathname]);
   return (
-    <div className={isscroll === true ? "navigation scroll" : "navigation"}>
+    <div className={isscroll === true ? "navigation scroll" : "navigation"} style={{position:isOpen?"absolute":"fixed"}}>
       <div className="nav_box wrapper">
         <div className="nav_logo">
           {
@@ -108,10 +108,10 @@ const Navigation = () => {
               )}
             </div>
           ))}
-          <div className="sidebar-icon" onClick={()=>{setIsOpen(!isOpen)}} style={{height:"auto",padding:'5px'}}>
-            <div></div>
-            <div></div>
-            <div></div>
+          <div className={isOpen?"sidebar-icon active":"sidebar-icon"} onClick={()=>{setIsOpen(!isOpen)}} style={{height:"auto",padding:'5px'}}>
+            <div className="one"></div>
+            <div className="two"></div>
+            <div className="three"></div>
           </div>
         </ul>
         <ul className="sidebar nav_items" style={{display:isOpen?'block':'none'}}>

@@ -90,7 +90,7 @@ const page = () => {
           >
             Design-led Digital Experience Transformation
           </h1>
-          <div style={{ display: "flex", gap: "2.5rem", color: "#333" }}>
+          <div className="digital_transformation-container">
             <p style={{ flexBasis: "100%" }}>
               Jonaren Technology collaborates with organizations to orchestrate
               complete digital transformations across their ecosystems. Through
@@ -106,7 +106,7 @@ const page = () => {
                 Jonaren Technology offers comprehensive digital expertise across
                 various capabilities.
               </p>
-              <ul style={{ marginTop: "10px" }}>
+              <ul style={{ marginTop: "10px",paddingLeft:"15px" }}>
                 <li>
                   Digital, Business, Customer, and Product Strategy Expertise
                   Combined.
