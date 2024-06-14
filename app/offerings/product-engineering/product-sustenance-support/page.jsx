@@ -39,36 +39,26 @@ const page = () => {
             </h5>
           </div>
           <div
-            style={{
-              flexBasis: "100%",
-              display: "flex",
-              justifyContent: "center",
-              alignItems: "center",
-            }}
+            className="about-image-container"
           >
             <Image src={graphics38} style={{ width: "80%" }} />
           </div>
         </div>
       </div>
-      <div style={{ marginBlock: "3rem" }}>
-        <div className="wrapper">
+        <div className="wrapper wrapper-block">
           <h1
-            style={{
-              fontSize: "32px",
-              fontWeight: "600",
-              marginBottom: "0.2rem",
-            }}
+            className="offerings-heading"
           >
             Our connected enterprise offerings
           </h1>
-          <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
+          <h5 className="offerings-content">
             Jonaren Technology’s enterprise-grade Digital Experience platforms help
             enterprises achieve holistic digital transformations. The companies
             demand innovative and customized solutions with intuitive and
             meaningful digital experiences and a seamless end-to-end customer
             journey. Our range of Digital Experience & Innovation offerings 
             include:
-          </p>
+          </h5>
           <div className="offering-container">
             {pssOfferings.map(({ image, title, paragraph }) => (
               <div>
@@ -77,7 +67,6 @@ const page = () => {
             ))}
           </div>
         </div>
-      </div>
       <div
         className="child blog-main-container"
       >

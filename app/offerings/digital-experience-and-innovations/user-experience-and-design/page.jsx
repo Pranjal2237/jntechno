@@ -20,22 +20,22 @@ const page = () => {
         height="560px"
       />
         <div className="wrapper page-heading">
-          <h2
+          <p
           >
             User Experience & Design
-          </h2>
+          </p>
         </div>
       <div className="wrapper about-container wrapper-block">
         <div
           className="about-container"
         >
           <div className="about-content-container">
-            <p>
+            <h5>
               Jonaren Technology partners with industries, from start-ups to Fortune
               500s, to prioritize customer experience and accelerate
               organizational transformation.
-            </p>
-            <p style={{marginTop:'10px'}}>
+            </h5>
+            <h5 style={{marginTop:'10px'}}>
               User Experience Design is pivotal for superior Customer and
               Employee Experience (CX & EX), capturing key aspects of brand
               usability, desirability, and functionality. At Jonaren Technology, our
@@ -44,7 +44,7 @@ const page = () => {
               consumer—at the core, ensuring functionality and an exceptional
               interactive experience. Let us help you create compelling and
               user-centric digital solutions.
-            </p>
+            </h5>
           </div>
           <div
             className="about-image-container"
@@ -59,14 +59,14 @@ const page = () => {
           >
             Offerings
           </h1>
-          <h4 className="offerings-content">
+          <h5 className="offerings-content">
             Jonaren Technology’s enterprise-grade Digital Experience platforms
             help enterprises achieve holistic digital transformations. The
             companies demand innovative and customized solutions with intuitive
             and meaningful digital experiences and a seamless end-to-end
             customer journey. Our range of Digital Experience & Innovation
             offerings include:
-          </h4>
+          </h5>
           <div className="offering-container">
             {userOfferings.map(({ image, title, paragraph }) => (
               <div>

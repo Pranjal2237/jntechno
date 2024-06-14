@@ -116,10 +116,10 @@ const page = () => {
           >
             Life at Jonaren Technology
           </h1>
-          <p style={{ width: "75%", marginBlock: "12px", fontSize: "16px" }}>
+          <h5 className="offerings-content">
             At Jonaren Technology, we place trust, integrity, teamwork, equality, and
             care at the heart of whatever we do.
-          </p>
+          </h5>
           <div className="offering-container">
             {careerEnvironmentArr.map(({ image, title, paragraph }) => (
               <div>

@@ -13,9 +13,9 @@ const page = () => {
         height="560px"
       />
         <div className="wrapper page-heading">
-          <h2>
+          <p>
             Cloud Transformation
-          </h2>
+          </p>
         </div>
       <div className="wrapper about-container wrapper-block">
         <div
@@ -54,14 +54,14 @@ const page = () => {
           >
             Offerings
           </h1>
-          <p className="offerings-content">
+          <h5 className="offerings-content">
             Jonaren Technology’s enterprise-grade Digital Experience platforms
             help enterprises achieve holistic digital transformations. The
             companies demand innovative and customized solutions with intuitive
             and meaningful digital experiences and a seamless end-to-end
             customer journey. Our range of Digital Experience & Innovation
             offerings include:
-          </p>
+          </h5>
           <div className="offering-container">
             {cloudOfferings.map(({ image, title, paragraph }) => (
               <div>

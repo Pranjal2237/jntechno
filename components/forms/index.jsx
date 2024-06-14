@@ -127,10 +127,8 @@ const Form = () => {
         </div>
         {(check!==true && warning!==null) && <p>{warning}</p>}
       </div>
-      <div>
         <button onClick={resetForm} type="button" className={styles.btn} style={{background:'var(--gray)'}}>RESET</button>
         <button type="submit" className={styles.btn} style={{background:'var(--orange)'}}>SUBMIT</button>
-      </div>
     </form>
   );
 };

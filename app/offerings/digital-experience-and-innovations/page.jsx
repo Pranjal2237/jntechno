@@ -4,7 +4,7 @@ import Banner from "@/components/banner";
 import Active from "@/components/cards/active";
 import Carousel from "@/components/carousel";
 import { blog, digitalBannerCarousel, innovationOfferings } from "@/constant";
-import { digital, graphics10, homeBanner9, innovationBanner2 } from "@/public";
+import { digital, graphics10, innovationBanner2 } from "@/public";
 import Image from "next/image";
 
 const page = () => {
@@ -12,15 +12,10 @@ const page = () => {
     <div>
       <Carousel autoplay={true} BannerCarousel={digitalBannerCarousel} />
       <div className="wrapper page-heading">
-        <h2
-          style={{
-            fontSize: "23px",
-            color: "#333",
-            fontWeight: "var(--fw-bold)",
-          }}
+        <p
         >
           Digital Experience & Innovations
-        </h2>
+        </p>
       </div>
       <div className="wrapper about-container wrapper-block">
         <div className="about-container">
@@ -49,13 +44,13 @@ const page = () => {
       </div>
       <div className="wrapper wrapper-block">
         <h1 className="offerings-heading">Offerings</h1>
-        <h4 className="offerings-content">
+        <h5 className="offerings-content">
           Jonaren Technology's robust Digital Experience platforms empower
           enterprises in comprehensive digital transformations. Firms seek
           tailored solutions that deliver intuitive, impactful digital
           experiences and streamline customer journeys seamlessly. Our suite of
           Digital Experience & Innovation services encompasses:
-        </h4>
+        </h5>
         <div className="offering-container">
           {innovationOfferings.map(
             ({ image, title, paragraph, haveLink, link }) => (

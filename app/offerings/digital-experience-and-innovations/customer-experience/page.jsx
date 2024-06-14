@@ -22,7 +22,7 @@ const page = () => {
           <p
           >
             Customer Experience
-          </p >
+          </p>
         </div>
       <div className="wrapper about-container wrapper-block">
         <div
@@ -62,14 +62,14 @@ const page = () => {
           >
             Offerings
           </h1>
-          <h4 className="offerings-content">
+          <h5 className="offerings-content">
             Jonaren Technology’s enterprise-grade Digital Experience platforms
             help enterprises achieve holistic digital transformations. The
             companies demand innovative and customized solutions with intuitive
             and meaningful digital experiences and a seamless end-to-end
             customer journey. Our range of Digital Experience & Innovation
             offerings include:
-          </h4>
+          </h5>
           <div className="offering-container">
             {customerOfferings.map(
               ({ image, title, paragraph, haveLink = false, link = "/" }) => (

@@ -84,7 +84,6 @@ h5{
   top: 0;
   color: #333;
   font-weight: var(--fw-bold);
-  z-index: 1000;
   font-size: 23px;
 }
 
@@ -99,7 +98,7 @@ h5{
 }
 
 .about-values-item{
-  flex: 0 0 30%;
+  flex: 0 1 28%;
   display: flex;
   gap: 1rem;
 }
@@ -178,7 +177,7 @@ h5{
 }
 
 .offerings_static-card{
-  flex: 0 0 30%;
+  flex: 1 1 20%;
 }
 
 .offerings_static-card-image{
@@ -330,6 +329,7 @@ grid-column: 3/5;
   z-index: 100000;
   background-color:#FFF7F2;
   color: #333333;
+  overflow: auto;
 }
 
 .sidebar-icon{
@@ -380,15 +380,32 @@ grid-column: 3/5;
   font-size: 10px;
 }
 
-@media screen and (max-width:var(--breakpoint-xl)) {
+@media screen and (max-width:1024px) {
   .wrapper{
     padding-inline:6rem;
   }
+
+  .offerings-content{
+    width: 100%;
+  }
+
+  .offering-container>*{
+    flex: 0 0 47%;
+  }
+
+  .banner-content-items-container{
+    width: 80%;
+  }
+
+  h3{
+    font-size: 17px;
+  }
+
+  h2{
+    font-size: 20px;
+  }
 }
 
-@media screen and (max-width:var(--breakpoint-md)) {
-  
-}
 
 @media screen and (max-width:768px) {
   .wrapper{
@@ -401,14 +418,6 @@ grid-column: 3/5;
 
   .padding-block{
     padding-block: 2rem;
-  }
-
-  h2{
-    font-size: 20px;
-  }
-
-  h3{
-    font-size: 17px;
   }
    
   .banner-content-items-container{
@@ -459,13 +468,6 @@ grid-column: 3/5;
   flex-direction: column;
 }
 
-.offerings-content{
-  width: 100%;
-}
-
-.offering-container>*{
-  flex: 1 1 47%;
-}
 
 .offerings_static_cards-container{
   grid-template-columns: 1fr;

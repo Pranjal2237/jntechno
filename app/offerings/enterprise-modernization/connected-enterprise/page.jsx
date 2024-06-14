@@ -10,10 +10,10 @@ const page = () => {
     <div>
       <Banner image={connectedEnterpriseBanner} heading="Transforming Enterprises: Revolutionizing Companies and Competitive Landscapes" height="560px" />
         <div className="wrapper page-heading">
-          <h2
+          <p
           >
            Connected Enterprise
-          </h2>
+          </p>
         </div>
       <div className="wrapper about-container wrapper-block">
         <div
@@ -52,14 +52,14 @@ const page = () => {
           >
             Our connected enterprise offerings
           </h1>
-          <p className="offerings-content">
+          <h5 className="offerings-content">
             Jonaren Technology’s enterprise-grade Digital Experience platforms help
             enterprises achieve holistic digital transformations. The companies
             demand innovative and customized solutions with intuitive and
             meaningful digital experiences and a seamless end-to-end customer
             journey. Our range of Digital Experience & Innovation offerings
             include:
-          </p>
+          </h5>
           <div className="offering-container">
             {connectedOfferings.map(({ image, title, paragraph }) => (
               <div>

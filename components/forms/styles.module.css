@@ -32,20 +32,21 @@
   }
   
   .btn{
-    padding: 0.75rem 4.2rem;
+    padding: 0.75rem 0;
     font-weight: 600;
     font-size: 18px;
     color: #fff;
+    width: 100%;
   }
   
-  .enquiryForm>div:last-child{
+  /* .enquiryForm>div:last-child{
     grid-column: 2/3;
     display: flex;
     justify-content: space-between;
     margin-top: 1.5rem;
-  }
+  } */
 
-  @media screen and (max-width:768px) {
+  @media screen and (max-width:1024px) {
     /* .btn{
       padding: 0.5rem 1rem;
       font-size: 16px;
