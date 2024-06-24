@@ -37,7 +37,7 @@ const page = () => {
                 boundaries of technology and make a difference to the people and
                 the world around us.
               </h5>
-              <h5>
+              <h5 style={{marginTop:'10px'}}>
                 Are you an IT whiz with a thirst for challenge? Look no further!
                 Jonaren Technology is constantly seeking passionate individuals to join
                 our team. We offer more than just a career; we offer the chance

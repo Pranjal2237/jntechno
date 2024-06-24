@@ -30,7 +30,7 @@ const page = () => {
               and empower your business with our revolutionary workforce
               scheduling solutions.
             </h5>
-            <h5>
+            <h5 style={{marginTop:'10px'}}>
               Jonaren Technology’s Workforce Scheduling Software utilizes innovative
               artificial intelligence to optimize your scheduling process. Our
               Workforce Scheduler generates optimal schedules in a fraction of

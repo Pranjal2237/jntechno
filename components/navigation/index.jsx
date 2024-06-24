@@ -40,7 +40,7 @@ const Navigation = () => {
           </Link>
           }
         </div>
-        <div className="nav_toggle" onClick={()=>{setIsOpen(!isOpen)}}>
+        <div className={isOpen?"nav_toggle active":"nav_toggle"} onClick={()=>{setIsOpen(!isOpen)}}>
           <div className="toggle"></div>
           <div className="toggle"></div>
           <div className="toggle"></div>

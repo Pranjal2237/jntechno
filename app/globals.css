@@ -447,6 +447,10 @@ grid-column: 3/5;
   gap: 10px;
 }
 
+.jonaren_analysis-box>img{
+  width: 100%;
+}
+
 .form-container{
   grid-template-columns: 1fr;
 }

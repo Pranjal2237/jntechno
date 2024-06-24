@@ -43,7 +43,7 @@ const page = () => {
           <div
             className="about-image-container"
           >
-            <Image src={graphics9} style={{ width: "80%" }} />
+            <Image src={graphics9} />
           </div>
         </div>
       </div>
