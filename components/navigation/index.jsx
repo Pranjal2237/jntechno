@@ -55,6 +55,7 @@ const Navigation = () => {
                   <Link
                     href={`/${navLink}`}
                     className="nav_link"
+                    onClick={()=>{setIsOpen(false)}}
                   >
                     <h5
                       style={

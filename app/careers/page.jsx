@@ -89,7 +89,7 @@ const page = () => {
         <div className="wrapper">
           <h1
             style={{
-              fontWeight: "600",
+              fontWeight: "700",
               marginBottom: "0.2rem",
             }}
           >
@@ -110,7 +110,7 @@ const page = () => {
           <h1
             style={{
               fontSize: "32px",
-              fontWeight: "600",
+              fontWeight: "700",
               marginBottom: "0.2rem",
             }}
           >

@@ -12,7 +12,7 @@ const page = () => {
         <div className="wrapper page-heading">
           <p
           >
-           Connected Enterprise
+           Workplace
           </p>
         </div>
       <div className="wrapper about-container wrapper-block">

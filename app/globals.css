@@ -294,6 +294,7 @@ grid-column: 3/5;
 }
 
 .offering-container{
+  margin-top: 1rem;
   display: flex;
   flex-wrap: wrap;
   gap: 1.5rem;
