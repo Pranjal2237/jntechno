@@ -77,6 +77,7 @@ import {
   qinsightBenifits1,
   offerings15,
   ACL,
+  enterpriseAgilityBanner,
 } from "@/public";
 
 export const HomBannerCarousel = [
@@ -120,7 +121,7 @@ export const HomBannerCarousel = [
     haveButton:true,
     buttonText:"LEARN MORE",
     link:"",
-    image: homeBanner5,
+    image: enterpriseAgilityBanner,
     heading:
       "Webinar: Secureline - Boosting DevSecOps Security with Empowerment",
     description: "April 25th, 2024 - 8:30 am PST / 9:00 pm IST",
