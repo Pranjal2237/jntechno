@@ -21,7 +21,7 @@ export async function GET(request) {
     
     return NextResponse.json(userVerified,{status:200});
   } catch (error) {
-    console.log(error);
+
     return NextResponse.json('invalid creadentials',{status:404})
   }
 }
