@@ -901,10 +901,13 @@ export const navigation = [
   },
   {
     nav: "Works",
+    navLink:"works",
+    haveLink:true
   },
   {
     nav: "Blogs",
-    navLink: "blog",
+    navLink: "blogs",
+    haveLink:true
   },
   {
     nav: "Partners",
@@ -921,6 +924,43 @@ export const navigation = [
     haveLink:true
   },
 ];
+
+export const adminNav=[
+  {
+    heading:"works",
+    options:[
+      {
+        option:"new work",
+        optionLink:"works/new-work"
+      },
+      {
+        option:"all works",
+        optionLink:"works"
+      },
+      {
+        option:"edit work",
+        optionLink:"works/edit-work"
+      },
+    ]
+  },
+  {
+    heading:"blogs",
+    options:[
+      {
+        option:"new blog",
+        optionLink:"blogs/new-blog"
+      },
+      {
+        option:"all blogs",
+        optionLink:"blogs"
+      },
+      {
+        option:"edit blog",
+        optionLink:"blogs/edit-blog"
+      },
+    ]
+  }
+]
 
 export const contact = [
   {

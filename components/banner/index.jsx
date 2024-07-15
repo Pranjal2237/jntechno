@@ -9,17 +9,20 @@ const Banner = ({
   description,
   haveButton = false,
   buttonText,
-  height = "auto",
+  height = "560px",
   justify="flex-start",
-  link="#enquiry"
+  link="#enquiry",
+  width="100%"
 }) => {
   return (
     <div className="banner-container">
       <div>
         <Image
           src={image}
-          style={{ height: height, objectFit: "cover",width:'100%' }}
+          style={{  objectFit: "cover",height:height }}
           alt="banner image"
+          width={width}
+          height={height}
         />
       </div>
       <div

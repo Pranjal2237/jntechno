@@ -5,23 +5,28 @@ import { NextResponse } from "next/server"
 
 dbConnect();
 
-export function GET()
+export async function GET(request)
 {
-    const works=[
-        'work-1','work-2'
-    ]
-
-    return NextResponse.json({works})
+    try {
+        const query=request.nextUrl.searchParams;
+        const page=query.get('page');
+        const numberOfPage=6;
+        const total=await Works.find().countDocuments();
+        const works=await Works.find().limit(numberOfPage).skip(numberOfPage*(page-1));
+        const newWorks={total,works}
+        console.log(newWorks);
+        return NextResponse.json(newWorks,{status:200})
+    } catch (error) {
+        
+    }
 }
 
 export async function POST(request){
     try {
-        const {heading,bannerPath,industry,services}=await request.json();
-        console.log(heading)
+        const {heading,bannerPath,industry,services,overview,challenges,benifits}=await request.json();
         const newWork=new Works({
-            heading,bannerPath,industry,services
+            heading,bannerPath,industry,services,overview,challenges,benifits
         })
-        console.log(heading);
         await newWork.save();
         return NextResponse.json(newWork,{status:201})
     } catch (error) {

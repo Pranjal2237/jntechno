@@ -11,7 +11,7 @@ const workSchema=new mongoose.Schema({
     },
     industry:{
         type:String,
-        required:[true,'spwcify industry']
+        required:[true,'specify industry']
     },
     services:{
         type:String,

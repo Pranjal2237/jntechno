@@ -4,6 +4,7 @@ import "./globals.css";
 import Form from "@/components/forms";
 import Footer from "@/components/footer";
 import Navigation from "@/components/navigation";
+import { AppWrapepr } from "@/context/userContext";
 
 
 const inter = Inter({ subsets: ["latin"] });
@@ -17,10 +18,12 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
+
   
   return (
     <html lang="en">
       <body className={openSans.className}>
+      <AppWrapepr>
         <Navigation />
         <main >{children}</main>
           <div
@@ -37,6 +40,7 @@ export default function RootLayout({ children }) {
             <Form />
           </div>
         <Footer />
+        </AppWrapepr>
       </body>
     </html>
   );
